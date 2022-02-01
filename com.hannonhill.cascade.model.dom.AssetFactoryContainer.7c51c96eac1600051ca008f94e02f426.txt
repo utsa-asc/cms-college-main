@@ -1,0 +1,9 @@
+getDescription:java.lang.String:
+getGroups:java.lang.String:Advanced Velocity
+getParentContainer:com.hannonhill.cascade.model.dom.AssetFactoryContainer:7c51c7cdac1600051ca008f916f4c7af|/|College-MAIN
+getParentContainer:com.hannonhill.cascade.model.dom.AssetFactoryContainer:7c51c7cdac1600051ca008f916f4c7af|/|College-MAIN
+isRoot:java.lang.Boolean:false
+getName:java.lang.String:Blocks
+getPath:java.lang.String:Blocks
+getPermissions:com.hannonhill.cascade.model.dom.Permissions:7c51c96eac1600051ca008f981451231
+isCurrentVersion:java.lang.Boolean:true

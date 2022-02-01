@@ -1,0 +1,4 @@
+<script src="college-dls/js/college-dls.min.js"></script>
+<!-- make sure we also copy our dependency map file for extra debugging in dev tools -->
+<script src="college-dls/js/bootstrap.js.map"></script>
+<script src="college-dls/js/jquery.min.map"></script>

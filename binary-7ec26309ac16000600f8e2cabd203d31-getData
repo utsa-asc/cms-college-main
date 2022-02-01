@@ -1,0 +1,3561 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Data xmlns="http://www.digitalmeasures.com/schema/data" xmlns:dmd="http://www.digitalmeasures.com/schema/data-metadata"
+	dmd:date="2022-01-21">
+	<Record userId="2109405" username="zew310" dmd:surveyId="18001962">
+		<dmd:IndexEntry indexKey="ADMIN_FTPT" entryKey="FT" text="FT" />
+		<dmd:IndexEntry indexKey="ADMIN_RANK" entryKey="Assistant Professor" text="Assistant Professor" />
+		<dmd:IndexEntry indexKey="ADMIN_TENURE" entryKey="Tenure-Track" text="Tenure-Track" />
+		<dmd:IndexEntry indexKey="COLLEGE" entryKey="College of Liberal and Fine Arts"
+			text="College of Liberal and Fine Arts" />
+		<dmd:IndexEntry indexKey="DEPARTMENT" entryKey="English" text="English" />
+		<PCI id="168412104704" dmd:originalSource="IMPORT" dmd:created="2018-08-20T15:51:36"
+			dmd:lastModifiedSource="MANUAL" dmd:lastModified="2021-09-15T13:57:52">
+			<BANNER_ID>@01788707</BANNER_ID>
+			<EMPID>6001283244</EMPID>
+			<PIDM>1707337</PIDM>
+			<PREFIX>Dr.</PREFIX>
+			<FNAME>Kerry</FNAME>
+			<MNAME />
+			<LNAME>Sinanan</LNAME>
+			<SUFFIX />
+			<FULL_NAME />
+			<EMAIL>KERRY.SINANAN@UTSA.EDU</EMAIL>
+			<BUILDING>MAIN BUILDING</BUILDING>
+			<ROOMNUM />
+			<OPHONE1>210</OPHONE1>
+			<OPHONE2>458</OPHONE2>
+			<OPHONE3>4781</OPHONE3>
+			<DPHONE1 />
+			<DPHONE2 />
+			<DPHONE3 />
+			<FAX1 />
+			<FAX2 />
+			<FAX3 />
+			<WEBSITE>http://colfa.utsa.edu/english/sinanan.html</WEBSITE>
+			<DTM_DOB>April</DTM_DOB>
+			<DTD_DOB>03</DTD_DOB>
+			<DTY_DOB>1973</DTY_DOB>
+			<DOB_START>1973-04-03</DOB_START>
+			<DOB_END>1973-04-03</DOB_END>
+			<GENDER>Female</GENDER>
+			<ETHNICITY>Not Hispanic or Latino</ETHNICITY>
+			<RACE>Asian</RACE>
+			<CITIZEN>No</CITIZEN>
+			<BIO>Kerry Sinanan received her Ph.D. from Trinity College, Dublin in 2003. She has taught at universities
+				in the UK and Ireland. She is now completing her monograph, Slave Masters and the Language of Self and
+				has co-edited the volume, Romanticism, Sincerity and Authenticity (2010). She has received research
+				fellowships from the Moore Institute at the National University of Ireland, Galway, the Beinecke
+				Library, the James Ford Bell Library and in 2017 she was a Visiting Scholar at the Yale Center for
+				British Art where she began a new project on representations of slave mothers.</BIO>
+			<TEACH_UNDERGRAD>Senior Seminar: Slavery, Race, and Literature&lt;br&gt;British Literature
+				II&lt;br&gt;Romantic Literature Upper Division&lt;br&gt;Slavery, Gender, and the Caribbean Novel. Senior
+				Seminar&lt;br&gt;&lt;br&gt;</TEACH_UNDERGRAD>
+			<TEACH_GRAD>Nineteenth-Century Transatlantic Literature. Post-graduate (Fall, 2018).&lt;br&gt;The Black
+				Atlantic: Post-graduate and Senior Seminar (Fall 2020, Spring, 2021, Fall 2021).&lt;br&gt;Restoration
+				and Eighteenth-Century Literature: Slavery and Race. &lt;br&gt;&lt;br&gt;</TEACH_GRAD>
+			<TEACHING_INTERESTS>Eighteenth and nineteenth century literature of the Black Atlantic&lt;br&gt;Black and
+				Caribbean Studies&lt;br&gt;Slavery, 'Race' and literature&lt;br&gt;Postcolonial/Decolonial Literature
+			</TEACHING_INTERESTS>
+			<RESEARCH_INTERESTS>Eighteenth and nineteenth century literature of the Black Atlantic&lt;br&gt;Black and
+				Caribbean Studies&lt;br&gt;Slavery, 'Race' and literature&lt;br&gt;Postcolonial/Decolonial Literature
+			</RESEARCH_INTERESTS>
+			<REFERENCES>Professor Tita Chico&lt;br&gt;Professor Nicole Aljoe&lt;br&gt;Professor Tim Watson</REFERENCES>
+			<UPLOAD_PHOTO />
+		</PCI>
+		<ADMIN_ASSIGNMENTS id="180800231424" dmd:originalSource="MANUAL" dmd:created="2019-02-08T14:29:20"
+			dmd:lastModifiedSource="SYSTEM" dmd:lastModified="2019-10-31T13:56:35" dmd:startDate="2013-09-01"
+			dmd:endDate="2016-08-30">
+			<ROLE>Coordinator</ROLE>
+			<ROLE_OTHER />
+			<INSTITUTION>University of the West of England</INSTITUTION>
+			<SCOPE>College</SCOPE>
+			<NUMHOURS>400</NUMHOURS>
+			<DESC>To oversee the quality and delivery of joint English Programs across Colleges.</DESC>
+			<DTM_START>September</DTM_START>
+			<DTD_START>01</DTD_START>
+			<DTY_START>2013</DTY_START>
+			<START_START>2013-09-01</START_START>
+			<START_END>2013-09-01</START_END>
+			<DTM_END>August</DTM_END>
+			<DTD_END>30</DTD_END>
+			<DTY_END>2016</DTY_END>
+			<END_START>2016-08-30</END_START>
+			<END_END>2016-08-30</END_END>
+		</ADMIN_ASSIGNMENTS>
+		<ADMIN_ASSIGNMENTS id="180800407552" dmd:originalSource="MANUAL" dmd:created="2019-02-08T14:31:21"
+			dmd:lastModifiedSource="SYSTEM" dmd:lastModified="2019-10-31T13:56:35" dmd:startDate="2010-09-01"
+			dmd:endDate="2013-08-30">
+			<ROLE>Assistant Department Chair</ROLE>
+			<ROLE_OTHER />
+			<INSTITUTION>University of the West of England</INSTITUTION>
+			<SCOPE>College</SCOPE>
+			<NUMHOURS>500</NUMHOURS>
+			<DESC>Oversight of Departmental activities. Staff management.</DESC>
+			<DTM_START>September</DTM_START>
+			<DTD_START>01</DTD_START>
+			<DTY_START>2010</DTY_START>
+			<START_START>2010-09-01</START_START>
+			<START_END>2010-09-01</START_END>
+			<DTM_END>August</DTM_END>
+			<DTD_END>30</DTD_END>
+			<DTY_END>2013</DTY_END>
+			<END_START>2013-08-30</END_START>
+			<END_END>2013-08-30</END_END>
+		</ADMIN_ASSIGNMENTS>
+		<ADMIN_ASSIGNMENTS id="180800524288" dmd:originalSource="MANUAL" dmd:created="2019-02-08T14:32:55"
+			dmd:lastModifiedSource="SYSTEM" dmd:lastModified="2019-10-31T13:56:35" dmd:startDate="2008-09-01"
+			dmd:endDate="2010-08-30">
+			<ROLE>Associate Dean</ROLE>
+			<ROLE_OTHER />
+			<INSTITUTION>University of the West of England</INSTITUTION>
+			<SCOPE>College</SCOPE>
+			<NUMHOURS>400</NUMHOURS>
+			<DESC>Oversight of delivery of Undergraduate programs in College fo Humanities and Social Sciences.</DESC>
+			<DTM_START>September</DTM_START>
+			<DTD_START>01</DTD_START>
+			<DTY_START>2008</DTY_START>
+			<START_START>2008-09-01</START_START>
+			<START_END>2008-09-01</START_END>
+			<DTM_END>August</DTM_END>
+			<DTD_END>30</DTD_END>
+			<DTY_END>2010</DTY_END>
+			<END_START>2010-08-30</END_START>
+			<END_END>2010-08-30</END_END>
+		</ADMIN_ASSIGNMENTS>
+		<AWARDHONOR id="225577492480" dmd:originalSource="MANUAL" dmd:created="2021-09-15T14:01:07"
+			dmd:lastModifiedSource="MANUAL" dmd:lastModified="2021-09-15T14:01:07" dmd:startDate="2021-04-01"
+			dmd:endDate="2021-04-01">
+			<TYPE>Award</TYPE>
+			<NAME />
+			<NAME_OTHER>Rakow Fellowship</NAME_OTHER>
+			<ORG>Corning Museum of Glass. </ORG>
+			<PURPOSE>Scholarship/Research</PURPOSE>
+			<SCOPE>International</SCOPE>
+			<DESC>&lt;i&gt;Transparency and the Black Atlantic: Glass, and the Material Culture of Whiteness
+				&lt;/i&gt;examine both the materiality and affect of glass in forging imperial whiteness. </DESC>
+			<DTM_DATE>April</DTM_DATE>
+			<DTD_DATE>1</DTD_DATE>
+			<DTY_DATE>2021</DTY_DATE>
+			<DATE_START>2021-04-01</DATE_START>
+			<DATE_END>2021-04-01</DATE_END>
+		</AWARDHONOR>
+		<AWARDHONOR id="225577684992" dmd:originalSource="MANUAL" dmd:created="2021-09-15T14:06:00"
+			dmd:lastModifiedSource="MANUAL" dmd:lastModified="2021-09-15T14:06:01" dmd:startDate="2021-02-01"
+			dmd:endDate="2021-02-01">
+			<TYPE>Award</TYPE>
+			<NAME />
+			<NAME_OTHER>INTRA Grant UTSA</NAME_OTHER>
+			<ORG>UTSA</ORG>
+			<PURPOSE>Scholarship/Research</PURPOSE>
+			<SCOPE>International</SCOPE>
+			<DESC>Book, &lt;i&gt;&lt;i&gt;&lt;i&gt;Myths of Mastery: &lt;/i&gt;Traders, Planters and Colonial Agents
+				1750-1834 &lt;/i&gt;&lt;/i&gt;examines the writings of slavery’s agents; slave-ship captains, planters,
+				slave traders, overseers and colonial recruits, from 1750-1834.</DESC>
+			<DTM_DATE>February</DTM_DATE>
+			<DTD_DATE>1</DTD_DATE>
+			<DTY_DATE>2021</DTY_DATE>
+			<DATE_START>2021-02-01</DATE_START>
+			<DATE_END>2021-02-01</DATE_END>
+		</AWARDHONOR>
+		<AWARDHONOR id="180800856064" dmd:originalSource="MANUAL" dmd:created="2019-02-08T14:37:18"
+			dmd:lastModifiedSource="MANUAL" dmd:lastModified="2019-02-08T14:37:18" dmd:startDate="2016-09-01"
+			dmd:endDate="2016-09-01">
+			<TYPE>Award</TYPE>
+			<NAME />
+			<NAME_OTHER>Short-term Research Fellowship</NAME_OTHER>
+			<ORG>James Ford Bell Library, University of Minnesota</ORG>
+			<PURPOSE>Scholarship/Research</PURPOSE>
+			<SCOPE>International</SCOPE>
+			<DESC>Research Project: ‘The diaries of John Stedman’</DESC>
+			<DTM_DATE>September</DTM_DATE>
+			<DTD_DATE>01</DTD_DATE>
+			<DTY_DATE>2016</DTY_DATE>
+			<DATE_START>2016-09-01</DATE_START>
+			<DATE_END>2016-09-01</DATE_END>
+		</AWARDHONOR>
+		<AWARDHONOR id="180801036288" dmd:originalSource="MANUAL" dmd:created="2019-02-08T14:39:16"
+			dmd:lastModifiedSource="MANUAL" dmd:lastModified="2019-02-08T14:39:16" dmd:startDate="2006-10-01"
+			dmd:endDate="2006-10-01">
+			<TYPE>Award</TYPE>
+			<NAME />
+			<NAME_OTHER>Arts Humanities Research Council. Research Grant, UK</NAME_OTHER>
+			<ORG>AHRC</ORG>
+			<PURPOSE>Scholarship/Research</PURPOSE>
+			<SCOPE>National</SCOPE>
+			<DESC>Slave Masters and the Language of Self: Traders, Planters and Colonial Agents, 1750-1833</DESC>
+			<DTM_DATE>October</DTM_DATE>
+			<DTD_DATE>01</DTD_DATE>
+			<DTY_DATE>2006</DTY_DATE>
+			<DATE_START>2006-10-01</DATE_START>
+			<DATE_END>2006-10-01</DATE_END>
+		</AWARDHONOR>
+		<AWARDHONOR id="180801228800" dmd:originalSource="MANUAL" dmd:created="2019-02-08T14:40:47"
+			dmd:lastModifiedSource="MANUAL" dmd:lastModified="2019-02-08T14:40:47" dmd:startDate="2003-09-01"
+			dmd:endDate="2003-09-01">
+			<TYPE>Award</TYPE>
+			<NAME />
+			<NAME_OTHER>Early Career Research Fellowship </NAME_OTHER>
+			<ORG>Oxford Brookes University</ORG>
+			<PURPOSE>Scholarship/Research</PURPOSE>
+			<SCOPE>National</SCOPE>
+			<DESC />
+			<DTM_DATE>September</DTM_DATE>
+			<DTD_DATE>01</DTD_DATE>
+			<DTY_DATE>2003</DTY_DATE>
+			<DATE_START>2003-09-01</DATE_START>
+			<DATE_END>2003-09-01</DATE_END>
+		</AWARDHONOR>
+		<AWARDHONOR id="180801439744" dmd:originalSource="MANUAL" dmd:created="2019-02-08T14:41:43"
+			dmd:lastModifiedSource="MANUAL" dmd:lastModified="2019-02-08T14:41:44" dmd:startDate="2002-09-01"
+			dmd:endDate="2002-09-01">
+			<TYPE>Award</TYPE>
+			<NAME />
+			<NAME_OTHER>Postdoctoral Research Fellowship</NAME_OTHER>
+			<ORG>Moore Institute, National University of Ireland, Galway</ORG>
+			<PURPOSE>Scholarship/Research</PURPOSE>
+			<SCOPE>International</SCOPE>
+			<DESC>Research project: ‘Cross-cultural Travel’.</DESC>
+			<DTM_DATE>September</DTM_DATE>
+			<DTD_DATE>01</DTD_DATE>
+			<DTY_DATE>2002</DTY_DATE>
+			<DATE_START>2002-09-01</DATE_START>
+			<DATE_END>2002-09-01</DATE_END>
+		</AWARDHONOR>
+		<EDUCATION id="171064268800" dmd:originalSource="MANAGE_DATA" dmd:created="2018-10-15T10:15:21"
+			dmd:lastModifiedSource="MANAGE_DATA" dmd:lastModified="2019-08-08T12:29:40" dmd:startDate="2003-01-01"
+			dmd:endDate="2003-01-31" dmd:primaryKey="Doctor of Philosophy|2003">
+			<DEG>Doctor of Philosophy</DEG>
+			<DEGOTHER />
+			<SCHOOL>Trinity College Dublin</SCHOOL>
+			<LOCATION>Dublin, Ireland</LOCATION>
+			<MAJOR>Philosophy</MAJOR>
+			<SUPPAREA />
+			<DISSTITLE>Textual economies: The performative self in the writings of John Newton, Olaudah Equiano and Mary
+				Prince</DISSTITLE>
+			<DISTINCTION />
+			<HIGHEST>Yes</HIGHEST>
+			<TERMINAL>Yes</TERMINAL>
+			<DTM_COMP>January</DTM_COMP>
+			<YR_COMP>2003</YR_COMP>
+			<COMP_START>2003-01-01</COMP_START>
+			<COMP_END>2003-01-31</COMP_END>
+			<TRANSCRIPT>zew310/education/Kerry Sinanan - Ph.D.-1.pdf</TRANSCRIPT>
+		</EDUCATION>
+		<FACDEV id="225579640832" dmd:originalSource="MANUAL" dmd:created="2021-09-15T14:23:01"
+			dmd:lastModifiedSource="MANUAL" dmd:lastModified="2021-09-15T14:23:01" dmd:startDate="2021-08-16"
+			dmd:endDate="2021-08-20">
+			<TYPE>Workshop</TYPE>
+			<TYPEOTHER />
+			<TITLE>Innovation Digital Learning Academy</TITLE>
+			<ORG>UTSA</ORG>
+			<CITY>San Antonio</CITY>
+			<STATE>TX</STATE>
+			<COUNTRY />
+			<CHOURS />
+			<NUMHOURS_YEARLY />
+			<DESC>Innovation Digitial Learning Academy for online pedagogy. </DESC>
+			<DTM_START>August</DTM_START>
+			<DTD_START>16</DTD_START>
+			<DTY_START>2021</DTY_START>
+			<START_START>2021-08-16</START_START>
+			<START_END>2021-08-16</START_END>
+			<DTM_END>August</DTM_END>
+			<DTD_END>20</DTD_END>
+			<DTY_END>2021</DTY_END>
+			<END_START>2021-08-20</END_START>
+			<END_END>2021-08-20</END_END>
+		</FACDEV>
+		<FACDEV id="225579978752" dmd:originalSource="MANUAL" dmd:created="2021-09-15T14:27:43"
+			dmd:lastModifiedSource="MANUAL" dmd:lastModified="2021-09-15T14:27:43" dmd:startDate="2021-07-19"
+			dmd:endDate="2021-07-23">
+			<TYPE>Other</TYPE>
+			<TYPEOTHER>Mellon Foundation educators' Academy</TYPEOTHER>
+			<TITLE>Ethnic Studies Educators' Academy (ESEA)</TITLE>
+			<ORG>UTSA and Alamo College</ORG>
+			<CITY>San Antonio</CITY>
+			<STATE>TX</STATE>
+			<COUNTRY />
+			<CHOURS />
+			<NUMHOURS_YEARLY>20</NUMHOURS_YEARLY>
+			<DESC> &lt;b&gt;Ethnic Studies Educators' Academy&lt;/b&gt;&lt;b&gt; (ESEA)&lt;/b&gt;,</DESC>
+			<DTM_START>July</DTM_START>
+			<DTD_START>19</DTD_START>
+			<DTY_START>2021</DTY_START>
+			<START_START>2021-07-19</START_START>
+			<START_END>2021-07-19</START_END>
+			<DTM_END>July</DTM_END>
+			<DTD_END>23</DTD_END>
+			<DTY_END>2021</DTY_END>
+			<END_START>2021-07-23</END_START>
+			<END_END>2021-07-23</END_END>
+		</FACDEV>
+		<MEDCONT id="225580062720" dmd:originalSource="MANUAL" dmd:created="2021-09-15T14:29:50"
+			dmd:lastModifiedSource="MANUAL" dmd:lastModified="2021-09-15T14:29:50" dmd:startDate="2020-05-01"
+			dmd:endDate="2020-05-31">
+			<TYPE>Internet</TYPE>
+			<NAME>Moore Institute COVID-19 Response Webinar. </NAME>
+			<DESC>&lt;i&gt;Slavery, Race and Covid-19 Response Webinar&lt;/i&gt;</DESC>
+			<UPLOAD_FILE>zew310/medcont/Webinar Video Slavery Race and Covid-19 - Moore Institute-1.html</UPLOAD_FILE>
+			<DTM_DATE>May</DTM_DATE>
+			<DTD_DATE />
+			<DTY_DATE>2020</DTY_DATE>
+			<DATE_START>2020-05-01</DATE_START>
+			<DATE_END>2020-05-31</DATE_END>
+		</MEDCONT>
+		<MEDCONT id="180804626432" dmd:originalSource="MANUAL" dmd:created="2019-02-08T15:28:21"
+			dmd:lastModifiedSource="MANUAL" dmd:lastModified="2019-02-08T15:28:21" dmd:startDate="2017-06-23"
+			dmd:endDate="2017-06-23">
+			<TYPE>Internet</TYPE>
+			<NAME>Podcast</NAME>
+			<DESC>‘Representations of slave mothers in the British Caribbean’: podcast for the Gilder Lehrman Centre for
+				the Study of Slavery, Resistance and Abolition, Yale University. </DESC>
+			<UPLOAD_FILE />
+			<DTM_DATE>June</DTM_DATE>
+			<DTD_DATE>23</DTD_DATE>
+			<DTY_DATE>2017</DTY_DATE>
+			<DATE_START>2017-06-23</DATE_START>
+			<DATE_END>2017-06-23</DATE_END>
+		</MEDCONT>
+		<MEDCONT id="180804734976" dmd:originalSource="MANUAL" dmd:created="2019-02-08T15:30:10"
+			dmd:lastModifiedSource="MANUAL" dmd:lastModified="2019-02-08T15:30:11" dmd:startDate="2015-01-11"
+			dmd:endDate="2015-01-11">
+			<TYPE>Radio</TYPE>
+			<NAME>Bristol City FM and BBC Bristol</NAME>
+			<DESC>‘Slave Masters and Bristol’</DESC>
+			<UPLOAD_FILE />
+			<DTM_DATE>January</DTM_DATE>
+			<DTD_DATE>11</DTD_DATE>
+			<DTY_DATE>2015</DTY_DATE>
+			<DATE_START>2015-01-11</DATE_START>
+			<DATE_END>2015-01-11</DATE_END>
+		</MEDCONT>
+		<MEDCONT id="180804757504" dmd:originalSource="MANUAL" dmd:created="2019-02-08T15:30:55"
+			dmd:lastModifiedSource="MANUAL" dmd:lastModified="2019-02-08T15:30:55" dmd:startDate="2014-07-23"
+			dmd:endDate="2014-07-23">
+			<TYPE>Radio</TYPE>
+			<NAME>Bristol City FM and BBC Bristol</NAME>
+			<DESC>‘Reading Seamus Heaney’</DESC>
+			<UPLOAD_FILE />
+			<DTM_DATE>July</DTM_DATE>
+			<DTD_DATE>23</DTD_DATE>
+			<DTY_DATE>2014</DTY_DATE>
+			<DATE_START>2014-07-23</DATE_START>
+			<DATE_END>2014-07-23</DATE_END>
+		</MEDCONT>
+		<MEMBER id="180804483072" dmd:originalSource="MANUAL" dmd:created="2019-02-08T15:26:15"
+			dmd:lastModifiedSource="MANUAL" dmd:lastModified="2019-02-08T15:26:16" dmd:startDate="2019-01-01">
+			<NAME>Society of Early Americanists</NAME>
+			<ORGABBR>SEA</ORGABBR>
+			<LEADERSHIP />
+			<SCOPE>International</SCOPE>
+			<DESC />
+			<DTM_START>January</DTM_START>
+			<DTD_START>01</DTD_START>
+			<DTY_START>2019</DTY_START>
+			<START_START>2019-01-01</START_START>
+			<START_END>2019-01-01</START_END>
+			<DTM_END />
+			<DTD_END />
+			<DTY_END />
+			<END_START></END_START>
+			<END_END></END_END>
+		</MEMBER>
+		<MEMBER id="180804399104" dmd:originalSource="MANUAL" dmd:created="2019-02-08T15:24:45"
+			dmd:lastModifiedSource="MANUAL" dmd:lastModified="2019-02-08T15:24:45" dmd:startDate="2016-01-01">
+			<NAME>African Literature Association </NAME>
+			<ORGABBR>ALA</ORGABBR>
+			<LEADERSHIP />
+			<SCOPE>International</SCOPE>
+			<DESC />
+			<DTM_START>January</DTM_START>
+			<DTD_START>01</DTD_START>
+			<DTY_START>2016</DTY_START>
+			<START_START>2016-01-01</START_START>
+			<START_END>2016-01-01</START_END>
+			<DTM_END />
+			<DTD_END />
+			<DTY_END />
+			<END_START></END_START>
+			<END_END></END_END>
+		</MEMBER>
+		<MEMBER id="180804374528" dmd:originalSource="MANUAL" dmd:created="2019-02-08T15:24:14"
+			dmd:lastModifiedSource="MANUAL" dmd:lastModified="2019-02-08T15:24:14" dmd:startDate="2016-01-01">
+			<NAME>Canadian Society for Eighteenth-century Studies </NAME>
+			<ORGABBR>CSECS</ORGABBR>
+			<LEADERSHIP />
+			<SCOPE>International</SCOPE>
+			<DESC />
+			<DTM_START>January</DTM_START>
+			<DTD_START>01</DTD_START>
+			<DTY_START>2016</DTY_START>
+			<START_START>2016-01-01</START_START>
+			<START_END>2016-01-01</START_END>
+			<DTM_END />
+			<DTD_END />
+			<DTY_END />
+			<END_START></END_START>
+			<END_END></END_END>
+		</MEMBER>
+		<MEMBER id="180801685504" dmd:originalSource="MANUAL" dmd:created="2019-02-08T14:45:55"
+			dmd:lastModifiedSource="MANUAL" dmd:lastModified="2019-02-08T14:45:55" dmd:startDate="2010-08-01">
+			<NAME>Modern Languages Association </NAME>
+			<ORGABBR>MLA</ORGABBR>
+			<LEADERSHIP />
+			<SCOPE>International</SCOPE>
+			<DESC />
+			<DTM_START>August</DTM_START>
+			<DTD_START>01</DTD_START>
+			<DTY_START>2010</DTY_START>
+			<START_START>2010-08-01</START_START>
+			<START_END>2010-08-01</START_END>
+			<DTM_END />
+			<DTD_END />
+			<DTY_END />
+			<END_START></END_START>
+			<END_END></END_END>
+		</MEMBER>
+		<MEMBER id="180804345856" dmd:originalSource="MANUAL" dmd:created="2019-02-08T15:23:40"
+			dmd:lastModifiedSource="MANUAL" dmd:lastModified="2019-02-08T15:23:40" dmd:startDate="2010-01-01">
+			<NAME>American Society for Eighteenth-century Studies </NAME>
+			<ORGABBR>ASECS</ORGABBR>
+			<LEADERSHIP />
+			<SCOPE>International</SCOPE>
+			<DESC />
+			<DTM_START>January</DTM_START>
+			<DTD_START>01</DTD_START>
+			<DTY_START>2010</DTY_START>
+			<START_START>2010-01-01</START_START>
+			<START_END>2010-01-01</START_END>
+			<DTM_END />
+			<DTD_END />
+			<DTY_END />
+			<END_START></END_START>
+			<END_END></END_END>
+		</MEMBER>
+		<MEMBER id="180801720320" dmd:originalSource="MANUAL" dmd:created="2019-02-08T14:46:29"
+			dmd:lastModifiedSource="MANUAL" dmd:lastModified="2019-02-08T14:46:30" dmd:startDate="2010-01-01">
+			<NAME>North American Society for Studies in Romanticism </NAME>
+			<ORGABBR>NASSR</ORGABBR>
+			<LEADERSHIP />
+			<SCOPE>International</SCOPE>
+			<DESC />
+			<DTM_START>January</DTM_START>
+			<DTD_START>01</DTD_START>
+			<DTY_START>2010</DTY_START>
+			<START_START>2010-01-01</START_START>
+			<START_END>2010-01-01</START_END>
+			<DTM_END />
+			<DTD_END />
+			<DTY_END />
+			<END_START></END_START>
+			<END_END></END_END>
+		</MEMBER>
+		<MEMBER id="180801755136" dmd:originalSource="MANUAL" dmd:created="2019-02-08T14:46:59"
+			dmd:lastModifiedSource="MANUAL" dmd:lastModified="2019-02-08T14:46:59" dmd:startDate="2004-01-01">
+			<NAME>British Association for Studies in Romanticism </NAME>
+			<ORGABBR>BARS</ORGABBR>
+			<LEADERSHIP />
+			<SCOPE />
+			<DESC />
+			<DTM_START>January</DTM_START>
+			<DTD_START>01</DTD_START>
+			<DTY_START>2004</DTY_START>
+			<START_START>2004-01-01</START_START>
+			<START_END>2004-01-01</START_END>
+			<DTM_END />
+			<DTD_END />
+			<DTY_END />
+			<END_START></END_START>
+			<END_END></END_END>
+		</MEMBER>
+		<MEMBER id="180804313088" dmd:originalSource="MANUAL" dmd:created="2019-02-08T15:23:10"
+			dmd:lastModifiedSource="MANUAL" dmd:lastModified="2019-02-08T15:23:11" dmd:startDate="2003-01-01">
+			<NAME>British Society for Eighteenth-century Studies </NAME>
+			<ORGABBR>BSECS</ORGABBR>
+			<LEADERSHIP />
+			<SCOPE>International</SCOPE>
+			<DESC />
+			<DTM_START>January</DTM_START>
+			<DTD_START>01</DTD_START>
+			<DTY_START>2003</DTY_START>
+			<START_START>2003-01-01</START_START>
+			<START_END>2003-01-01</START_END>
+			<DTM_END />
+			<DTD_END />
+			<DTY_END />
+			<END_START></END_START>
+			<END_END></END_END>
+		</MEMBER>
+		<SCHTEACH id="228269373440" dmd:originalSource="IMPORT" dmd:created="2021-12-12T02:02:30"
+			dmd:lastModifiedSource="IMPORT" dmd:lastModified="2022-01-21T01:26:53" dmd:startDate="2022-01-15"
+			dmd:endDate="2022-04-30" dmd:primaryKey="Spring|2022|30965">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2022</TYY_TERM>
+			<TERM_START>2022-01-15</TERM_START>
+			<TERM_END>2022-04-30</TERM_END>
+			<TITLE>British Literature II</TITLE>
+			<COURSEPRE>ENG</COURSEPRE>
+			<COURSENUM>2233</COURSENUM>
+			<SECTION>001</SECTION>
+			<COLLEGE>College of Liberal and Fine Arts</COLLEGE>
+			<DEP>English</DEP>
+			<ENROLL>55</ENROLL>
+			<TOTALSCH>165</TOTALSCH>
+			<DIVISION>Lower Division</DIVISION>
+			<LEVEL>Undergraduate</LEVEL>
+			<DELIVERY_MODE>Classroom Lecture</DELIVERY_MODE>
+			<CRN>30965</CRN>
+			<MEETING_TIMES />
+			<BANNER_CODE>AIN</BANNER_CODE>
+			<BANNER_CODE_DESC>Lecture</BANNER_CODE_DESC>
+			<COURSE_TYPE>Regular</COURSE_TYPE>
+			<LINK_ID />
+			<PCT_RESP>100</PCT_RESP>
+			<PRIMARY_INST>Yes</PRIMARY_INST>
+			<WORKLOAD>3</WORKLOAD>
+		</SCHTEACH>
+		<SCHTEACH id="230210131968" dmd:originalSource="IMPORT" dmd:created="2022-01-19T10:26:49"
+			dmd:lastModifiedSource="IMPORT" dmd:lastModified="2022-01-21T01:26:53" dmd:startDate="2022-01-15"
+			dmd:endDate="2022-04-30" dmd:primaryKey="Spring|2022|30672">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2022</TYY_TERM>
+			<TERM_START>2022-01-15</TERM_START>
+			<TERM_END>2022-04-30</TERM_END>
+			<TITLE>Directed Readings</TITLE>
+			<COURSEPRE>ENG</COURSEPRE>
+			<COURSENUM>7211</COURSENUM>
+			<SECTION>001</SECTION>
+			<COLLEGE>College of Liberal and Fine Arts</COLLEGE>
+			<DEP>English</DEP>
+			<ENROLL>1</ENROLL>
+			<TOTALSCH>1</TOTALSCH>
+			<DIVISION />
+			<LEVEL>Graduate</LEVEL>
+			<DELIVERY_MODE />
+			<CRN>30672</CRN>
+			<MEETING_TIMES />
+			<BANNER_CODE>FFF</BANNER_CODE>
+			<BANNER_CODE_DESC>Independent Study</BANNER_CODE_DESC>
+			<COURSE_TYPE>Regular</COURSE_TYPE>
+			<LINK_ID />
+			<PCT_RESP>100</PCT_RESP>
+			<PRIMARY_INST>Yes</PRIMARY_INST>
+			<WORKLOAD>.2</WORKLOAD>
+		</SCHTEACH>
+		<SCHTEACH id="228269375488" dmd:originalSource="IMPORT" dmd:created="2021-12-12T02:02:30"
+			dmd:lastModifiedSource="IMPORT" dmd:lastModified="2022-01-21T01:26:53" dmd:startDate="2022-01-15"
+			dmd:endDate="2022-04-30" dmd:primaryKey="Spring|2022|38239">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2022</TYY_TERM>
+			<TERM_START>2022-01-15</TERM_START>
+			<TERM_END>2022-04-30</TERM_END>
+			<TITLE>Seminar For English Majors</TITLE>
+			<COURSEPRE>ENG</COURSEPRE>
+			<COURSENUM>4973</COURSENUM>
+			<SECTION>003</SECTION>
+			<COLLEGE>College of Liberal and Fine Arts</COLLEGE>
+			<DEP>English</DEP>
+			<ENROLL>25</ENROLL>
+			<TOTALSCH>75</TOTALSCH>
+			<DIVISION>Upper Division</DIVISION>
+			<LEVEL>Undergraduate</LEVEL>
+			<DELIVERY_MODE>Discussion/Seminar</DELIVERY_MODE>
+			<CRN>38239</CRN>
+			<MEETING_TIMES />
+			<BANNER_CODE>EIN</BANNER_CODE>
+			<BANNER_CODE_DESC>Seminar</BANNER_CODE_DESC>
+			<COURSE_TYPE>Regular</COURSE_TYPE>
+			<LINK_ID />
+			<PCT_RESP>100</PCT_RESP>
+			<PRIMARY_INST>Yes</PRIMARY_INST>
+			<WORKLOAD>3</WORKLOAD>
+		</SCHTEACH>
+		<SCHTEACH id="225540919296" dmd:originalSource="IMPORT" dmd:created="2021-09-15T01:15:37"
+			dmd:lastModifiedSource="IMPORT" dmd:lastModified="2021-10-01T01:08:28" dmd:startDate="2021-09-01"
+			dmd:endDate="2021-12-31" dmd:primaryKey="Fall|2021|20872">
+			<TYT_TERM>Fall</TYT_TERM>
+			<TYY_TERM>2021</TYY_TERM>
+			<TERM_START>2021-09-01</TERM_START>
+			<TERM_END>2021-12-31</TERM_END>
+			<TITLE>Directed Readings</TITLE>
+			<COURSEPRE>ENG</COURSEPRE>
+			<COURSENUM>7211</COURSENUM>
+			<SECTION>004</SECTION>
+			<COLLEGE>College of Liberal and Fine Arts</COLLEGE>
+			<DEP>English</DEP>
+			<ENROLL>0</ENROLL>
+			<TOTALSCH>1</TOTALSCH>
+			<DIVISION />
+			<LEVEL>Graduate</LEVEL>
+			<DELIVERY_MODE />
+			<CRN>20872</CRN>
+			<MEETING_TIMES />
+			<BANNER_CODE>FFF</BANNER_CODE>
+			<BANNER_CODE_DESC>Independent Study</BANNER_CODE_DESC>
+			<COURSE_TYPE>Regular</COURSE_TYPE>
+			<LINK_ID />
+			<PCT_RESP>100</PCT_RESP>
+			<PRIMARY_INST>Yes</PRIMARY_INST>
+			<WORKLOAD>0</WORKLOAD>
+		</SCHTEACH>
+		<SCHTEACH id="223851100160" dmd:originalSource="IMPORT" dmd:created="2021-08-21T01:33:48"
+			dmd:lastModifiedSource="IMPORT" dmd:lastModified="2021-12-11T01:58:01" dmd:startDate="2021-09-01"
+			dmd:endDate="2021-12-31" dmd:primaryKey="Fall|2021|14390">
+			<TYT_TERM>Fall</TYT_TERM>
+			<TYY_TERM>2021</TYY_TERM>
+			<TERM_START>2021-09-01</TERM_START>
+			<TERM_END>2021-12-31</TERM_END>
+			<TITLE>Directed Readings</TITLE>
+			<COURSEPRE>ENG</COURSEPRE>
+			<COURSENUM>7213</COURSENUM>
+			<SECTION>007</SECTION>
+			<COLLEGE>College of Liberal and Fine Arts</COLLEGE>
+			<DEP>English</DEP>
+			<ENROLL>1</ENROLL>
+			<TOTALSCH>3</TOTALSCH>
+			<DIVISION />
+			<LEVEL>Graduate</LEVEL>
+			<DELIVERY_MODE />
+			<CRN>14390</CRN>
+			<MEETING_TIMES />
+			<BANNER_CODE>FFF</BANNER_CODE>
+			<BANNER_CODE_DESC>Independent Study</BANNER_CODE_DESC>
+			<COURSE_TYPE>Regular</COURSE_TYPE>
+			<LINK_ID />
+			<PCT_RESP>100</PCT_RESP>
+			<PRIMARY_INST>Yes</PRIMARY_INST>
+			<WORKLOAD>.6</WORKLOAD>
+		</SCHTEACH>
+		<SCHTEACH id="223851102208" dmd:originalSource="IMPORT" dmd:created="2021-08-21T01:33:48"
+			dmd:lastModifiedSource="IMPORT" dmd:lastModified="2021-12-11T01:58:01" dmd:startDate="2021-09-01"
+			dmd:endDate="2021-12-31" dmd:primaryKey="Fall|2021|16885">
+			<TYT_TERM>Fall</TYT_TERM>
+			<TYY_TERM>2021</TYY_TERM>
+			<TERM_START>2021-09-01</TERM_START>
+			<TERM_END>2021-12-31</TERM_END>
+			<TITLE>Seminar: Issues in Culture</TITLE>
+			<COURSEPRE>ENG</COURSEPRE>
+			<COURSENUM>7063</COURSENUM>
+			<SECTION>001</SECTION>
+			<COLLEGE>College of Liberal and Fine Arts</COLLEGE>
+			<DEP>English</DEP>
+			<ENROLL>4</ENROLL>
+			<TOTALSCH>12</TOTALSCH>
+			<DIVISION />
+			<LEVEL>Graduate</LEVEL>
+			<DELIVERY_MODE>Discussion/Seminar</DELIVERY_MODE>
+			<CRN>16885</CRN>
+			<MEETING_TIMES>M 1800-2045</MEETING_TIMES>
+			<BANNER_CODE>EIN</BANNER_CODE>
+			<BANNER_CODE_DESC>Seminar</BANNER_CODE_DESC>
+			<COURSE_TYPE>Cross-Listed</COURSE_TYPE>
+			<LINK_ID>EI</LINK_ID>
+			<PCT_RESP>100</PCT_RESP>
+			<PRIMARY_INST>Yes</PRIMARY_INST>
+			<WORKLOAD>2.3</WORKLOAD>
+		</SCHTEACH>
+		<SCHTEACH id="223851104256" dmd:originalSource="IMPORT" dmd:created="2021-08-21T01:33:48"
+			dmd:lastModifiedSource="IMPORT" dmd:lastModified="2021-12-11T01:58:01" dmd:startDate="2021-09-01"
+			dmd:endDate="2021-12-31" dmd:primaryKey="Fall|2021|16882">
+			<TYT_TERM>Fall</TYT_TERM>
+			<TYY_TERM>2021</TYY_TERM>
+			<TERM_START>2021-09-01</TERM_START>
+			<TERM_END>2021-12-31</TERM_END>
+			<TITLE>Topics In Literary Genres</TITLE>
+			<COURSEPRE>ENG</COURSEPRE>
+			<COURSENUM>5053</COURSENUM>
+			<SECTION>001</SECTION>
+			<COLLEGE>College of Liberal and Fine Arts</COLLEGE>
+			<DEP>English</DEP>
+			<ENROLL>10</ENROLL>
+			<TOTALSCH>30</TOTALSCH>
+			<DIVISION />
+			<LEVEL>Graduate</LEVEL>
+			<DELIVERY_MODE>Classroom Lecture</DELIVERY_MODE>
+			<CRN>16882</CRN>
+			<MEETING_TIMES>M 1800-2045</MEETING_TIMES>
+			<BANNER_CODE>AIN</BANNER_CODE>
+			<BANNER_CODE_DESC>Lecture</BANNER_CODE_DESC>
+			<COURSE_TYPE>Cross-Listed</COURSE_TYPE>
+			<LINK_ID>EI</LINK_ID>
+			<PCT_RESP>100</PCT_RESP>
+			<PRIMARY_INST>Yes</PRIMARY_INST>
+			<WORKLOAD>2.3</WORKLOAD>
+		</SCHTEACH>
+		<SCHTEACH id="220848072704" dmd:originalSource="IMPORT" dmd:created="2021-05-18T12:43:07"
+			dmd:lastModifiedSource="IMPORT" dmd:lastModified="2021-08-14T01:05:43" dmd:startDate="2021-05-15"
+			dmd:endDate="2021-08-31" dmd:primaryKey="Summer|2021|34673">
+			<TYT_TERM>Summer</TYT_TERM>
+			<TYY_TERM>2021</TYY_TERM>
+			<TERM_START>2021-05-15</TERM_START>
+			<TERM_END>2021-08-31</TERM_END>
+			<TITLE>British Literature II</TITLE>
+			<COURSEPRE>ENG</COURSEPRE>
+			<COURSENUM>2233</COURSENUM>
+			<SECTION>01F</SECTION>
+			<COLLEGE>College of Liberal and Fine Arts</COLLEGE>
+			<DEP>English</DEP>
+			<ENROLL>22</ENROLL>
+			<TOTALSCH>66</TOTALSCH>
+			<DIVISION>Lower Division</DIVISION>
+			<LEVEL>Undergraduate</LEVEL>
+			<DELIVERY_MODE>Classroom Lecture</DELIVERY_MODE>
+			<CRN>34673</CRN>
+			<MEETING_TIMES />
+			<BANNER_CODE>AFF</BANNER_CODE>
+			<BANNER_CODE_DESC>Lecture</BANNER_CODE_DESC>
+			<COURSE_TYPE>Regular</COURSE_TYPE>
+			<LINK_ID />
+			<PCT_RESP>100</PCT_RESP>
+			<PRIMARY_INST>Yes</PRIMARY_INST>
+			<WORKLOAD>3</WORKLOAD>
+		</SCHTEACH>
+		<SCHTEACH id="214408753152" dmd:originalSource="IMPORT" dmd:created="2021-01-08T18:11:46"
+			dmd:lastModifiedSource="IMPORT" dmd:lastModified="2021-05-17T01:11:40" dmd:startDate="2021-01-15"
+			dmd:endDate="2021-04-30" dmd:primaryKey="Spring|2021|30965">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2021</TYY_TERM>
+			<TERM_START>2021-01-15</TERM_START>
+			<TERM_END>2021-04-30</TERM_END>
+			<TITLE>British Literature II</TITLE>
+			<COURSEPRE>ENG</COURSEPRE>
+			<COURSENUM>2233</COURSENUM>
+			<SECTION>001</SECTION>
+			<COLLEGE>College of Liberal and Fine Arts</COLLEGE>
+			<DEP>English</DEP>
+			<ENROLL>50</ENROLL>
+			<TOTALSCH>150</TOTALSCH>
+			<DIVISION>Lower Division</DIVISION>
+			<LEVEL>Undergraduate</LEVEL>
+			<DELIVERY_MODE>Classroom Lecture</DELIVERY_MODE>
+			<CRN>30965</CRN>
+			<MEETING_TIMES />
+			<BANNER_CODE>AFF</BANNER_CODE>
+			<BANNER_CODE_DESC>Lecture</BANNER_CODE_DESC>
+			<COURSE_TYPE>Regular</COURSE_TYPE>
+			<LINK_ID />
+			<PCT_RESP>100</PCT_RESP>
+			<PRIMARY_INST>Yes</PRIMARY_INST>
+			<WORKLOAD>3</WORKLOAD>
+		</SCHTEACH>
+		<SCHTEACH id="214408755200" dmd:originalSource="IMPORT" dmd:created="2021-01-08T18:11:46"
+			dmd:lastModifiedSource="IMPORT" dmd:lastModified="2021-05-17T01:11:40" dmd:startDate="2021-01-15"
+			dmd:endDate="2021-04-30" dmd:primaryKey="Spring|2021|30672">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2021</TYY_TERM>
+			<TERM_START>2021-01-15</TERM_START>
+			<TERM_END>2021-04-30</TERM_END>
+			<TITLE>Directed Readings</TITLE>
+			<COURSEPRE>ENG</COURSEPRE>
+			<COURSENUM>7211</COURSENUM>
+			<SECTION>001</SECTION>
+			<COLLEGE>College of Liberal and Fine Arts</COLLEGE>
+			<DEP>English</DEP>
+			<ENROLL>1</ENROLL>
+			<TOTALSCH>1</TOTALSCH>
+			<DIVISION />
+			<LEVEL>Graduate</LEVEL>
+			<DELIVERY_MODE />
+			<CRN>30672</CRN>
+			<MEETING_TIMES />
+			<BANNER_CODE>FFF</BANNER_CODE>
+			<BANNER_CODE_DESC>Independent Study</BANNER_CODE_DESC>
+			<COURSE_TYPE>Regular</COURSE_TYPE>
+			<LINK_ID />
+			<PCT_RESP>100</PCT_RESP>
+			<PRIMARY_INST>Yes</PRIMARY_INST>
+			<WORKLOAD>.2</WORKLOAD>
+		</SCHTEACH>
+		<SCHTEACH id="214408757248" dmd:originalSource="IMPORT" dmd:created="2021-01-08T18:11:46"
+			dmd:lastModifiedSource="IMPORT" dmd:lastModified="2021-05-17T01:11:40" dmd:startDate="2021-01-15"
+			dmd:endDate="2021-04-30" dmd:primaryKey="Spring|2021|36900">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2021</TYY_TERM>
+			<TERM_START>2021-01-15</TERM_START>
+			<TERM_END>2021-04-30</TERM_END>
+			<TITLE>Seminar For English Majors</TITLE>
+			<COURSEPRE>ENG</COURSEPRE>
+			<COURSENUM>4973</COURSENUM>
+			<SECTION>001</SECTION>
+			<COLLEGE>College of Liberal and Fine Arts</COLLEGE>
+			<DEP>English</DEP>
+			<ENROLL>23</ENROLL>
+			<TOTALSCH>69</TOTALSCH>
+			<DIVISION>Upper Division</DIVISION>
+			<LEVEL>Undergraduate</LEVEL>
+			<DELIVERY_MODE>Discussion/Seminar</DELIVERY_MODE>
+			<CRN>36900</CRN>
+			<MEETING_TIMES>M 1300-1545</MEETING_TIMES>
+			<BANNER_CODE>EFF</BANNER_CODE>
+			<BANNER_CODE_DESC>Seminar</BANNER_CODE_DESC>
+			<COURSE_TYPE>Cross-Listed</COURSE_TYPE>
+			<LINK_ID>LS</LINK_ID>
+			<PCT_RESP>100</PCT_RESP>
+			<PRIMARY_INST>Yes</PRIMARY_INST>
+			<WORKLOAD>1.5</WORKLOAD>
+		</SCHTEACH>
+		<SCHTEACH id="214408677376" dmd:originalSource="IMPORT" dmd:created="2021-01-08T18:11:43"
+			dmd:lastModifiedSource="IMPORT" dmd:lastModified="2021-05-17T01:11:40" dmd:startDate="2021-01-15"
+			dmd:endDate="2021-04-30" dmd:primaryKey="Spring|2021|37739">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2021</TYY_TERM>
+			<TERM_START>2021-01-15</TERM_START>
+			<TERM_END>2021-04-30</TERM_END>
+			<TITLE>Seminar in Women's Studies</TITLE>
+			<COURSEPRE>WGSS</COURSEPRE>
+			<COURSENUM>4973</COURSENUM>
+			<SECTION>001</SECTION>
+			<COLLEGE />
+			<DEP />
+			<ENROLL>1</ENROLL>
+			<TOTALSCH>3</TOTALSCH>
+			<DIVISION>Upper Division</DIVISION>
+			<LEVEL>Undergraduate</LEVEL>
+			<DELIVERY_MODE>Discussion/Seminar</DELIVERY_MODE>
+			<CRN>37739</CRN>
+			<MEETING_TIMES>M 1300-1545</MEETING_TIMES>
+			<BANNER_CODE>EIN</BANNER_CODE>
+			<BANNER_CODE_DESC>Seminar</BANNER_CODE_DESC>
+			<COURSE_TYPE>Cross-Listed</COURSE_TYPE>
+			<LINK_ID>LS</LINK_ID>
+			<PCT_RESP>100</PCT_RESP>
+			<PRIMARY_INST>Yes</PRIMARY_INST>
+			<WORKLOAD>1.5</WORKLOAD>
+		</SCHTEACH>
+		<SCHTEACH id="208344047616" dmd:originalSource="IMPORT" dmd:created="2020-08-19T03:56:22"
+			dmd:lastModifiedSource="IMPORT" dmd:lastModified="2020-12-14T14:07:43" dmd:startDate="2020-09-01"
+			dmd:endDate="2020-12-31" dmd:primaryKey="Fall|2020|16884">
+			<TYT_TERM>Fall</TYT_TERM>
+			<TYY_TERM>2020</TYY_TERM>
+			<TERM_START>2020-09-01</TERM_START>
+			<TERM_END>2020-12-31</TERM_END>
+			<TITLE>Cross Cul Issues:Texts/Context</TITLE>
+			<COURSEPRE>ENG</COURSEPRE>
+			<COURSENUM>6063</COURSENUM>
+			<SECTION>001</SECTION>
+			<COLLEGE>College of Liberal and Fine Arts</COLLEGE>
+			<DEP>English</DEP>
+			<ENROLL>4</ENROLL>
+			<TOTALSCH>12</TOTALSCH>
+			<DIVISION />
+			<LEVEL>Graduate</LEVEL>
+			<DELIVERY_MODE>Classroom Lecture</DELIVERY_MODE>
+			<CRN>16884</CRN>
+			<MEETING_TIMES>W 1800-2045</MEETING_TIMES>
+			<BANNER_CODE>AIN</BANNER_CODE>
+			<BANNER_CODE_DESC>Lecture, internet</BANNER_CODE_DESC>
+			<COURSE_TYPE>Cross-Listed</COURSE_TYPE>
+			<LINK_ID>EI</LINK_ID>
+			<PCT_RESP>100</PCT_RESP>
+			<PRIMARY_INST>Yes</PRIMARY_INST>
+			<WORKLOAD>1.5</WORKLOAD>
+		</SCHTEACH>
+		<SCHTEACH id="208320954368" dmd:originalSource="IMPORT" dmd:created="2020-08-18T15:30:27"
+			dmd:lastModifiedSource="IMPORT" dmd:lastModified="2020-10-13T01:12:35" dmd:startDate="2020-09-01"
+			dmd:endDate="2020-12-31" dmd:primaryKey="Fall|2020|14315">
+			<TYT_TERM>Fall</TYT_TERM>
+			<TYY_TERM>2020</TYY_TERM>
+			<TERM_START>2020-09-01</TERM_START>
+			<TERM_END>2020-12-31</TERM_END>
+			<TITLE>Directed Readings</TITLE>
+			<COURSEPRE>ENG</COURSEPRE>
+			<COURSENUM>7213</COURSENUM>
+			<SECTION>003</SECTION>
+			<COLLEGE>College of Liberal and Fine Arts</COLLEGE>
+			<DEP>English</DEP>
+			<ENROLL>1</ENROLL>
+			<TOTALSCH>3</TOTALSCH>
+			<DIVISION />
+			<LEVEL>Graduate</LEVEL>
+			<DELIVERY_MODE />
+			<CRN>14315</CRN>
+			<MEETING_TIMES />
+			<BANNER_CODE>FFF</BANNER_CODE>
+			<BANNER_CODE_DESC>Independent Study,face-to-face</BANNER_CODE_DESC>
+			<COURSE_TYPE>Regular</COURSE_TYPE>
+			<LINK_ID />
+			<PCT_RESP>100</PCT_RESP>
+			<PRIMARY_INST>Yes</PRIMARY_INST>
+			<WORKLOAD>.6</WORKLOAD>
+		</SCHTEACH>
+		<SCHTEACH id="208344049664" dmd:originalSource="IMPORT" dmd:created="2020-08-19T03:56:22"
+			dmd:lastModifiedSource="IMPORT" dmd:lastModified="2020-10-13T01:12:35" dmd:startDate="2020-09-01"
+			dmd:endDate="2020-12-31" dmd:primaryKey="Fall|2020|18322">
+			<TYT_TERM>Fall</TYT_TERM>
+			<TYY_TERM>2020</TYY_TERM>
+			<TERM_START>2020-09-01</TERM_START>
+			<TERM_END>2020-12-31</TERM_END>
+			<TITLE>Romantic Literature</TITLE>
+			<COURSEPRE>ENG</COURSEPRE>
+			<COURSENUM>4023</COURSENUM>
+			<SECTION>001</SECTION>
+			<COLLEGE>College of Liberal and Fine Arts</COLLEGE>
+			<DEP>English</DEP>
+			<ENROLL>25</ENROLL>
+			<TOTALSCH>75</TOTALSCH>
+			<DIVISION>Upper Division</DIVISION>
+			<LEVEL>Undergraduate</LEVEL>
+			<DELIVERY_MODE>Classroom Lecture</DELIVERY_MODE>
+			<CRN>18322</CRN>
+			<MEETING_TIMES>MWF 1100-1150</MEETING_TIMES>
+			<BANNER_CODE>AIN</BANNER_CODE>
+			<BANNER_CODE_DESC>Lecture, internet</BANNER_CODE_DESC>
+			<COURSE_TYPE>Regular</COURSE_TYPE>
+			<LINK_ID />
+			<PCT_RESP>100</PCT_RESP>
+			<PRIMARY_INST>Yes</PRIMARY_INST>
+			<WORKLOAD>3</WORKLOAD>
+		</SCHTEACH>
+		<SCHTEACH id="208344051712" dmd:originalSource="IMPORT" dmd:created="2020-08-19T03:56:22"
+			dmd:lastModifiedSource="IMPORT" dmd:lastModified="2020-10-13T01:12:35" dmd:startDate="2020-09-01"
+			dmd:endDate="2020-12-31" dmd:primaryKey="Fall|2020|16885">
+			<TYT_TERM>Fall</TYT_TERM>
+			<TYY_TERM>2020</TYY_TERM>
+			<TERM_START>2020-09-01</TERM_START>
+			<TERM_END>2020-12-31</TERM_END>
+			<TITLE>Seminar: Issues in Culture</TITLE>
+			<COURSEPRE>ENG</COURSEPRE>
+			<COURSENUM>7063</COURSENUM>
+			<SECTION>001</SECTION>
+			<COLLEGE>College of Liberal and Fine Arts</COLLEGE>
+			<DEP>English</DEP>
+			<ENROLL>2</ENROLL>
+			<TOTALSCH>6</TOTALSCH>
+			<DIVISION />
+			<LEVEL>Graduate</LEVEL>
+			<DELIVERY_MODE>Discussion/Seminar</DELIVERY_MODE>
+			<CRN>16885</CRN>
+			<MEETING_TIMES>W 1800-2045</MEETING_TIMES>
+			<BANNER_CODE>EIN</BANNER_CODE>
+			<BANNER_CODE_DESC>Seminar, internet</BANNER_CODE_DESC>
+			<COURSE_TYPE>Cross-Listed</COURSE_TYPE>
+			<LINK_ID>EI</LINK_ID>
+			<PCT_RESP>100</PCT_RESP>
+			<PRIMARY_INST>Yes</PRIMARY_INST>
+			<WORKLOAD>1.5</WORKLOAD>
+		</SCHTEACH>
+		<SCHTEACH id="208344053760" dmd:originalSource="IMPORT" dmd:created="2020-08-19T03:56:22"
+			dmd:lastModifiedSource="IMPORT" dmd:lastModified="2020-12-14T14:07:43" dmd:startDate="2020-09-01"
+			dmd:endDate="2020-12-31" dmd:primaryKey="Fall|2020|16882">
+			<TYT_TERM>Fall</TYT_TERM>
+			<TYY_TERM>2020</TYY_TERM>
+			<TERM_START>2020-09-01</TERM_START>
+			<TERM_END>2020-12-31</TERM_END>
+			<TITLE>Topics In Literary Genres</TITLE>
+			<COURSEPRE>ENG</COURSEPRE>
+			<COURSENUM>5053</COURSENUM>
+			<SECTION>001</SECTION>
+			<COLLEGE>College of Liberal and Fine Arts</COLLEGE>
+			<DEP>English</DEP>
+			<ENROLL>10</ENROLL>
+			<TOTALSCH>30</TOTALSCH>
+			<DIVISION />
+			<LEVEL>Graduate</LEVEL>
+			<DELIVERY_MODE>Classroom Lecture</DELIVERY_MODE>
+			<CRN>16882</CRN>
+			<MEETING_TIMES>W 1800-2045</MEETING_TIMES>
+			<BANNER_CODE>AIN</BANNER_CODE>
+			<BANNER_CODE_DESC>Lecture, internet</BANNER_CODE_DESC>
+			<COURSE_TYPE>Cross-Listed</COURSE_TYPE>
+			<LINK_ID>EI</LINK_ID>
+			<PCT_RESP>100</PCT_RESP>
+			<PRIMARY_INST>Yes</PRIMARY_INST>
+			<WORKLOAD>1.5</WORKLOAD>
+		</SCHTEACH>
+		<SCHTEACH id="204373055488" dmd:originalSource="IMPORT" dmd:created="2020-05-21T01:26:58"
+			dmd:lastModifiedSource="IMPORT" dmd:lastModified="2020-08-11T01:08:11" dmd:startDate="2020-05-15"
+			dmd:endDate="2020-08-31" dmd:primaryKey="Summer|2020|33430">
+			<TYT_TERM>Summer</TYT_TERM>
+			<TYY_TERM>2020</TYY_TERM>
+			<TERM_START>2020-05-15</TERM_START>
+			<TERM_END>2020-08-31</TERM_END>
+			<TITLE>Seminar For English Majors</TITLE>
+			<COURSEPRE>ENG</COURSEPRE>
+			<COURSENUM>4973</COURSENUM>
+			<SECTION>01F</SECTION>
+			<COLLEGE>College of Liberal and Fine Arts</COLLEGE>
+			<DEP>English</DEP>
+			<ENROLL>11</ENROLL>
+			<TOTALSCH>33</TOTALSCH>
+			<DIVISION>Upper Division</DIVISION>
+			<LEVEL>Undergraduate</LEVEL>
+			<DELIVERY_MODE>Discussion/Seminar</DELIVERY_MODE>
+			<CRN>33430</CRN>
+			<MEETING_TIMES />
+			<BANNER_CODE>EFF</BANNER_CODE>
+			<BANNER_CODE_DESC>Seminar, face-to-face</BANNER_CODE_DESC>
+			<COURSE_TYPE>Cross-Listed</COURSE_TYPE>
+			<LINK_ID>BJ</LINK_ID>
+			<PCT_RESP>100</PCT_RESP>
+			<PRIMARY_INST>Yes</PRIMARY_INST>
+			<WORKLOAD>1.5</WORKLOAD>
+		</SCHTEACH>
+		<SCHTEACH id="204335548416" dmd:originalSource="IMPORT" dmd:created="2020-05-20T02:14:28"
+			dmd:lastModifiedSource="IMPORT" dmd:lastModified="2020-08-11T01:08:11" dmd:startDate="2020-05-15"
+			dmd:endDate="2020-08-31" dmd:primaryKey="Summer|2020|34063">
+			<TYT_TERM>Summer</TYT_TERM>
+			<TYY_TERM>2020</TYY_TERM>
+			<TERM_START>2020-05-15</TERM_START>
+			<TERM_END>2020-08-31</TERM_END>
+			<TITLE>Special Studies In English</TITLE>
+			<COURSEPRE>ENG</COURSEPRE>
+			<COURSENUM>4953</COURSENUM>
+			<SECTION>01F</SECTION>
+			<COLLEGE>College of Liberal and Fine Arts</COLLEGE>
+			<DEP>English</DEP>
+			<ENROLL>3</ENROLL>
+			<TOTALSCH>9</TOTALSCH>
+			<DIVISION>Upper Division</DIVISION>
+			<LEVEL>Undergraduate</LEVEL>
+			<DELIVERY_MODE>Classroom Lecture</DELIVERY_MODE>
+			<CRN>34063</CRN>
+			<MEETING_TIMES />
+			<BANNER_CODE>AFF</BANNER_CODE>
+			<BANNER_CODE_DESC>Lecture face-to-face</BANNER_CODE_DESC>
+			<COURSE_TYPE>Cross-Listed</COURSE_TYPE>
+			<LINK_ID>BJ</LINK_ID>
+			<PCT_RESP>100</PCT_RESP>
+			<PRIMARY_INST>Yes</PRIMARY_INST>
+			<WORKLOAD>1.5</WORKLOAD>
+		</SCHTEACH>
+		<SCHTEACH id="197879652352" dmd:originalSource="IMPORT" dmd:created="2020-01-14T18:26:56"
+			dmd:lastModifiedSource="IMPORT" dmd:lastModified="2020-03-09T01:10:49" dmd:startDate="2020-01-15"
+			dmd:endDate="2020-04-30" dmd:primaryKey="Spring|2020|30678">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2020</TYY_TERM>
+			<TERM_START>2020-01-15</TERM_START>
+			<TERM_END>2020-04-30</TERM_END>
+			<TITLE>Directed Readings</TITLE>
+			<COURSEPRE>ENG</COURSEPRE>
+			<COURSENUM>7213</COURSENUM>
+			<SECTION>002</SECTION>
+			<COLLEGE>College of Liberal and Fine Arts</COLLEGE>
+			<DEP>English</DEP>
+			<ENROLL>1</ENROLL>
+			<TOTALSCH>3</TOTALSCH>
+			<DIVISION />
+			<LEVEL>Graduate</LEVEL>
+			<DELIVERY_MODE />
+			<CRN>30678</CRN>
+			<MEETING_TIMES />
+			<BANNER_CODE>FFF</BANNER_CODE>
+			<BANNER_CODE_DESC>Independent Study,face-to-face</BANNER_CODE_DESC>
+			<COURSE_TYPE>Regular</COURSE_TYPE>
+			<LINK_ID />
+			<PCT_RESP>100</PCT_RESP>
+			<PRIMARY_INST>Yes</PRIMARY_INST>
+			<WORKLOAD>.6</WORKLOAD>
+		</SCHTEACH>
+		<SCHTEACH id="197879654400" dmd:originalSource="IMPORT" dmd:created="2020-01-14T18:26:56"
+			dmd:lastModifiedSource="IMPORT" dmd:lastModified="2020-03-09T01:10:49" dmd:startDate="2020-01-15"
+			dmd:endDate="2020-04-30" dmd:primaryKey="Spring|2020|21178">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2020</TYY_TERM>
+			<TERM_START>2020-01-15</TERM_START>
+			<TERM_END>2020-04-30</TERM_END>
+			<TITLE>Master's Thesis</TITLE>
+			<COURSEPRE>ENG</COURSEPRE>
+			<COURSENUM>6983</COURSENUM>
+			<SECTION>001</SECTION>
+			<COLLEGE>College of Liberal and Fine Arts</COLLEGE>
+			<DEP>English</DEP>
+			<ENROLL>1</ENROLL>
+			<TOTALSCH>3</TOTALSCH>
+			<DIVISION />
+			<LEVEL>Graduate</LEVEL>
+			<DELIVERY_MODE />
+			<CRN>21178</CRN>
+			<MEETING_TIMES />
+			<BANNER_CODE>IFF</BANNER_CODE>
+			<BANNER_CODE_DESC>Thesis, face-to-face</BANNER_CODE_DESC>
+			<COURSE_TYPE>Regular</COURSE_TYPE>
+			<LINK_ID />
+			<PCT_RESP>100</PCT_RESP>
+			<PRIMARY_INST>Yes</PRIMARY_INST>
+			<WORKLOAD>.5</WORKLOAD>
+		</SCHTEACH>
+		<SCHTEACH id="197879656448" dmd:originalSource="IMPORT" dmd:created="2020-01-14T18:26:56"
+			dmd:lastModifiedSource="IMPORT" dmd:lastModified="2020-03-09T01:10:49" dmd:startDate="2020-01-15"
+			dmd:endDate="2020-04-30" dmd:primaryKey="Spring|2020|35169">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2020</TYY_TERM>
+			<TERM_START>2020-01-15</TERM_START>
+			<TERM_END>2020-04-30</TERM_END>
+			<TITLE>Romantic Literature</TITLE>
+			<COURSEPRE>ENG</COURSEPRE>
+			<COURSENUM>4023</COURSENUM>
+			<SECTION>001</SECTION>
+			<COLLEGE>College of Liberal and Fine Arts</COLLEGE>
+			<DEP>English</DEP>
+			<ENROLL>34</ENROLL>
+			<TOTALSCH>102</TOTALSCH>
+			<DIVISION>Upper Division</DIVISION>
+			<LEVEL>Undergraduate</LEVEL>
+			<DELIVERY_MODE>Classroom Lecture</DELIVERY_MODE>
+			<CRN>35169</CRN>
+			<MEETING_TIMES>TR 1000-1115</MEETING_TIMES>
+			<BANNER_CODE>AFF</BANNER_CODE>
+			<BANNER_CODE_DESC>Lecture face-to-face</BANNER_CODE_DESC>
+			<COURSE_TYPE>Regular</COURSE_TYPE>
+			<LINK_ID />
+			<PCT_RESP>100</PCT_RESP>
+			<PRIMARY_INST>Yes</PRIMARY_INST>
+			<WORKLOAD>3</WORKLOAD>
+		</SCHTEACH>
+		<SCHTEACH id="197879658496" dmd:originalSource="IMPORT" dmd:created="2020-01-14T18:26:56"
+			dmd:lastModifiedSource="IMPORT" dmd:lastModified="2020-03-09T01:10:49" dmd:startDate="2020-01-15"
+			dmd:endDate="2020-04-30" dmd:primaryKey="Spring|2020|36158">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2020</TYY_TERM>
+			<TERM_START>2020-01-15</TERM_START>
+			<TERM_END>2020-04-30</TERM_END>
+			<TITLE>Special Topics: Women Writers</TITLE>
+			<COURSEPRE>WS</COURSEPRE>
+			<COURSENUM>3953</COURSENUM>
+			<SECTION>004</SECTION>
+			<COLLEGE />
+			<DEP />
+			<ENROLL>3</ENROLL>
+			<TOTALSCH>9</TOTALSCH>
+			<DIVISION>Upper Division</DIVISION>
+			<LEVEL>Undergraduate</LEVEL>
+			<DELIVERY_MODE>Classroom Lecture</DELIVERY_MODE>
+			<CRN>36158</CRN>
+			<MEETING_TIMES>TR 1130-1245</MEETING_TIMES>
+			<BANNER_CODE>AFF</BANNER_CODE>
+			<BANNER_CODE_DESC>Lecture face-to-face</BANNER_CODE_DESC>
+			<COURSE_TYPE>Cross-Listed</COURSE_TYPE>
+			<LINK_ID>KY</LINK_ID>
+			<PCT_RESP>100</PCT_RESP>
+			<PRIMARY_INST>Yes</PRIMARY_INST>
+			<WORKLOAD>1</WORKLOAD>
+		</SCHTEACH>
+		<SCHTEACH id="197879660544" dmd:originalSource="IMPORT" dmd:created="2020-01-14T18:26:56"
+			dmd:lastModifiedSource="IMPORT" dmd:lastModified="2020-03-09T01:10:49" dmd:startDate="2020-01-15"
+			dmd:endDate="2020-04-30" dmd:primaryKey="Spring|2020|36150">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2020</TYY_TERM>
+			<TERM_START>2020-01-15</TERM_START>
+			<TERM_END>2020-04-30</TERM_END>
+			<TITLE>Studies in Gender &amp; Sexuality</TITLE>
+			<COURSEPRE>AMS</COURSEPRE>
+			<COURSENUM>3443</COURSENUM>
+			<SECTION>002</SECTION>
+			<COLLEGE>College of Liberal and Fine Arts</COLLEGE>
+			<DEP>History</DEP>
+			<ENROLL>3</ENROLL>
+			<TOTALSCH>9</TOTALSCH>
+			<DIVISION>Upper Division</DIVISION>
+			<LEVEL>Undergraduate</LEVEL>
+			<DELIVERY_MODE>Classroom Lecture</DELIVERY_MODE>
+			<CRN>36150</CRN>
+			<MEETING_TIMES>TR 1130-1245</MEETING_TIMES>
+			<BANNER_CODE>AFF</BANNER_CODE>
+			<BANNER_CODE_DESC>Lecture face-to-face</BANNER_CODE_DESC>
+			<COURSE_TYPE>Cross-Listed</COURSE_TYPE>
+			<LINK_ID>KY</LINK_ID>
+			<PCT_RESP>100</PCT_RESP>
+			<PRIMARY_INST>Yes</PRIMARY_INST>
+			<WORKLOAD>1</WORKLOAD>
+		</SCHTEACH>
+		<SCHTEACH id="197879662592" dmd:originalSource="IMPORT" dmd:created="2020-01-14T18:26:56"
+			dmd:lastModifiedSource="IMPORT" dmd:lastModified="2020-03-09T01:10:49" dmd:startDate="2020-01-15"
+			dmd:endDate="2020-04-30" dmd:primaryKey="Spring|2020|35151">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2020</TYY_TERM>
+			<TERM_START>2020-01-15</TERM_START>
+			<TERM_END>2020-04-30</TERM_END>
+			<TITLE>Topics in the British Novel</TITLE>
+			<COURSEPRE>ENG</COURSEPRE>
+			<COURSENUM>3243</COURSENUM>
+			<SECTION>001</SECTION>
+			<COLLEGE>College of Liberal and Fine Arts</COLLEGE>
+			<DEP>English</DEP>
+			<ENROLL>16</ENROLL>
+			<TOTALSCH>48</TOTALSCH>
+			<DIVISION>Upper Division</DIVISION>
+			<LEVEL>Undergraduate</LEVEL>
+			<DELIVERY_MODE>Classroom Lecture</DELIVERY_MODE>
+			<CRN>35151</CRN>
+			<MEETING_TIMES>TR 1130-1245</MEETING_TIMES>
+			<BANNER_CODE>AFF</BANNER_CODE>
+			<BANNER_CODE_DESC>Lecture face-to-face</BANNER_CODE_DESC>
+			<COURSE_TYPE>Cross-Listed</COURSE_TYPE>
+			<LINK_ID>KY</LINK_ID>
+			<PCT_RESP>100</PCT_RESP>
+			<PRIMARY_INST>Yes</PRIMARY_INST>
+			<WORKLOAD>1</WORKLOAD>
+		</SCHTEACH>
+		<SCHTEACH id="191388180480" dmd:originalSource="IMPORT" dmd:created="2019-08-28T18:47:03"
+			dmd:lastModifiedSource="IMPORT" dmd:lastModified="2019-10-15T23:43:54" dmd:startDate="2019-09-01"
+			dmd:endDate="2019-12-31" dmd:primaryKey="Fall|2019|10147">
+			<TYT_TERM>Fall</TYT_TERM>
+			<TYY_TERM>2019</TYY_TERM>
+			<TERM_START>2019-09-01</TERM_START>
+			<TERM_END>2019-12-31</TERM_END>
+			<TITLE>British Literature II</TITLE>
+			<COURSEPRE>ENG</COURSEPRE>
+			<COURSENUM>2233</COURSENUM>
+			<SECTION>001</SECTION>
+			<COLLEGE>College of Liberal and Fine Arts</COLLEGE>
+			<DEP>English</DEP>
+			<ENROLL>40</ENROLL>
+			<TOTALSCH>120</TOTALSCH>
+			<DIVISION>Lower Division</DIVISION>
+			<LEVEL>Undergraduate</LEVEL>
+			<DELIVERY_MODE>Classroom Lecture</DELIVERY_MODE>
+			<CRN>10147</CRN>
+			<MEETING_TIMES>MWF 0900-0950</MEETING_TIMES>
+			<BANNER_CODE>AFF</BANNER_CODE>
+			<BANNER_CODE_DESC>Lecture face-to-face</BANNER_CODE_DESC>
+			<COURSE_TYPE>Regular</COURSE_TYPE>
+			<LINK_ID />
+			<PCT_RESP>100</PCT_RESP>
+			<PRIMARY_INST>Yes</PRIMARY_INST>
+			<WORKLOAD>3</WORKLOAD>
+		</SCHTEACH>
+		<SCHTEACH id="191388182528" dmd:originalSource="IMPORT" dmd:created="2019-08-28T18:47:03"
+			dmd:lastModifiedSource="IMPORT" dmd:lastModified="2019-10-15T23:43:54" dmd:startDate="2019-09-01"
+			dmd:endDate="2019-12-31" dmd:primaryKey="Fall|2019|19383">
+			<TYT_TERM>Fall</TYT_TERM>
+			<TYY_TERM>2019</TYY_TERM>
+			<TERM_START>2019-09-01</TERM_START>
+			<TERM_END>2019-12-31</TERM_END>
+			<TITLE>Directed Readings</TITLE>
+			<COURSEPRE>ENG</COURSEPRE>
+			<COURSENUM>7213</COURSENUM>
+			<SECTION>005</SECTION>
+			<COLLEGE>College of Liberal and Fine Arts</COLLEGE>
+			<DEP>English</DEP>
+			<ENROLL>2</ENROLL>
+			<TOTALSCH>6</TOTALSCH>
+			<DIVISION />
+			<LEVEL>Graduate</LEVEL>
+			<DELIVERY_MODE />
+			<CRN>19383</CRN>
+			<MEETING_TIMES />
+			<BANNER_CODE>FFF</BANNER_CODE>
+			<BANNER_CODE_DESC>Independent Study,face-to-face</BANNER_CODE_DESC>
+			<COURSE_TYPE>Regular</COURSE_TYPE>
+			<LINK_ID />
+			<PCT_RESP>100</PCT_RESP>
+			<PRIMARY_INST>Yes</PRIMARY_INST>
+			<WORKLOAD>1.2</WORKLOAD>
+		</SCHTEACH>
+		<SCHTEACH id="191388184576" dmd:originalSource="IMPORT" dmd:created="2019-08-28T18:47:03"
+			dmd:lastModifiedSource="IMPORT" dmd:lastModified="2019-10-15T23:43:54" dmd:startDate="2019-09-01"
+			dmd:endDate="2019-12-31" dmd:primaryKey="Fall|2019|11167">
+			<TYT_TERM>Fall</TYT_TERM>
+			<TYY_TERM>2019</TYY_TERM>
+			<TERM_START>2019-09-01</TERM_START>
+			<TERM_END>2019-12-31</TERM_END>
+			<TITLE>Master's Thesis</TITLE>
+			<COURSEPRE>ENG</COURSEPRE>
+			<COURSENUM>6983</COURSENUM>
+			<SECTION>001</SECTION>
+			<COLLEGE>College of Liberal and Fine Arts</COLLEGE>
+			<DEP>English</DEP>
+			<ENROLL>1</ENROLL>
+			<TOTALSCH>3</TOTALSCH>
+			<DIVISION />
+			<LEVEL>Graduate</LEVEL>
+			<DELIVERY_MODE />
+			<CRN>11167</CRN>
+			<MEETING_TIMES />
+			<BANNER_CODE>IFF</BANNER_CODE>
+			<BANNER_CODE_DESC>Thesis, face-to-face</BANNER_CODE_DESC>
+			<COURSE_TYPE>Regular</COURSE_TYPE>
+			<LINK_ID />
+			<PCT_RESP>100</PCT_RESP>
+			<PRIMARY_INST>Yes</PRIMARY_INST>
+			<WORKLOAD>.5</WORKLOAD>
+		</SCHTEACH>
+		<SCHTEACH id="191388186624" dmd:originalSource="IMPORT" dmd:created="2019-08-28T18:47:03"
+			dmd:lastModifiedSource="IMPORT" dmd:lastModified="2019-10-15T23:43:54" dmd:startDate="2019-09-01"
+			dmd:endDate="2019-12-31" dmd:primaryKey="Fall|2019|11170">
+			<TYT_TERM>Fall</TYT_TERM>
+			<TYY_TERM>2019</TYY_TERM>
+			<TERM_START>2019-09-01</TERM_START>
+			<TERM_END>2019-12-31</TERM_END>
+			<TITLE>Master's Thesis</TITLE>
+			<COURSEPRE>ENG</COURSEPRE>
+			<COURSENUM>6983</COURSENUM>
+			<SECTION>002</SECTION>
+			<COLLEGE>College of Liberal and Fine Arts</COLLEGE>
+			<DEP>English</DEP>
+			<ENROLL>1</ENROLL>
+			<TOTALSCH>3</TOTALSCH>
+			<DIVISION />
+			<LEVEL>Graduate</LEVEL>
+			<DELIVERY_MODE />
+			<CRN>11170</CRN>
+			<MEETING_TIMES />
+			<BANNER_CODE>IFF</BANNER_CODE>
+			<BANNER_CODE_DESC>Thesis, face-to-face</BANNER_CODE_DESC>
+			<COURSE_TYPE>Regular</COURSE_TYPE>
+			<LINK_ID />
+			<PCT_RESP>100</PCT_RESP>
+			<PRIMARY_INST>Yes</PRIMARY_INST>
+			<WORKLOAD>.5</WORKLOAD>
+		</SCHTEACH>
+		<SCHTEACH id="191388188672" dmd:originalSource="IMPORT" dmd:created="2019-08-28T18:47:03"
+			dmd:lastModifiedSource="IMPORT" dmd:lastModified="2019-10-15T23:43:54" dmd:startDate="2019-09-01"
+			dmd:endDate="2019-12-31" dmd:primaryKey="Fall|2019|24497">
+			<TYT_TERM>Fall</TYT_TERM>
+			<TYY_TERM>2019</TYY_TERM>
+			<TERM_START>2019-09-01</TERM_START>
+			<TERM_END>2019-12-31</TERM_END>
+			<TITLE>Restoration and Eighteenth-Century Literature</TITLE>
+			<COURSEPRE>ENG</COURSEPRE>
+			<COURSENUM>5413</COURSENUM>
+			<SECTION>001</SECTION>
+			<COLLEGE>College of Liberal and Fine Arts</COLLEGE>
+			<DEP>English</DEP>
+			<ENROLL>11</ENROLL>
+			<TOTALSCH>33</TOTALSCH>
+			<DIVISION />
+			<LEVEL>Graduate</LEVEL>
+			<DELIVERY_MODE>Classroom Lecture</DELIVERY_MODE>
+			<CRN>24497</CRN>
+			<MEETING_TIMES>W 1800-2045</MEETING_TIMES>
+			<BANNER_CODE>AFF</BANNER_CODE>
+			<BANNER_CODE_DESC>Lecture face-to-face</BANNER_CODE_DESC>
+			<COURSE_TYPE>Regular</COURSE_TYPE>
+			<LINK_ID />
+			<PCT_RESP>100</PCT_RESP>
+			<PRIMARY_INST>Yes</PRIMARY_INST>
+			<WORKLOAD>4.5</WORKLOAD>
+		</SCHTEACH>
+		<SCHTEACH id="176491276288" dmd:originalSource="IMPORT" dmd:created="2019-01-09T15:17:44"
+			dmd:lastModifiedSource="IMPORT" dmd:lastModified="2019-05-29T11:07:27" dmd:startDate="2019-01-15"
+			dmd:endDate="2019-04-30" dmd:primaryKey="Spring|2019|30681">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2019</TYY_TERM>
+			<TERM_START>2019-01-15</TERM_START>
+			<TERM_END>2019-04-30</TERM_END>
+			<TITLE>Directed Readings</TITLE>
+			<COURSEPRE>ENG</COURSEPRE>
+			<COURSENUM>7213</COURSENUM>
+			<SECTION>006</SECTION>
+			<COLLEGE>College of Liberal and Fine Arts</COLLEGE>
+			<DEP>English</DEP>
+			<ENROLL>1</ENROLL>
+			<TOTALSCH>3</TOTALSCH>
+			<DIVISION />
+			<LEVEL>Graduate</LEVEL>
+			<DELIVERY_MODE />
+			<CRN>30681</CRN>
+			<MEETING_TIMES />
+			<BANNER_CODE>FFF</BANNER_CODE>
+			<BANNER_CODE_DESC>Independent Study,face-to-face</BANNER_CODE_DESC>
+			<COURSE_TYPE>Regular</COURSE_TYPE>
+			<LINK_ID />
+			<PCT_RESP>100</PCT_RESP>
+			<PRIMARY_INST>Yes</PRIMARY_INST>
+			<WORKLOAD>.6</WORKLOAD>
+		</SCHTEACH>
+		<SCHTEACH id="176491278336" dmd:originalSource="IMPORT" dmd:created="2019-01-09T15:17:44"
+			dmd:lastModifiedSource="IMPORT" dmd:lastModified="2019-05-29T11:07:27" dmd:startDate="2019-01-15"
+			dmd:endDate="2019-04-30" dmd:primaryKey="Spring|2019|33910">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2019</TYY_TERM>
+			<TERM_START>2019-01-15</TERM_START>
+			<TERM_END>2019-04-30</TERM_END>
+			<TITLE>Seminar For English Majors</TITLE>
+			<COURSEPRE>ENG</COURSEPRE>
+			<COURSENUM>4973</COURSENUM>
+			<SECTION>003</SECTION>
+			<COLLEGE>College of Liberal and Fine Arts</COLLEGE>
+			<DEP>English</DEP>
+			<ENROLL>16</ENROLL>
+			<TOTALSCH>48</TOTALSCH>
+			<DIVISION>Upper Division</DIVISION>
+			<LEVEL>Undergraduate</LEVEL>
+			<DELIVERY_MODE>Discussion/Seminar</DELIVERY_MODE>
+			<CRN>33910</CRN>
+			<MEETING_TIMES>W 1300-1545</MEETING_TIMES>
+			<BANNER_CODE>EFF</BANNER_CODE>
+			<BANNER_CODE_DESC>Seminar, face-to-face</BANNER_CODE_DESC>
+			<COURSE_TYPE>Regular</COURSE_TYPE>
+			<LINK_ID />
+			<PCT_RESP>100</PCT_RESP>
+			<PRIMARY_INST>Yes</PRIMARY_INST>
+			<WORKLOAD>3</WORKLOAD>
+		</SCHTEACH>
+		<SCHTEACH id="168418828288" dmd:originalSource="IMPORT" dmd:created="2018-08-20T16:36:09"
+			dmd:lastModifiedSource="IMPORT" dmd:lastModified="2019-03-29T17:13:07" dmd:startDate="2018-09-01"
+			dmd:endDate="2018-12-31" dmd:primaryKey="Fall|2018|10147">
+			<TYT_TERM>Fall</TYT_TERM>
+			<TYY_TERM>2018</TYY_TERM>
+			<TERM_START>2018-09-01</TERM_START>
+			<TERM_END>2018-12-31</TERM_END>
+			<TITLE>British Literature II</TITLE>
+			<COURSEPRE>ENG</COURSEPRE>
+			<COURSENUM>2233</COURSENUM>
+			<SECTION>001</SECTION>
+			<COLLEGE>College of Liberal and Fine Arts</COLLEGE>
+			<DEP>English</DEP>
+			<ENROLL>52</ENROLL>
+			<TOTALSCH>156</TOTALSCH>
+			<DIVISION>Lower Division</DIVISION>
+			<LEVEL>Undergraduate</LEVEL>
+			<DELIVERY_MODE>Classroom Lecture</DELIVERY_MODE>
+			<CRN>10147</CRN>
+			<MEETING_TIMES>MWF 0900-0950</MEETING_TIMES>
+			<BANNER_CODE>AFF</BANNER_CODE>
+			<BANNER_CODE_DESC>Lecture face-to-face</BANNER_CODE_DESC>
+			<COURSE_TYPE>Regular</COURSE_TYPE>
+			<LINK_ID />
+			<PCT_RESP>100</PCT_RESP>
+			<PRIMARY_INST>Yes</PRIMARY_INST>
+			<WORKLOAD>3</WORKLOAD>
+		</SCHTEACH>
+		<SCHTEACH id="168418826240" dmd:originalSource="IMPORT" dmd:created="2018-08-20T16:36:09"
+			dmd:lastModifiedSource="IMPORT" dmd:lastModified="2019-03-29T17:13:07" dmd:startDate="2018-09-01"
+			dmd:endDate="2018-12-31" dmd:primaryKey="Fall|2018|22832">
+			<TYT_TERM>Fall</TYT_TERM>
+			<TYY_TERM>2018</TYY_TERM>
+			<TERM_START>2018-09-01</TERM_START>
+			<TERM_END>2018-12-31</TERM_END>
+			<TITLE>Nineteenth-Century British Literature</TITLE>
+			<COURSEPRE>ENG</COURSEPRE>
+			<COURSENUM>5513</COURSENUM>
+			<SECTION>001</SECTION>
+			<COLLEGE>College of Liberal and Fine Arts</COLLEGE>
+			<DEP>English</DEP>
+			<ENROLL>22</ENROLL>
+			<TOTALSCH>66</TOTALSCH>
+			<DIVISION />
+			<LEVEL>Graduate</LEVEL>
+			<DELIVERY_MODE>Classroom Lecture</DELIVERY_MODE>
+			<CRN>22832</CRN>
+			<MEETING_TIMES>T 1800-2045</MEETING_TIMES>
+			<BANNER_CODE>AFF</BANNER_CODE>
+			<BANNER_CODE_DESC>Lecture face-to-face</BANNER_CODE_DESC>
+			<COURSE_TYPE>Regular</COURSE_TYPE>
+			<LINK_ID />
+			<PCT_RESP>100</PCT_RESP>
+			<PRIMARY_INST>Yes</PRIMARY_INST>
+			<WORKLOAD>4.5</WORKLOAD>
+		</SCHTEACH>
+		<DSL id="225580304384" dmd:originalSource="MANUAL" dmd:created="2021-09-15T14:33:01"
+			dmd:lastModifiedSource="MANUAL" dmd:lastModified="2021-09-15T14:33:01" dmd:startDate="2021-09-01">
+			<TYPE />
+			<TYPE_OTHER />
+			<DSL_STUDENT id="225580304385">
+				<FNAME>Aravis</FNAME>
+				<LNAME>Thomas</LNAME>
+				<STUDENT_CLASSIFICATION>Graduate (UTSA)</STUDENT_CLASSIFICATION>
+				<SHDEP>English</SHDEP>
+				<STUDENT_INSTITUTION />
+				<DEGREE />
+				<DEGREE_NON_UTSA />
+			</DSL_STUDENT>
+			<TITLE>Foster Care Narratives</TITLE>
+			<SCHTEACH_REF />
+			<COMPSTAGE>In-Process</COMPSTAGE>
+			<COMMENT>Directed Readings</COMMENT>
+			<DTM_START>September</DTM_START>
+			<DTD_START>1</DTD_START>
+			<DTY_START>2021</DTY_START>
+			<START_START>2021-09-01</START_START>
+			<START_END>2021-09-01</START_END>
+			<DTM_END />
+			<DTD_END />
+			<DTY_END />
+			<END_START></END_START>
+			<END_END></END_END>
+		</DSL>
+		<DSL id="225580390400" dmd:originalSource="MANUAL" dmd:created="2021-09-15T14:34:06"
+			dmd:lastModifiedSource="MANUAL" dmd:lastModified="2021-09-15T14:34:07" dmd:startDate="2021-09-01">
+			<TYPE />
+			<TYPE_OTHER />
+			<DSL_STUDENT id="225580390401">
+				<FNAME>Danielle</FNAME>
+				<LNAME>Lopez</LNAME>
+				<STUDENT_CLASSIFICATION>Graduate (UTSA)</STUDENT_CLASSIFICATION>
+				<SHDEP>English</SHDEP>
+				<STUDENT_INSTITUTION />
+				<DEGREE />
+				<DEGREE_NON_UTSA />
+			</DSL_STUDENT>
+			<TITLE>Soveriegn Spirtuality in Chicana Literature</TITLE>
+			<SCHTEACH_REF />
+			<COMPSTAGE>In-Process</COMPSTAGE>
+			<COMMENT>Directed Readings</COMMENT>
+			<DTM_START>September</DTM_START>
+			<DTD_START>1</DTD_START>
+			<DTY_START>2021</DTY_START>
+			<START_START>2021-09-01</START_START>
+			<START_END>2021-09-01</START_END>
+			<DTM_END />
+			<DTD_END />
+			<DTY_END />
+			<END_START></END_START>
+			<END_END></END_END>
+		</DSL>
+		<DSL id="181241624576" dmd:originalSource="MANUAL" dmd:created="2019-02-14T11:22:57"
+			dmd:lastModifiedSource="MANUAL" dmd:lastModified="2019-02-14T11:22:58" dmd:startDate="2018-10-30"
+			dmd:endDate="2018-10-30">
+			<TYPE>Master's Non-Thesis Committee Member</TYPE>
+			<TYPE_OTHER />
+			<DSL_STUDENT id="181241624577">
+				<FNAME>Knodle</FNAME>
+				<LNAME>Christopher</LNAME>
+				<SHDEP>English</SHDEP>
+			</DSL_STUDENT>
+			<TITLE>MA Oral Exam</TITLE>
+			<SCHTEACH_REF />
+			<COMPSTAGE>Completed</COMPSTAGE>
+			<COMMENT />
+			<DTM_START />
+			<DTD_START />
+			<DTY_START />
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_END>October</DTM_END>
+			<DTD_END>30</DTD_END>
+			<DTY_END>2018</DTY_END>
+			<END_START>2018-10-30</END_START>
+			<END_END>2018-10-30</END_END>
+		</DSL>
+		<INTELLCONT id="225582991360" dmd:originalSource="MANUAL" dmd:created="2021-09-15T15:15:09"
+			dmd:lastModifiedSource="MANUAL" dmd:lastModified="2021-09-15T15:15:10" dmd:startDate="2020-12-01"
+			dmd:endDate="2021-03-01">
+			<CONTYPE>Journal Article, Academic Journal</CONTYPE>
+			<CONTYPEOTHER />
+			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
+			<PUBLICATION_LEVEL />
+			<STATUS>Published</STATUS>
+			<TITLE>‘ “The Wealth of Worlds”: Gender, Race, and Property in The Woman of Colour (1808)’.</TITLE>
+			<TITLE_SECONDARY>Studies in Religion and the Enlightenment </TITLE_SECONDARY>
+			<INTELLCONT_AUTH id="225582991361">
+				<FACULTY_NAME>2109405</FACULTY_NAME>
+				<FNAME>Kerry</FNAME>
+				<MNAME />
+				<LNAME>Sinanan</LNAME>
+				<STUDENT_LEVEL />
+				<ROLE />
+			</INTELLCONT_AUTH>
+			<PUBLISHER>Studies in Religion and the Enlightenment </PUBLISHER>
+			<PUBCTYST />
+			<PUBCNTRY />
+			<VOLUME>2</VOLUME>
+			<ISSUE>2</ISSUE>
+			<PAGENUM>53-56.</PAGENUM>
+			<WEB_ADDRESS>https://www.srejournal.org/</WEB_ADDRESS>
+			<EDITORS>Sam Cahill</EDITORS>
+			<ISBNISSN />
+			<DOI>DOI: 10.32655/srej.2021.2.2.17</DOI>
+			<AUDIENCE>International</AUDIENCE>
+			<REFEREED>Yes</REFEREED>
+			<EDITORIAL_REVIEWED />
+			<PUBLICAVAIL>Yes</PUBLICAVAIL>
+			<ACTIVITY_RANK />
+			<ACTIVITY_RANK_OTHER />
+			<AREA>Human and Social Development</AREA>
+			<ABSTRACT>As Saidiya Hartman asserts, “The plantation is the belly of the world.” Between the womb of her
+				mother and the plantation profits of her father, Olivia’s attempt to refuse “the wealth of worlds”
+				registers the novel’s simultaneous reach for Black emancipation &lt;i&gt;and &lt;/i&gt;awareness of the
+				limits of freedom in a transatlantic world underwritten by the dispossession of Black mothers.
+			</ABSTRACT>
+			<FULL_TEXT>zew310/intellcont/KS Wealth of Worlds SER-1.pdf</FULL_TEXT>
+			<DTM_START>March</DTM_START>
+			<DTD_START>1</DTD_START>
+			<DTY_START>2021</DTY_START>
+			<START_START>2021-03-01</START_START>
+			<START_END>2021-03-01</START_END>
+			<DTM_SUB>December</DTM_SUB>
+			<DTD_SUB>1</DTD_SUB>
+			<DTY_SUB>2020</DTY_SUB>
+			<SUB_START>2020-12-01</SUB_START>
+			<SUB_END>2020-12-01</SUB_END>
+			<DTM_EXPSUB />
+			<DTD_EXPSUB />
+			<DTY_EXPSUB />
+			<EXPSUB_START></EXPSUB_START>
+			<EXPSUB_END></EXPSUB_END>
+			<DTM_ACC />
+			<DTY_ACC />
+			<ACC_START></ACC_START>
+			<ACC_END></ACC_END>
+			<DTM_PUB>January (1st Quarter/Winter)</DTM_PUB>
+			<DTD_PUB>1</DTD_PUB>
+			<DTY_PUB>2021</DTY_PUB>
+			<PUB_START>2021-01-01</PUB_START>
+			<PUB_END>2021-01-01</PUB_END>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</INTELLCONT>
+		<INTELLCONT id="225584261120" dmd:originalSource="MANUAL" dmd:created="2021-09-15T15:45:03"
+			dmd:lastModifiedSource="MANUAL" dmd:lastModified="2021-09-15T15:45:04" dmd:startDate="2020-10-01"
+			dmd:endDate="2020-10-31">
+			<CONTYPE>Book, Chapter in Scholarly Book-New</CONTYPE>
+			<CONTYPEOTHER />
+			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
+			<PUBLICATION_LEVEL />
+			<STATUS>Published</STATUS>
+			<TITLE>Slavery and Glass: Tropes of “Race” and Reflection</TITLE>
+			<TITLE_SECONDARY>In Sparkling Company: A History of English Glass. </TITLE_SECONDARY>
+			<INTELLCONT_AUTH id="225584261121">
+				<FACULTY_NAME>2109405</FACULTY_NAME>
+				<FNAME>Kerry</FNAME>
+				<MNAME />
+				<LNAME>Sinanan</LNAME>
+				<STUDENT_LEVEL />
+				<ROLE />
+			</INTELLCONT_AUTH>
+			<PUBLISHER>Corning, New York: The Corning Museum,</PUBLISHER>
+			<PUBCTYST />
+			<PUBCNTRY />
+			<VOLUME />
+			<ISSUE />
+			<PAGENUM />
+			<WEB_ADDRESS />
+			<EDITORS>Christopher Maxwell </EDITORS>
+			<ISBNISSN />
+			<DOI />
+			<AUDIENCE>International</AUDIENCE>
+			<REFEREED />
+			<EDITORIAL_REVIEWED />
+			<PUBLICAVAIL>Yes</PUBLICAVAIL>
+			<ACTIVITY_RANK />
+			<ACTIVITY_RANK_OTHER />
+			<AREA />
+			<ABSTRACT>The History of glass and slavery are intertwined. </ABSTRACT>
+			<FULL_TEXT />
+			<DTM_START />
+			<DTD_START />
+			<DTY_START />
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_SUB />
+			<DTD_SUB />
+			<DTY_SUB />
+			<SUB_START></SUB_START>
+			<SUB_END></SUB_END>
+			<DTM_EXPSUB />
+			<DTD_EXPSUB />
+			<DTY_EXPSUB />
+			<EXPSUB_START></EXPSUB_START>
+			<EXPSUB_END></EXPSUB_END>
+			<DTM_ACC />
+			<DTY_ACC />
+			<ACC_START></ACC_START>
+			<ACC_END></ACC_END>
+			<DTM_PUB>October (4th Quarter/Autumn)</DTM_PUB>
+			<DTD_PUB />
+			<DTY_PUB>2020</DTY_PUB>
+			<PUB_START>2020-10-01</PUB_START>
+			<PUB_END>2020-10-31</PUB_END>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</INTELLCONT>
+		<INTELLCONT id="225583687680" dmd:originalSource="MANUAL" dmd:created="2021-09-15T15:31:32"
+			dmd:lastModifiedSource="MANUAL" dmd:lastModified="2021-09-15T15:31:33" dmd:startDate="2020-10-01"
+			dmd:endDate="2020-10-31">
+			<CONTYPE>Book, Chapter in Scholarly Book-New</CONTYPE>
+			<CONTYPEOTHER />
+			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
+			<PUBLICATION_LEVEL />
+			<STATUS>Published</STATUS>
+			<TITLE>‘Lost mothers in the Caribbean Plantation and Black Maternal and Infant Mortality, Now’</TITLE>
+			<TITLE_SECONDARY>In Caribbean Literature in Transition. Volume 1. 1800-1920. </TITLE_SECONDARY>
+			<INTELLCONT_AUTH id="225583687681">
+				<FACULTY_NAME>2109405</FACULTY_NAME>
+				<FNAME>Kerry</FNAME>
+				<MNAME />
+				<LNAME>Sinanan</LNAME>
+				<STUDENT_LEVEL />
+				<ROLE />
+			</INTELLCONT_AUTH>
+			<PUBLISHER />
+			<PUBCTYST />
+			<PUBCNTRY>Cambridge: Cambridge University Press</PUBCNTRY>
+			<VOLUME>1</VOLUME>
+			<ISSUE />
+			<PAGENUM />
+			<WEB_ADDRESS />
+			<EDITORS />
+			<ISBNISSN> ISBN-13: 978-1108475884 </ISBNISSN>
+			<DOI />
+			<AUDIENCE>International</AUDIENCE>
+			<REFEREED>Yes</REFEREED>
+			<EDITORIAL_REVIEWED />
+			<PUBLICAVAIL>Yes</PUBLICAVAIL>
+			<ACTIVITY_RANK />
+			<ACTIVITY_RANK_OTHER />
+			<AREA>Human and Social Development</AREA>
+			<ABSTRACT>This chapter examines the representations of enslaved mothers in the British Caribbean and Black
+				maternal mortality today. </ABSTRACT>
+			<FULL_TEXT />
+			<DTM_START />
+			<DTD_START />
+			<DTY_START />
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_SUB />
+			<DTD_SUB />
+			<DTY_SUB />
+			<SUB_START></SUB_START>
+			<SUB_END></SUB_END>
+			<DTM_EXPSUB />
+			<DTD_EXPSUB />
+			<DTY_EXPSUB />
+			<EXPSUB_START></EXPSUB_START>
+			<EXPSUB_END></EXPSUB_END>
+			<DTM_ACC />
+			<DTY_ACC />
+			<ACC_START></ACC_START>
+			<ACC_END></ACC_END>
+			<DTM_PUB>October (4th Quarter/Autumn)</DTM_PUB>
+			<DTD_PUB />
+			<DTY_PUB>2020</DTY_PUB>
+			<PUB_START>2020-10-01</PUB_START>
+			<PUB_END>2020-10-31</PUB_END>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</INTELLCONT>
+		<INTELLCONT id="180941219840" dmd:originalSource="MANUAL" dmd:created="2019-02-11T14:18:32"
+			dmd:lastModifiedSource="MANUAL" dmd:lastModified="2021-09-15T14:38:31" dmd:startDate="2018-08-30"
+			dmd:endDate="2020-08-01">
+			<CONTYPE>Journal Article, Academic Journal</CONTYPE>
+			<CONTYPEOTHER />
+			<CLASSIFICATION />
+			<PUBLICATION_LEVEL />
+			<STATUS>Published</STATUS>
+			<TITLE>‘The Slave as Cultural Artefact: the case of Mary Prince’</TITLE>
+			<TITLE_SECONDARY>Studies in Eighteenth-Century Culture</TITLE_SECONDARY>
+			<INTELLCONT_AUTH id="180941219841">
+				<FACULTY_NAME>2109405</FACULTY_NAME>
+				<FNAME>Kerry</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Sinanan</LNAME>
+				<STUDENT_LEVEL />
+				<ROLE />
+			</INTELLCONT_AUTH>
+			<PUBLISHER>Studies in Eighteenth-Century Culture</PUBLISHER>
+			<PUBCTYST />
+			<PUBCNTRY />
+			<VOLUME>49</VOLUME>
+			<ISSUE />
+			<PAGENUM>69-87.</PAGENUM>
+			<WEB_ADDRESS>https://muse.jhu.edu/article/773119/summary</WEB_ADDRESS>
+			<EDITORS>Eds. Eve Tavor Bannet and Roxann Wheeler.</EDITORS>
+			<ISBNISSN />
+			<DOI>10.1353/sec.2020.0007</DOI>
+			<AUDIENCE>International</AUDIENCE>
+			<REFEREED>Yes</REFEREED>
+			<EDITORIAL_REVIEWED />
+			<PUBLICAVAIL>Yes</PUBLICAVAIL>
+			<ACTIVITY_RANK />
+			<ACTIVITY_RANK_OTHER />
+			<AREA>Human and Social Development</AREA>
+			<ABSTRACT>This article examines post-2007 commemorations of Mary Prince. </ABSTRACT>
+			<FULL_TEXT>zew310/intellcont/Sinanan Mary Prince-1.pdf</FULL_TEXT>
+			<DTM_START />
+			<DTD_START />
+			<DTY_START />
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_SUB>August</DTM_SUB>
+			<DTD_SUB>30</DTD_SUB>
+			<DTY_SUB>2018</DTY_SUB>
+			<SUB_START>2018-08-30</SUB_START>
+			<SUB_END>2018-08-30</SUB_END>
+			<DTM_EXPSUB />
+			<DTD_EXPSUB />
+			<DTY_EXPSUB />
+			<EXPSUB_START></EXPSUB_START>
+			<EXPSUB_END></EXPSUB_END>
+			<DTM_ACC />
+			<DTY_ACC />
+			<ACC_START></ACC_START>
+			<ACC_END></ACC_END>
+			<DTM_PUB>August</DTM_PUB>
+			<DTD_PUB>1</DTD_PUB>
+			<DTY_PUB>2020</DTY_PUB>
+			<PUB_START>2020-08-01</PUB_START>
+			<PUB_END>2020-08-01</PUB_END>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</INTELLCONT>
+		<INTELLCONT id="225583513600" dmd:originalSource="MANUAL" dmd:created="2021-09-15T15:28:19"
+			dmd:lastModifiedSource="MANUAL" dmd:lastModified="2021-09-15T15:28:19" dmd:startDate="2020-07-01"
+			dmd:endDate="2020-07-31">
+			<CONTYPE>Journal Article, Other</CONTYPE>
+			<CONTYPEOTHER />
+			<CLASSIFICATION />
+			<PUBLICATION_LEVEL />
+			<STATUS>Published</STATUS>
+			<TITLE>‘Heterogeneous Blackness: Peter Brathwaite’s Eighteenth-Century Re-Portraits’. </TITLE>
+			<TITLE_SECONDARY />
+			<INTELLCONT_AUTH id="225583513601">
+				<FACULTY_NAME>2109405</FACULTY_NAME>
+				<FNAME>Kerry</FNAME>
+				<MNAME />
+				<LNAME>Sinanan</LNAME>
+				<STUDENT_LEVEL />
+				<ROLE />
+			</INTELLCONT_AUTH>
+			<PUBLISHER>The 18th-Century Common</PUBLISHER>
+			<PUBCTYST />
+			<PUBCNTRY />
+			<VOLUME />
+			<ISSUE />
+			<PAGENUM />
+			<WEB_ADDRESS>https://www.18thcenturycommon.org/blackportraiture/</WEB_ADDRESS>
+			<EDITORS>Jessica Richard</EDITORS>
+			<ISBNISSN />
+			<DOI />
+			<AUDIENCE>International</AUDIENCE>
+			<REFEREED />
+			<EDITORIAL_REVIEWED />
+			<PUBLICAVAIL />
+			<ACTIVITY_RANK />
+			<ACTIVITY_RANK_OTHER />
+			<AREA>Human and Social Development</AREA>
+			<ABSTRACT>&lt;i&gt;This is a collaborative piece that has emerged out of interviews between Peter Brathwaite
+				and Kerry Sinanan in response to Brathwaite’s &lt;/i&gt;Rediscovering Black Portraiture
+				&lt;i&gt;project, 2020&lt;/i&gt;</ABSTRACT>
+			<FULL_TEXT />
+			<DTM_START />
+			<DTD_START />
+			<DTY_START />
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_SUB />
+			<DTD_SUB />
+			<DTY_SUB />
+			<SUB_START></SUB_START>
+			<SUB_END></SUB_END>
+			<DTM_EXPSUB />
+			<DTD_EXPSUB />
+			<DTY_EXPSUB />
+			<EXPSUB_START></EXPSUB_START>
+			<EXPSUB_END></EXPSUB_END>
+			<DTM_ACC />
+			<DTY_ACC />
+			<ACC_START></ACC_START>
+			<ACC_END></ACC_END>
+			<DTM_PUB>July (3rd Quarter/Summer)</DTM_PUB>
+			<DTD_PUB />
+			<DTY_PUB>2020</DTY_PUB>
+			<PUB_START>2020-07-01</PUB_START>
+			<PUB_END>2020-07-31</PUB_END>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</INTELLCONT>
+		<INTELLCONT id="225583446016" dmd:originalSource="MANUAL" dmd:created="2021-09-15T15:26:08"
+			dmd:lastModifiedSource="MANUAL" dmd:lastModified="2021-09-15T15:26:08" dmd:startDate="2020-07-01"
+			dmd:endDate="2020-07-01">
+			<CONTYPE>Journal Article, Academic Journal</CONTYPE>
+			<CONTYPEOTHER />
+			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
+			<PUBLICATION_LEVEL />
+			<STATUS>Published</STATUS>
+			<TITLE>Maroon Resistance, White Violence, and Romanticism’s Envy of Black Freedom’</TITLE>
+			<TITLE_SECONDARY />
+			<INTELLCONT_AUTH id="225583446017">
+				<FACULTY_NAME>2109405</FACULTY_NAME>
+				<FNAME>Kerry</FNAME>
+				<MNAME />
+				<LNAME>Sinanan</LNAME>
+				<STUDENT_LEVEL />
+				<ROLE />
+			</INTELLCONT_AUTH>
+			<PUBLISHER>Romantic Circles Unbound, </PUBLISHER>
+			<PUBCTYST />
+			<PUBCNTRY />
+			<VOLUME>20.1 Breath</VOLUME>
+			<ISSUE />
+			<PAGENUM />
+			<WEB_ADDRESS>
+				http://romantic-circles.org/blog_rc/maroon-resistance-white-violence-and-romanticism%E2%80%99s-envy-black-freedom
+			</WEB_ADDRESS>
+			<EDITORS>Paul Youngquist and Orrin Wang</EDITORS>
+			<ISBNISSN />
+			<DOI />
+			<AUDIENCE />
+			<REFEREED>Yes</REFEREED>
+			<EDITORIAL_REVIEWED />
+			<PUBLICAVAIL>Yes</PUBLICAVAIL>
+			<ACTIVITY_RANK />
+			<ACTIVITY_RANK_OTHER />
+			<AREA>Human and Social Development</AREA>
+			<ABSTRACT>Since the murder of George Floyd on 25 May 2020, and the subsequent global Black Lives Matter
+				protests, police violence and hate crimes in the US against Black people have continued, unabated. As
+				Stacey Patton wrote on 22 June, drawing words Billie Holiday made famous, “America’s trees are bearing a
+				strange and bitter fruit—dead black bodies.” Tragically, the list of the names of African Americans
+				recently found hanging from trees keeps growing:</ABSTRACT>
+			<FULL_TEXT />
+			<DTM_START />
+			<DTD_START />
+			<DTY_START />
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_SUB />
+			<DTD_SUB />
+			<DTY_SUB />
+			<SUB_START></SUB_START>
+			<SUB_END></SUB_END>
+			<DTM_EXPSUB />
+			<DTD_EXPSUB />
+			<DTY_EXPSUB />
+			<EXPSUB_START></EXPSUB_START>
+			<EXPSUB_END></EXPSUB_END>
+			<DTM_ACC />
+			<DTY_ACC />
+			<ACC_START></ACC_START>
+			<ACC_END></ACC_END>
+			<DTM_PUB>July (3rd Quarter/Summer)</DTM_PUB>
+			<DTD_PUB>1</DTD_PUB>
+			<DTY_PUB>2020</DTY_PUB>
+			<PUB_START>2020-07-01</PUB_START>
+			<PUB_END>2020-07-01</PUB_END>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</INTELLCONT>
+		<INTELLCONT id="225583212544" dmd:originalSource="MANUAL" dmd:created="2021-09-15T15:19:56"
+			dmd:lastModifiedSource="MANUAL" dmd:lastModified="2021-09-15T15:19:57" dmd:startDate="2020-06-10"
+			dmd:endDate="2020-06-10">
+			<CONTYPE>Journal Article, Academic Journal</CONTYPE>
+			<CONTYPEOTHER />
+			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
+			<PUBLICATION_LEVEL />
+			<STATUS>Published</STATUS>
+			<TITLE>‘BLM 2020: Breathing, Resistance, and the War Against Enslavement’</TITLE>
+			<TITLE_SECONDARY />
+			<INTELLCONT_AUTH id="225583212545">
+				<FACULTY_NAME>2109405</FACULTY_NAME>
+				<FNAME>Kerry</FNAME>
+				<MNAME />
+				<LNAME>Sinanan</LNAME>
+				<STUDENT_LEVEL />
+				<ROLE />
+			</INTELLCONT_AUTH>
+			<PUBLISHER>Age of Revolutions.</PUBLISHER>
+			<PUBCTYST />
+			<PUBCNTRY />
+			<VOLUME />
+			<ISSUE />
+			<PAGENUM />
+			<WEB_ADDRESS>
+				https://ageofrevolutions.com/2020/06/10/blm-2020-breathing-resistance-and-the-war-against-enslavement/
+			</WEB_ADDRESS>
+			<EDITORS />
+			<ISBNISSN />
+			<DOI />
+			<AUDIENCE>International</AUDIENCE>
+			<REFEREED>Yes</REFEREED>
+			<EDITORIAL_REVIEWED />
+			<PUBLICAVAIL>Yes</PUBLICAVAIL>
+			<ACTIVITY_RANK />
+			<ACTIVITY_RANK_OTHER />
+			<AREA>Human and Social Development</AREA>
+			<ABSTRACT>As we witness a global, multi-faceted, complex network of uprisings, it seems as if we do indeed
+				need such a framing, which credits the multiple acts of global protest with the kind of complexity
+				granted to battle proper. Brown, as did C.L.R. James before him, tells us that war travels; it is
+				transatlantic and exceeds plantation and island boundaries. And the emphasis on war as opposed to
+				rebellion also explains how Black victims of police violence are in a state of war and their very
+				existence is the act of aggression against the enemy.</ABSTRACT>
+			<FULL_TEXT />
+			<DTM_START />
+			<DTD_START />
+			<DTY_START />
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_SUB />
+			<DTD_SUB />
+			<DTY_SUB />
+			<SUB_START></SUB_START>
+			<SUB_END></SUB_END>
+			<DTM_EXPSUB />
+			<DTD_EXPSUB />
+			<DTY_EXPSUB />
+			<EXPSUB_START></EXPSUB_START>
+			<EXPSUB_END></EXPSUB_END>
+			<DTM_ACC />
+			<DTY_ACC />
+			<ACC_START></ACC_START>
+			<ACC_END></ACC_END>
+			<DTM_PUB>June</DTM_PUB>
+			<DTD_PUB>10</DTD_PUB>
+			<DTY_PUB>2020</DTY_PUB>
+			<PUB_START>2020-06-10</PUB_START>
+			<PUB_END>2020-06-10</PUB_END>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</INTELLCONT>
+		<INTELLCONT id="180939063296" dmd:originalSource="MANUAL" dmd:created="2019-02-11T13:48:46"
+			dmd:lastModifiedSource="MANUAL" dmd:lastModified="2021-09-15T14:39:33" dmd:startDate="2019-12-30"
+			dmd:endDate="2019-12-30">
+			<CONTYPE>Book, Scholarly-New</CONTYPE>
+			<CONTYPEOTHER />
+			<CLASSIFICATION />
+			<PUBLICATION_LEVEL />
+			<STATUS>In Press</STATUS>
+			<TITLE> Austen after 200: New reading Spaces</TITLE>
+			<TITLE_SECONDARY />
+			<INTELLCONT_AUTH id="180939063297">
+				<FACULTY_NAME>2109405</FACULTY_NAME>
+				<FNAME>Kerry</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Sinanan</LNAME>
+				<STUDENT_LEVEL />
+				<ROLE />
+			</INTELLCONT_AUTH>
+			<PUBLISHER>Palgrave Macmillan</PUBLISHER>
+			<PUBCTYST>Basingstoke and New York</PUBCTYST>
+			<PUBCNTRY>United Kingdom</PUBCNTRY>
+			<VOLUME />
+			<ISSUE />
+			<PAGENUM />
+			<WEB_ADDRESS />
+			<EDITORS>Kerry Sinanan, Annika Bautz, Daniel Cook</EDITORS>
+			<ISBNISSN />
+			<DOI />
+			<AUDIENCE>International</AUDIENCE>
+			<REFEREED>Yes</REFEREED>
+			<EDITORIAL_REVIEWED />
+			<PUBLICAVAIL />
+			<ACTIVITY_RANK />
+			<ACTIVITY_RANK_OTHER />
+			<AREA />
+			<ABSTRACT>This volume examines the cross-over appeal of Jane Austen's novels in the period of her
+				bicentenary celebrations.</ABSTRACT>
+			<FULL_TEXT />
+			<DTM_START />
+			<DTD_START />
+			<DTY_START />
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_SUB />
+			<DTD_SUB />
+			<DTY_SUB />
+			<SUB_START></SUB_START>
+			<SUB_END></SUB_END>
+			<DTM_EXPSUB>December</DTM_EXPSUB>
+			<DTD_EXPSUB>30</DTD_EXPSUB>
+			<DTY_EXPSUB>2019</DTY_EXPSUB>
+			<EXPSUB_START>2019-12-30</EXPSUB_START>
+			<EXPSUB_END>2019-12-30</EXPSUB_END>
+			<DTM_ACC />
+			<DTY_ACC />
+			<ACC_START></ACC_START>
+			<ACC_END></ACC_END>
+			<DTM_PUB />
+			<DTD_PUB />
+			<DTY_PUB />
+			<PUB_START></PUB_START>
+			<PUB_END></PUB_END>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</INTELLCONT>
+		<INTELLCONT id="180938883072" dmd:originalSource="MANUAL" dmd:created="2019-02-11T13:46:11"
+			dmd:lastModifiedSource="MANUAL" dmd:lastModified="2021-09-15T15:16:12" dmd:startDate="2017-06-01"
+			dmd:endDate="2019-12-30">
+			<CONTYPE>Monograph</CONTYPE>
+			<CONTYPEOTHER />
+			<CLASSIFICATION />
+			<PUBLICATION_LEVEL />
+			<STATUS>Accepted</STATUS>
+			<TITLE>Myths of Mastery: Traders, Planters and Colonial Agents, 1750-1833</TITLE>
+			<TITLE_SECONDARY />
+			<INTELLCONT_AUTH id="180938883073">
+				<FACULTY_NAME>2109405</FACULTY_NAME>
+				<FNAME>Kerry</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Sinanan</LNAME>
+				<STUDENT_LEVEL />
+				<ROLE />
+			</INTELLCONT_AUTH>
+			<PUBLISHER>North Carolina University Press</PUBLISHER>
+			<PUBCTYST />
+			<PUBCNTRY>USA</PUBCNTRY>
+			<VOLUME />
+			<ISSUE />
+			<PAGENUM />
+			<WEB_ADDRESS />
+			<EDITORS />
+			<ISBNISSN />
+			<DOI />
+			<AUDIENCE />
+			<REFEREED>Yes</REFEREED>
+			<EDITORIAL_REVIEWED />
+			<PUBLICAVAIL />
+			<ACTIVITY_RANK />
+			<ACTIVITY_RANK_OTHER />
+			<AREA />
+			<ABSTRACT />
+			<FULL_TEXT />
+			<DTM_START />
+			<DTD_START />
+			<DTY_START />
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_SUB>June</DTM_SUB>
+			<DTD_SUB>1</DTD_SUB>
+			<DTY_SUB>2017</DTY_SUB>
+			<SUB_START>2017-06-01</SUB_START>
+			<SUB_END>2017-06-01</SUB_END>
+			<DTM_EXPSUB>December</DTM_EXPSUB>
+			<DTD_EXPSUB>30</DTD_EXPSUB>
+			<DTY_EXPSUB>2019</DTY_EXPSUB>
+			<EXPSUB_START>2019-12-30</EXPSUB_START>
+			<EXPSUB_END>2019-12-30</EXPSUB_END>
+			<DTM_ACC />
+			<DTY_ACC />
+			<ACC_START></ACC_START>
+			<ACC_END></ACC_END>
+			<DTM_PUB />
+			<DTD_PUB />
+			<DTY_PUB />
+			<PUB_START></PUB_START>
+			<PUB_END></PUB_END>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</INTELLCONT>
+		<INTELLCONT id="180942749696" dmd:originalSource="MANUAL" dmd:created="2019-02-11T14:42:10"
+			dmd:lastModifiedSource="MANUAL" dmd:lastModified="2021-09-15T14:39:55" dmd:startDate="2015-12-01"
+			dmd:endDate="2019-12-30">
+			<CONTYPE>Book, Chapter in Scholarly Book-New</CONTYPE>
+			<CONTYPEOTHER />
+			<CLASSIFICATION />
+			<PUBLICATION_LEVEL />
+			<STATUS>In Press</STATUS>
+			<TITLE>Introduction</TITLE>
+			<TITLE_SECONDARY>Austen 200</TITLE_SECONDARY>
+			<INTELLCONT_AUTH id="180942749697">
+				<FACULTY_NAME>2109405</FACULTY_NAME>
+				<FNAME>Kerry</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Sinanan</LNAME>
+				<STUDENT_LEVEL />
+				<ROLE />
+			</INTELLCONT_AUTH>
+			<PUBLISHER>Palgrave Macmillan</PUBLISHER>
+			<PUBCTYST>Basingstoke and London</PUBCTYST>
+			<PUBCNTRY>United Kingdom</PUBCNTRY>
+			<VOLUME />
+			<ISSUE />
+			<PAGENUM />
+			<WEB_ADDRESS />
+			<EDITORS>Kerry Sinanan </EDITORS>
+			<ISBNISSN />
+			<DOI />
+			<AUDIENCE>International</AUDIENCE>
+			<REFEREED />
+			<EDITORIAL_REVIEWED />
+			<PUBLICAVAIL />
+			<ACTIVITY_RANK />
+			<ACTIVITY_RANK_OTHER />
+			<AREA />
+			<ABSTRACT>This Introduction examines the culture of Jane Austen's bicentenaries returning our attention to
+				the novels themselves and how they are being read in a variety of arenas. </ABSTRACT>
+			<FULL_TEXT />
+			<DTM_START>December</DTM_START>
+			<DTD_START>1</DTD_START>
+			<DTY_START>2015</DTY_START>
+			<START_START>2015-12-01</START_START>
+			<START_END>2015-12-01</START_END>
+			<DTM_SUB />
+			<DTD_SUB />
+			<DTY_SUB />
+			<SUB_START></SUB_START>
+			<SUB_END></SUB_END>
+			<DTM_EXPSUB>December</DTM_EXPSUB>
+			<DTD_EXPSUB>30</DTD_EXPSUB>
+			<DTY_EXPSUB>2019</DTY_EXPSUB>
+			<EXPSUB_START>2019-12-30</EXPSUB_START>
+			<EXPSUB_END>2019-12-30</EXPSUB_END>
+			<DTM_ACC />
+			<DTY_ACC />
+			<ACC_START></ACC_START>
+			<ACC_END></ACC_END>
+			<DTM_PUB />
+			<DTD_PUB />
+			<DTY_PUB />
+			<PUB_START></PUB_START>
+			<PUB_END></PUB_END>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</INTELLCONT>
+		<INTELLCONT id="180943835136" dmd:originalSource="MANUAL" dmd:created="2019-02-11T14:59:22"
+			dmd:lastModifiedSource="MANUAL" dmd:lastModified="2019-02-11T14:59:22" dmd:startDate="2019-06-01"
+			dmd:endDate="2019-06-30">
+			<CONTYPE>Other</CONTYPE>
+			<CONTYPEOTHER>Edited Academic Blog</CONTYPEOTHER>
+			<CLASSIFICATION />
+			<STATUS>Submitted</STATUS>
+			<TITLE>Teaching Jane Austen</TITLE>
+			<TITLE_SECONDARY />
+			<INTELLCONT_AUTH id="180943835137">
+				<FACULTY_NAME>2109405</FACULTY_NAME>
+				<FNAME>Kerry</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Sinanan</LNAME>
+				<STUDENT_LEVEL />
+			</INTELLCONT_AUTH>
+			<PUBLISHER>Romantic Circles</PUBLISHER>
+			<PUBCTYST />
+			<PUBCNTRY />
+			<VOLUME />
+			<ISSUE />
+			<PAGENUM />
+			<WEB_ADDRESS />
+			<EDITORS />
+			<ISBNISSN />
+			<DOI />
+			<AUDIENCE />
+			<REFEREED />
+			<EDITORIAL_REVIEWED />
+			<PUBLICAVAIL />
+			<ACTIVITY_RANK />
+			<ACTIVITY_RANK_OTHER />
+			<AREA />
+			<ABSTRACT />
+			<FULL_TEXT />
+			<DTM_START />
+			<DTD_START />
+			<DTY_START />
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_SUB />
+			<DTD_SUB />
+			<DTY_SUB />
+			<SUB_START></SUB_START>
+			<SUB_END></SUB_END>
+			<DTM_EXPSUB />
+			<DTD_EXPSUB />
+			<DTY_EXPSUB />
+			<EXPSUB_START></EXPSUB_START>
+			<EXPSUB_END></EXPSUB_END>
+			<DTM_ACC />
+			<DTY_ACC />
+			<ACC_START></ACC_START>
+			<ACC_END></ACC_END>
+			<DTM_PUB>June</DTM_PUB>
+			<DTD_PUB />
+			<DTY_PUB>2019</DTY_PUB>
+			<PUB_START>2019-06-01</PUB_START>
+			<PUB_END>2019-06-30</PUB_END>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</INTELLCONT>
+		<INTELLCONT id="180942432256" dmd:originalSource="MANUAL" dmd:created="2019-02-11T14:37:16"
+			dmd:lastModifiedSource="MANUAL" dmd:lastModified="2021-09-15T15:16:28" dmd:startDate="2015-12-12"
+			dmd:endDate="2015-12-12">
+			<CONTYPE>Book, Chapter in Scholarly Book-New</CONTYPE>
+			<CONTYPEOTHER />
+			<CLASSIFICATION />
+			<PUBLICATION_LEVEL />
+			<STATUS>In Press</STATUS>
+			<TITLE>Mr Darcy: Austen’s Imperial Man of Feeling</TITLE>
+			<TITLE_SECONDARY>Austen After 200: Reading After the Bicentenaries. </TITLE_SECONDARY>
+			<INTELLCONT_AUTH id="180942432257">
+				<FACULTY_NAME>2109405</FACULTY_NAME>
+				<FNAME>Kerry</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Sinanan</LNAME>
+				<STUDENT_LEVEL />
+				<ROLE />
+			</INTELLCONT_AUTH>
+			<PUBLISHER>Palgrave Macmillan</PUBLISHER>
+			<PUBCTYST>Basingstoke and New York</PUBCTYST>
+			<PUBCNTRY>United Kingdom</PUBCNTRY>
+			<VOLUME />
+			<ISSUE />
+			<PAGENUM />
+			<WEB_ADDRESS />
+			<EDITORS>Kerry Sinanan and Tim Milnes</EDITORS>
+			<ISBNISSN />
+			<DOI />
+			<AUDIENCE />
+			<REFEREED>Yes</REFEREED>
+			<EDITORIAL_REVIEWED />
+			<PUBLICAVAIL />
+			<ACTIVITY_RANK />
+			<ACTIVITY_RANK_OTHER />
+			<AREA />
+			<ABSTRACT>This chapter examines the relationship between Austen's use of the epistolary mode and the novels
+				of Henry Mackenzie.</ABSTRACT>
+			<FULL_TEXT />
+			<DTM_START>December</DTM_START>
+			<DTD_START>12</DTD_START>
+			<DTY_START>2015</DTY_START>
+			<START_START>2015-12-12</START_START>
+			<START_END>2015-12-12</START_END>
+			<DTM_SUB />
+			<DTD_SUB />
+			<DTY_SUB />
+			<SUB_START></SUB_START>
+			<SUB_END></SUB_END>
+			<DTM_EXPSUB />
+			<DTD_EXPSUB />
+			<DTY_EXPSUB />
+			<EXPSUB_START></EXPSUB_START>
+			<EXPSUB_END></EXPSUB_END>
+			<DTM_ACC />
+			<DTY_ACC />
+			<ACC_START></ACC_START>
+			<ACC_END></ACC_END>
+			<DTM_PUB />
+			<DTD_PUB />
+			<DTY_PUB />
+			<PUB_START></PUB_START>
+			<PUB_END></PUB_END>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</INTELLCONT>
+		<INTELLCONT id="180941602816" dmd:originalSource="MANUAL" dmd:created="2019-02-11T14:24:35"
+			dmd:lastModifiedSource="MANUAL" dmd:lastModified="2019-02-11T14:24:36" dmd:startDate="2014-12-01"
+			dmd:endDate="2014-12-01">
+			<CONTYPE>Journal Article, Academic Journal</CONTYPE>
+			<CONTYPEOTHER />
+			<CLASSIFICATION />
+			<STATUS>Published</STATUS>
+			<TITLE>‘ “Most Delightfully Incongruous”: Desire, Plot and Realism in the novels of Barbara Pym’</TITLE>
+			<TITLE_SECONDARY>Reassessing Barbara Pym</TITLE_SECONDARY>
+			<INTELLCONT_AUTH id="180941602817">
+				<FACULTY_NAME>2109405</FACULTY_NAME>
+				<FNAME>Kerry</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Sinanan</LNAME>
+				<STUDENT_LEVEL />
+			</INTELLCONT_AUTH>
+			<PUBLISHER>Women:a Cultural Review</PUBLISHER>
+			<PUBCTYST />
+			<PUBCNTRY />
+			<VOLUME>25</VOLUME>
+			<ISSUE>4</ISSUE>
+			<PAGENUM>395-412</PAGENUM>
+			<WEB_ADDRESS>https://www.tandfonline.com/doi/abs/10.1080/09574042.2014.991251</WEB_ADDRESS>
+			<EDITORS />
+			<ISBNISSN>0957-4042</ISBNISSN>
+			<DOI />
+			<AUDIENCE />
+			<REFEREED>Yes</REFEREED>
+			<EDITORIAL_REVIEWED />
+			<PUBLICAVAIL>Yes</PUBLICAVAIL>
+			<ACTIVITY_RANK />
+			<ACTIVITY_RANK_OTHER />
+			<AREA />
+			<ABSTRACT>This article examines the relationship between Barbara Pym and Jane Austen.</ABSTRACT>
+			<FULL_TEXT />
+			<DTM_START />
+			<DTD_START />
+			<DTY_START />
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_SUB />
+			<DTD_SUB />
+			<DTY_SUB />
+			<SUB_START></SUB_START>
+			<SUB_END></SUB_END>
+			<DTM_EXPSUB />
+			<DTD_EXPSUB />
+			<DTY_EXPSUB />
+			<EXPSUB_START></EXPSUB_START>
+			<EXPSUB_END></EXPSUB_END>
+			<DTM_ACC />
+			<DTY_ACC />
+			<ACC_START></ACC_START>
+			<ACC_END></ACC_END>
+			<DTM_PUB>December</DTM_PUB>
+			<DTD_PUB>01</DTD_PUB>
+			<DTY_PUB>2014</DTY_PUB>
+			<PUB_START>2014-12-01</PUB_START>
+			<PUB_END>2014-12-01</PUB_END>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</INTELLCONT>
+		<INTELLCONT id="180935647232" dmd:originalSource="MANUAL" dmd:created="2019-02-11T12:53:42"
+			dmd:lastModifiedSource="MANUAL" dmd:lastModified="2019-02-11T14:19:07" dmd:startDate="2013-06-01"
+			dmd:endDate="2013-06-01">
+			<CONTYPE>Book, Chapter in Scholarly Book-New</CONTYPE>
+			<CONTYPEOTHER />
+			<CLASSIFICATION />
+			<STATUS>Published</STATUS>
+			<TITLE>‘ “The Feelings of an Officer”: John Stedman in Suriname’</TITLE>
+			<TITLE_SECONDARY>The British Abroad Since the Eighteenth Century. Volume 2 Experiencing Imperialism.
+			</TITLE_SECONDARY>
+			<INTELLCONT_AUTH id="180935647233">
+				<FACULTY_NAME>2109405</FACULTY_NAME>
+				<FNAME>Kerry</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Sinanan</LNAME>
+				<STUDENT_LEVEL />
+			</INTELLCONT_AUTH>
+			<PUBLISHER>Palgrave Macmillan</PUBLISHER>
+			<PUBCTYST>Basingstoke and New York</PUBCTYST>
+			<PUBCNTRY>United Kingdom</PUBCNTRY>
+			<VOLUME>1</VOLUME>
+			<ISSUE />
+			<PAGENUM>137-161</PAGENUM>
+			<WEB_ADDRESS>https://www.palgrave.com/us/book/9781137304179</WEB_ADDRESS>
+			<EDITORS>Eds. Martin Farr and Xavier Geugan. </EDITORS>
+			<ISBNISSN>978-1-137-30417-9</ISBNISSN>
+			<DOI>10.1057/9781137304186</DOI>
+			<AUDIENCE>International</AUDIENCE>
+			<REFEREED>Yes</REFEREED>
+			<EDITORIAL_REVIEWED />
+			<PUBLICAVAIL>Yes</PUBLICAVAIL>
+			<ACTIVITY_RANK />
+			<ACTIVITY_RANK_OTHER />
+			<AREA />
+			<ABSTRACT>This chapter examines the role of sentiment in John Stedman's Narrative. </ABSTRACT>
+			<FULL_TEXT />
+			<DTM_START />
+			<DTD_START />
+			<DTY_START />
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_SUB />
+			<DTD_SUB />
+			<DTY_SUB />
+			<SUB_START></SUB_START>
+			<SUB_END></SUB_END>
+			<DTM_EXPSUB />
+			<DTD_EXPSUB />
+			<DTY_EXPSUB />
+			<EXPSUB_START></EXPSUB_START>
+			<EXPSUB_END></EXPSUB_END>
+			<DTM_ACC />
+			<DTY_ACC />
+			<ACC_START></ACC_START>
+			<ACC_END></ACC_END>
+			<DTM_PUB>June</DTM_PUB>
+			<DTD_PUB>01</DTD_PUB>
+			<DTY_PUB>2013</DTY_PUB>
+			<PUB_START>2013-06-01</PUB_START>
+			<PUB_END>2013-06-01</PUB_END>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</INTELLCONT>
+		<INTELLCONT id="180935120896" dmd:originalSource="MANUAL" dmd:created="2019-02-11T12:45:03"
+			dmd:lastModifiedSource="MANUAL" dmd:lastModified="2019-02-11T12:45:20" dmd:startDate="2010-08-01"
+			dmd:endDate="2010-08-01">
+			<CONTYPE>Book, Chapter in Scholarly Book-New</CONTYPE>
+			<CONTYPEOTHER />
+			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
+			<STATUS>Published</STATUS>
+			<TITLE>Introduction</TITLE>
+			<TITLE_SECONDARY>Romanticism, Sincerity and Authenticity.</TITLE_SECONDARY>
+			<INTELLCONT_AUTH id="180935120897">
+				<FACULTY_NAME>2109405</FACULTY_NAME>
+				<FNAME>Kerry</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Sinanan</LNAME>
+				<STUDENT_LEVEL />
+			</INTELLCONT_AUTH>
+			<INTELLCONT_AUTH id="180935120899">
+				<FACULTY_NAME />
+				<FNAME>Time</FNAME>
+				<MNAME />
+				<LNAME>Milnes</LNAME>
+				<STUDENT_LEVEL />
+			</INTELLCONT_AUTH>
+			<PUBLISHER>Palgrave Macmillan</PUBLISHER>
+			<PUBCTYST>Basingstoke and New York</PUBCTYST>
+			<PUBCNTRY>United Kingdom</PUBCNTRY>
+			<VOLUME />
+			<ISSUE />
+			<PAGENUM>1-31</PAGENUM>
+			<WEB_ADDRESS />
+			<EDITORS />
+			<ISBNISSN>978-0-230-20893-3</ISBNISSN>
+			<DOI>10.1057/9780230281738</DOI>
+			<AUDIENCE>International</AUDIENCE>
+			<REFEREED>Yes</REFEREED>
+			<EDITORIAL_REVIEWED />
+			<PUBLICAVAIL>Yes</PUBLICAVAIL>
+			<ACTIVITY_RANK />
+			<ACTIVITY_RANK_OTHER />
+			<AREA />
+			<ABSTRACT>The Introduction offers a history and reading of the terms 'sincerity' and 'authenticity' and
+				discusses the implications of how they merge in the Romantic period.</ABSTRACT>
+			<FULL_TEXT />
+			<DTM_START />
+			<DTD_START />
+			<DTY_START />
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_SUB />
+			<DTD_SUB />
+			<DTY_SUB />
+			<SUB_START></SUB_START>
+			<SUB_END></SUB_END>
+			<DTM_EXPSUB />
+			<DTD_EXPSUB />
+			<DTY_EXPSUB />
+			<EXPSUB_START></EXPSUB_START>
+			<EXPSUB_END></EXPSUB_END>
+			<DTM_ACC />
+			<DTY_ACC />
+			<ACC_START></ACC_START>
+			<ACC_END></ACC_END>
+			<DTM_PUB>August</DTM_PUB>
+			<DTD_PUB>1</DTD_PUB>
+			<DTY_PUB>2010</DTY_PUB>
+			<PUB_START>2010-08-01</PUB_START>
+			<PUB_END>2010-08-01</PUB_END>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</INTELLCONT>
+		<INTELLCONT id="180805658624" dmd:originalSource="MANUAL" dmd:created="2019-02-08T15:47:10"
+			dmd:lastModifiedSource="MANUAL" dmd:lastModified="2019-02-08T15:47:10" dmd:startDate="2010-08-01"
+			dmd:endDate="2010-08-01">
+			<CONTYPE>Book, Scholarly-New</CONTYPE>
+			<CONTYPEOTHER />
+			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
+			<STATUS>Published</STATUS>
+			<TITLE>Romanticism, Sincerity and Authenticity</TITLE>
+			<TITLE_SECONDARY />
+			<INTELLCONT_AUTH id="180805658625">
+				<FACULTY_NAME>2109405</FACULTY_NAME>
+				<FNAME>Kerry </FNAME>
+				<MNAME />
+				<LNAME>Sinanan</LNAME>
+				<STUDENT_LEVEL />
+			</INTELLCONT_AUTH>
+			<INTELLCONT_AUTH id="180805658627">
+				<FACULTY_NAME />
+				<FNAME>Tim</FNAME>
+				<MNAME />
+				<LNAME>Milnes</LNAME>
+				<STUDENT_LEVEL />
+			</INTELLCONT_AUTH>
+			<PUBLISHER>Palgrave Macmillan</PUBLISHER>
+			<PUBCTYST>Basingstoke and New York</PUBCTYST>
+			<PUBCNTRY>United Kingdom</PUBCNTRY>
+			<VOLUME />
+			<ISSUE />
+			<PAGENUM>259</PAGENUM>
+			<WEB_ADDRESS>https://www.palgrave.com/us/book/9780230208933</WEB_ADDRESS>
+			<EDITORS>Tim Milnes and Kerry Sinanan</EDITORS>
+			<ISBNISSN>978-0-230-20893-3</ISBNISSN>
+			<DOI>10.1057/9780230281738</DOI>
+			<AUDIENCE>International</AUDIENCE>
+			<REFEREED>Yes</REFEREED>
+			<EDITORIAL_REVIEWED>No</EDITORIAL_REVIEWED>
+			<PUBLICAVAIL>Yes</PUBLICAVAIL>
+			<ACTIVITY_RANK />
+			<ACTIVITY_RANK_OTHER />
+			<AREA />
+			<ABSTRACT>The categories of authenticity and sincerity, treated sceptically since the early twentieth
+				century, remain indispensable for the study of Romantic literature and culture. This book, focusing on
+				authors including Wordsworth, Macpherson and Austen, highlights their complexities, showing how they can
+				become meaningful to current critical debates.</ABSTRACT>
+			<FULL_TEXT />
+			<DTM_START />
+			<DTD_START />
+			<DTY_START />
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_SUB />
+			<DTD_SUB />
+			<DTY_SUB />
+			<SUB_START></SUB_START>
+			<SUB_END></SUB_END>
+			<DTM_EXPSUB />
+			<DTD_EXPSUB />
+			<DTY_EXPSUB />
+			<EXPSUB_START></EXPSUB_START>
+			<EXPSUB_END></EXPSUB_END>
+			<DTM_ACC />
+			<DTY_ACC />
+			<ACC_START></ACC_START>
+			<ACC_END></ACC_END>
+			<DTM_PUB>August</DTM_PUB>
+			<DTD_PUB>01</DTD_PUB>
+			<DTY_PUB>2010</DTY_PUB>
+			<PUB_START>2010-08-01</PUB_START>
+			<PUB_END>2010-08-01</PUB_END>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</INTELLCONT>
+		<INTELLCONT id="180935331840" dmd:originalSource="MANUAL" dmd:created="2019-02-11T12:48:26"
+			dmd:lastModifiedSource="MANUAL" dmd:lastModified="2019-02-11T12:48:27" dmd:startDate="2010-08-01"
+			dmd:endDate="2010-08-01">
+			<CONTYPE>Book, Chapter in Scholarly Book-New</CONTYPE>
+			<CONTYPEOTHER />
+			<CLASSIFICATION />
+			<STATUS>Published</STATUS>
+			<TITLE>‘Too Good to be True? Hannah More, Authenticity, Sincerity and Evangelical Abolitionism’. </TITLE>
+			<TITLE_SECONDARY>Romanticism, Sincerity and Authenticity. </TITLE_SECONDARY>
+			<INTELLCONT_AUTH id="180935331841">
+				<FACULTY_NAME>2109405</FACULTY_NAME>
+				<FNAME>Kerry</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Sinanan</LNAME>
+				<STUDENT_LEVEL />
+			</INTELLCONT_AUTH>
+			<PUBLISHER>Palgrave Macmillan</PUBLISHER>
+			<PUBCTYST>Basingstoke and New York</PUBCTYST>
+			<PUBCNTRY>United Kingdom</PUBCNTRY>
+			<VOLUME>1</VOLUME>
+			<ISSUE />
+			<PAGENUM />
+			<WEB_ADDRESS>https://www.palgrave.com/us/book/9780230208933</WEB_ADDRESS>
+			<EDITORS>Kerry Sinanan and Tim Milnes</EDITORS>
+			<ISBNISSN>978-0-230-20893-3</ISBNISSN>
+			<DOI>10.1057/9780230281738</DOI>
+			<AUDIENCE>International</AUDIENCE>
+			<REFEREED />
+			<EDITORIAL_REVIEWED />
+			<PUBLICAVAIL>Yes</PUBLICAVAIL>
+			<ACTIVITY_RANK />
+			<ACTIVITY_RANK_OTHER />
+			<AREA />
+			<ABSTRACT>This chapter discusses the role of sincerity and authenticity in abolitionist discourse within the
+				context of the English Evangelical movement.</ABSTRACT>
+			<FULL_TEXT />
+			<DTM_START />
+			<DTD_START />
+			<DTY_START />
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_SUB />
+			<DTD_SUB />
+			<DTY_SUB />
+			<SUB_START></SUB_START>
+			<SUB_END></SUB_END>
+			<DTM_EXPSUB />
+			<DTD_EXPSUB />
+			<DTY_EXPSUB />
+			<EXPSUB_START></EXPSUB_START>
+			<EXPSUB_END></EXPSUB_END>
+			<DTM_ACC />
+			<DTY_ACC />
+			<ACC_START></ACC_START>
+			<ACC_END></ACC_END>
+			<DTM_PUB>August</DTM_PUB>
+			<DTD_PUB>1</DTD_PUB>
+			<DTY_PUB>2010</DTY_PUB>
+			<PUB_START>2010-08-01</PUB_START>
+			<PUB_END>2010-08-01</PUB_END>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</INTELLCONT>
+		<INTELLCONT id="180943304704" dmd:originalSource="MANUAL" dmd:created="2019-02-11T14:49:54"
+			dmd:lastModifiedSource="MANUAL" dmd:lastModified="2019-02-11T14:49:55" dmd:startDate="2008-01-01"
+			dmd:endDate="2008-12-31">
+			<CONTYPE>Other</CONTYPE>
+			<CONTYPEOTHER>Encyclopaedia Entry</CONTYPEOTHER>
+			<CLASSIFICATION />
+			<STATUS>Published</STATUS>
+			<TITLE>Mary Prince</TITLE>
+			<TITLE_SECONDARY>Africa and the Americas: Culture, Politics and History</TITLE_SECONDARY>
+			<INTELLCONT_AUTH id="180943304705">
+				<FACULTY_NAME>2109405</FACULTY_NAME>
+				<FNAME>Kerry</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Sinanan</LNAME>
+				<STUDENT_LEVEL />
+			</INTELLCONT_AUTH>
+			<PUBLISHER>ABC-CLIO</PUBLISHER>
+			<PUBCTYST>Colorado and Oxford</PUBCTYST>
+			<PUBCNTRY>UK and USA</PUBCNTRY>
+			<VOLUME />
+			<ISSUE />
+			<PAGENUM>904-5</PAGENUM>
+			<WEB_ADDRESS />
+			<EDITORS>Richard M. Juang and Noelle Morrissette</EDITORS>
+			<ISBNISSN>978-1-85109-441-7</ISBNISSN>
+			<DOI />
+			<AUDIENCE>International</AUDIENCE>
+			<REFEREED>No</REFEREED>
+			<EDITORIAL_REVIEWED />
+			<PUBLICAVAIL>Yes</PUBLICAVAIL>
+			<ACTIVITY_RANK />
+			<ACTIVITY_RANK_OTHER />
+			<AREA />
+			<ABSTRACT />
+			<FULL_TEXT />
+			<DTM_START />
+			<DTD_START />
+			<DTY_START />
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_SUB />
+			<DTD_SUB />
+			<DTY_SUB />
+			<SUB_START></SUB_START>
+			<SUB_END></SUB_END>
+			<DTM_EXPSUB />
+			<DTD_EXPSUB />
+			<DTY_EXPSUB />
+			<EXPSUB_START></EXPSUB_START>
+			<EXPSUB_END></EXPSUB_END>
+			<DTM_ACC />
+			<DTY_ACC />
+			<ACC_START></ACC_START>
+			<ACC_END></ACC_END>
+			<DTM_PUB />
+			<DTD_PUB />
+			<DTY_PUB>2008</DTY_PUB>
+			<PUB_START>2008-01-01</PUB_START>
+			<PUB_END>2008-12-31</PUB_END>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</INTELLCONT>
+		<INTELLCONT id="180936828928" dmd:originalSource="MANUAL" dmd:created="2019-02-11T13:14:34"
+			dmd:lastModifiedSource="MANUAL" dmd:lastModified="2019-02-11T13:14:35" dmd:startDate="2007-06-11"
+			dmd:endDate="2007-06-11">
+			<CONTYPE>Book, Chapter in Scholarly Book-New</CONTYPE>
+			<CONTYPEOTHER />
+			<CLASSIFICATION />
+			<STATUS>Published</STATUS>
+			<TITLE>‘The Slave Narrative and the Literature of Abolition’</TITLE>
+			<TITLE_SECONDARY>The Cambridge Companion to the African American Slave Narrative. </TITLE_SECONDARY>
+			<INTELLCONT_AUTH id="180936828929">
+				<FACULTY_NAME>2109405</FACULTY_NAME>
+				<FNAME>Kerry</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Sinanan</LNAME>
+				<STUDENT_LEVEL />
+			</INTELLCONT_AUTH>
+			<PUBLISHER>Cambridge University Press</PUBLISHER>
+			<PUBCTYST>Cambridge</PUBCTYST>
+			<PUBCNTRY>United Kingdom</PUBCNTRY>
+			<VOLUME>1</VOLUME>
+			<ISSUE />
+			<PAGENUM>61-80</PAGENUM>
+			<WEB_ADDRESS />
+			<EDITORS>Audrey Fish</EDITORS>
+			<ISBNISSN>0521850193</ISBNISSN>
+			<DOI>978-0521850193</DOI>
+			<AUDIENCE>International</AUDIENCE>
+			<REFEREED>Yes</REFEREED>
+			<EDITORIAL_REVIEWED />
+			<PUBLICAVAIL>Yes</PUBLICAVAIL>
+			<ACTIVITY_RANK />
+			<ACTIVITY_RANK_OTHER />
+			<AREA />
+			<ABSTRACT>This chapter not only adds to the Companion’s special emphasis on the early tradition of the slave
+				narrative, it also highlights the genre’s long-term tradeoffs between powerful critiques of subjection
+				and problematic appeals to white institutions of sentimentalism, evangelicalism, and republicanism, as
+				well as the economic motives underpinning them. </ABSTRACT>
+			<FULL_TEXT />
+			<DTM_START />
+			<DTD_START />
+			<DTY_START />
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_SUB />
+			<DTD_SUB />
+			<DTY_SUB />
+			<SUB_START></SUB_START>
+			<SUB_END></SUB_END>
+			<DTM_EXPSUB />
+			<DTD_EXPSUB />
+			<DTY_EXPSUB />
+			<EXPSUB_START></EXPSUB_START>
+			<EXPSUB_END></EXPSUB_END>
+			<DTM_ACC />
+			<DTY_ACC />
+			<ACC_START></ACC_START>
+			<ACC_END></ACC_END>
+			<DTM_PUB>June</DTM_PUB>
+			<DTD_PUB>11</DTD_PUB>
+			<DTY_PUB>2007</DTY_PUB>
+			<PUB_START>2007-06-11</PUB_START>
+			<PUB_END>2007-06-11</PUB_END>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</INTELLCONT>
+		<INTELLCONT id="180937252864" dmd:originalSource="MANUAL" dmd:created="2019-02-11T13:21:43"
+			dmd:lastModifiedSource="MANUAL" dmd:lastModified="2019-02-11T13:21:44" dmd:startDate="2001-08-15"
+			dmd:endDate="2001-08-15">
+			<CONTYPE>Book, Chapter in Scholarly Book-New</CONTYPE>
+			<CONTYPEOTHER />
+			<CLASSIFICATION />
+			<STATUS>Published</STATUS>
+			<TITLE>‘Trading Places: Slave Traders Enslaved’</TITLE>
+			<TITLE_SECONDARY>Colonial and Postcolonial Incarceration</TITLE_SECONDARY>
+			<INTELLCONT_AUTH id="180937252865">
+				<FACULTY_NAME>2109405</FACULTY_NAME>
+				<FNAME>Kerry</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Sinanan</LNAME>
+				<STUDENT_LEVEL />
+			</INTELLCONT_AUTH>
+			<PUBLISHER>Continuum Press</PUBLISHER>
+			<PUBCTYST>London and New York</PUBCTYST>
+			<PUBCNTRY />
+			<VOLUME>1</VOLUME>
+			<ISSUE />
+			<PAGENUM>67-85</PAGENUM>
+			<WEB_ADDRESS />
+			<EDITORS>Graeme Harper</EDITORS>
+			<ISBNISSN>978-0826449184</ISBNISSN>
+			<DOI>0826449182</DOI>
+			<AUDIENCE>International</AUDIENCE>
+			<REFEREED>Yes</REFEREED>
+			<EDITORIAL_REVIEWED />
+			<PUBLICAVAIL>Yes</PUBLICAVAIL>
+			<ACTIVITY_RANK />
+			<ACTIVITY_RANK_OTHER />
+			<AREA />
+			<ABSTRACT>This chapter explores the journals and letters of slave masters who were themselves enslaved and
+				yet continued with salve trading upon attaining freedom. </ABSTRACT>
+			<FULL_TEXT />
+			<DTM_START />
+			<DTD_START />
+			<DTY_START />
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_SUB />
+			<DTD_SUB />
+			<DTY_SUB />
+			<SUB_START></SUB_START>
+			<SUB_END></SUB_END>
+			<DTM_EXPSUB />
+			<DTD_EXPSUB />
+			<DTY_EXPSUB />
+			<EXPSUB_START></EXPSUB_START>
+			<EXPSUB_END></EXPSUB_END>
+			<DTM_ACC />
+			<DTY_ACC />
+			<ACC_START></ACC_START>
+			<ACC_END></ACC_END>
+			<DTM_PUB>August</DTM_PUB>
+			<DTD_PUB>15</DTD_PUB>
+			<DTY_PUB>2001</DTY_PUB>
+			<PUB_START>2001-08-15</PUB_START>
+			<PUB_END>2001-08-15</PUB_END>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</INTELLCONT>
+		<PRESENT id="225586206720" dmd:originalSource="MANUAL" dmd:created="2021-09-15T16:33:56"
+			dmd:lastModifiedSource="MANUAL" dmd:lastModified="2021-09-15T16:36:29" dmd:startDate="2021-09-20"
+			dmd:endDate="2021-09-20">
+			<PRESENTATION_TYPE>Invited Talk</PRESENTATION_TYPE>
+			<PRESENTATION_TYPE_OTHER />
+			<NAME>University of Maryland Anti-Racism Series.</NAME>
+			<ORG>University of Maryland Anti-Racism Series.</ORG>
+			<LOCATION />
+			<TITLE>In Conversation with Honorée Fanonne Jeffers. </TITLE>
+			<PRESENT_AUTH id="225586206721">
+				<FACULTY_NAME>2109405</FACULTY_NAME>
+				<FNAME>Kerry</FNAME>
+				<MNAME />
+				<LNAME>Sinanan</LNAME>
+				<ROLE />
+				<STUDENT_LEVEL />
+			</PRESENT_AUTH>
+			<MEETING_TYPE>Seminar</MEETING_TYPE>
+			<ACADEMIC>Academic</ACADEMIC>
+			<SCOPE>International</SCOPE>
+			<REFEREED />
+			<PUBPROCEED />
+			<PUBELSE />
+			<STATUS>Invited</STATUS>
+			<AREA />
+			<CLASSIFICATION />
+			<ABSTRACT>In Conversation with Honorée Fanonne Jeffers.</ABSTRACT>
+			<UPLOAD_PRESENTATION />
+			<DTM_START>September</DTM_START>
+			<DTD_START>20</DTD_START>
+			<DTY_START>2021</DTY_START>
+			<START_START>2021-09-20</START_START>
+			<START_END>2021-09-20</START_END>
+			<DTM_SUB />
+			<DTD_SUB />
+			<DTY_SUB />
+			<SUB_START></SUB_START>
+			<SUB_END></SUB_END>
+			<DTM_ACC />
+			<DTD_ACC />
+			<DTY_ACC />
+			<ACC_START></ACC_START>
+			<ACC_END></ACC_END>
+			<DTM_DATE />
+			<DTD_DATE />
+			<DTY_DATE />
+			<DATE_START></DATE_START>
+			<DATE_END></DATE_END>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</PRESENT>
+		<PRESENT id="225586259968" dmd:originalSource="MANUAL" dmd:created="2021-09-15T16:35:13"
+			dmd:lastModifiedSource="MANUAL" dmd:lastModified="2021-09-15T16:35:14" dmd:startDate="2021-06-23"
+			dmd:endDate="2021-06-23">
+			<PRESENTATION_TYPE>Keynote/Plenary Address</PRESENTATION_TYPE>
+			<PRESENTATION_TYPE_OTHER />
+			<NAME>Black Studies and Romanticism</NAME>
+			<ORG>Mount Holyoke College</ORG>
+			<LOCATION />
+			<TITLE>Black Studies and Romanticism: Abolition</TITLE>
+			<PRESENT_AUTH id="225586259969">
+				<FACULTY_NAME>2109405</FACULTY_NAME>
+				<FNAME>Kerry</FNAME>
+				<MNAME />
+				<LNAME>Sinanan</LNAME>
+				<ROLE />
+				<STUDENT_LEVEL />
+			</PRESENT_AUTH>
+			<MEETING_TYPE>Conference</MEETING_TYPE>
+			<ACADEMIC>Academic</ACADEMIC>
+			<SCOPE>International</SCOPE>
+			<REFEREED />
+			<PUBPROCEED>Yes</PUBPROCEED>
+			<PUBELSE />
+			<STATUS>In Progress</STATUS>
+			<AREA />
+			<CLASSIFICATION />
+			<ABSTRACT>&lt;i&gt;Black Studies and Romanticism&lt;/i&gt;</ABSTRACT>
+			<UPLOAD_PRESENTATION />
+			<DTM_START />
+			<DTD_START />
+			<DTY_START />
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_SUB />
+			<DTD_SUB />
+			<DTY_SUB />
+			<SUB_START></SUB_START>
+			<SUB_END></SUB_END>
+			<DTM_ACC />
+			<DTD_ACC />
+			<DTY_ACC />
+			<ACC_START></ACC_START>
+			<ACC_END></ACC_END>
+			<DTM_DATE>June</DTM_DATE>
+			<DTD_DATE>23</DTD_DATE>
+			<DTY_DATE>2021</DTY_DATE>
+			<DATE_START>2021-06-23</DATE_START>
+			<DATE_END>2021-06-23</DATE_END>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</PRESENT>
+		<PRESENT id="225586616320" dmd:originalSource="MANUAL" dmd:created="2021-09-15T16:39:21"
+			dmd:lastModifiedSource="MANUAL" dmd:lastModified="2021-09-15T16:39:22" dmd:startDate="2021-06-23"
+			dmd:endDate="2021-06-23">
+			<PRESENTATION_TYPE>Paper</PRESENTATION_TYPE>
+			<PRESENTATION_TYPE_OTHER />
+			<NAME>Black Studies and Romanticism</NAME>
+			<ORG>Mount Holyoke College</ORG>
+			<LOCATION>Mount Holyoke College</LOCATION>
+			<TITLE>‘Black and White Motherhood. Violent Intimacies in The Woman of Colour</TITLE>
+			<PRESENT_AUTH id="225586616321">
+				<FACULTY_NAME>2109405</FACULTY_NAME>
+				<FNAME>Kerry</FNAME>
+				<MNAME />
+				<LNAME>Sinanan</LNAME>
+				<ROLE />
+				<STUDENT_LEVEL />
+			</PRESENT_AUTH>
+			<MEETING_TYPE>Conference</MEETING_TYPE>
+			<ACADEMIC>Academic</ACADEMIC>
+			<SCOPE>International</SCOPE>
+			<REFEREED />
+			<PUBPROCEED>Yes</PUBPROCEED>
+			<PUBELSE />
+			<STATUS>Presented</STATUS>
+			<AREA />
+			<CLASSIFICATION />
+			<ABSTRACT />
+			<UPLOAD_PRESENTATION />
+			<DTM_START />
+			<DTD_START />
+			<DTY_START />
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_SUB />
+			<DTD_SUB />
+			<DTY_SUB />
+			<SUB_START></SUB_START>
+			<SUB_END></SUB_END>
+			<DTM_ACC />
+			<DTD_ACC />
+			<DTY_ACC />
+			<ACC_START></ACC_START>
+			<ACC_END></ACC_END>
+			<DTM_DATE>June</DTM_DATE>
+			<DTD_DATE>23</DTD_DATE>
+			<DTY_DATE>2021</DTY_DATE>
+			<DATE_START>2021-06-23</DATE_START>
+			<DATE_END>2021-06-23</DATE_END>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</PRESENT>
+		<PRESENT id="225586290688" dmd:originalSource="MANUAL" dmd:created="2021-09-15T16:36:07"
+			dmd:lastModifiedSource="MANUAL" dmd:lastModified="2021-09-15T16:36:08" dmd:startDate="2021-05-23"
+			dmd:endDate="2021-05-23">
+			<PRESENTATION_TYPE>Invited Talk</PRESENTATION_TYPE>
+			<PRESENTATION_TYPE_OTHER />
+			<NAME>Open Digital Seminar in Eighteenth-Century Studies.</NAME>
+			<ORG>Open Digital Seminar in Eighteenth-Century Studies.</ORG>
+			<LOCATION />
+			<TITLE>Clarissa and White Supremacy: Race, Gender and Erasure</TITLE>
+			<PRESENT_AUTH id="225586290689">
+				<FACULTY_NAME>2109405</FACULTY_NAME>
+				<FNAME>Kerry</FNAME>
+				<MNAME />
+				<LNAME>Sinanan</LNAME>
+				<ROLE />
+				<STUDENT_LEVEL />
+			</PRESENT_AUTH>
+			<MEETING_TYPE>Seminar</MEETING_TYPE>
+			<ACADEMIC>Academic</ACADEMIC>
+			<SCOPE>International</SCOPE>
+			<REFEREED />
+			<PUBPROCEED />
+			<PUBELSE />
+			<STATUS>Presented</STATUS>
+			<AREA>Human and Social Development</AREA>
+			<CLASSIFICATION />
+			<ABSTRACT>&lt;i&gt;Clarissa &lt;/i&gt;and White Supremacy: Race, Gender and Erasure</ABSTRACT>
+			<UPLOAD_PRESENTATION />
+			<DTM_START />
+			<DTD_START />
+			<DTY_START />
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_SUB />
+			<DTD_SUB />
+			<DTY_SUB />
+			<SUB_START></SUB_START>
+			<SUB_END></SUB_END>
+			<DTM_ACC />
+			<DTD_ACC />
+			<DTY_ACC />
+			<ACC_START></ACC_START>
+			<ACC_END></ACC_END>
+			<DTM_DATE>May</DTM_DATE>
+			<DTD_DATE>23</DTD_DATE>
+			<DTY_DATE>2021</DTY_DATE>
+			<DATE_START>2021-05-23</DATE_START>
+			<DATE_END>2021-05-23</DATE_END>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</PRESENT>
+		<PRESENT id="225586530304" dmd:originalSource="MANUAL" dmd:created="2021-09-15T16:37:25"
+			dmd:lastModifiedSource="MANUAL" dmd:lastModified="2021-09-15T16:37:25" dmd:startDate="2021-01-28"
+			dmd:endDate="2021-01-28">
+			<PRESENTATION_TYPE>Invited Talk</PRESENTATION_TYPE>
+			<PRESENTATION_TYPE_OTHER />
+			<NAME>The Corning Museum of Glass Seminar</NAME>
+			<ORG>The Corning Museum of Glass</ORG>
+			<LOCATION />
+			<TITLE>‘Polite and Polished: Slavery, Empire and Glass’</TITLE>
+			<PRESENT_AUTH id="225586530305">
+				<FACULTY_NAME>2109405</FACULTY_NAME>
+				<FNAME>Kerry</FNAME>
+				<MNAME />
+				<LNAME>Sinanan</LNAME>
+				<ROLE />
+				<STUDENT_LEVEL />
+			</PRESENT_AUTH>
+			<MEETING_TYPE>Seminar</MEETING_TYPE>
+			<ACADEMIC>Non-Academic</ACADEMIC>
+			<SCOPE>International</SCOPE>
+			<REFEREED />
+			<PUBPROCEED />
+			<PUBELSE />
+			<STATUS>Presented</STATUS>
+			<AREA />
+			<CLASSIFICATION />
+			<ABSTRACT />
+			<UPLOAD_PRESENTATION />
+			<DTM_START />
+			<DTD_START />
+			<DTY_START />
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_SUB />
+			<DTD_SUB />
+			<DTY_SUB />
+			<SUB_START></SUB_START>
+			<SUB_END></SUB_END>
+			<DTM_ACC />
+			<DTD_ACC />
+			<DTY_ACC />
+			<ACC_START></ACC_START>
+			<ACC_END></ACC_END>
+			<DTM_DATE>January</DTM_DATE>
+			<DTD_DATE>28</DTD_DATE>
+			<DTY_DATE>2021</DTY_DATE>
+			<DATE_START>2021-01-28</DATE_START>
+			<DATE_END>2021-01-28</DATE_END>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</PRESENT>
+		<PRESENT id="225587040256" dmd:originalSource="MANUAL" dmd:created="2021-09-15T16:51:34"
+			dmd:lastModifiedSource="MANUAL" dmd:lastModified="2021-09-15T16:51:34" dmd:startDate="2021-01-07"
+			dmd:endDate="2021-01-07">
+			<PRESENTATION_TYPE>Paper</PRESENTATION_TYPE>
+			<PRESENTATION_TYPE_OTHER />
+			<NAME>Modern Languages Association</NAME>
+			<ORG>Modern Languages Association</ORG>
+			<LOCATION>Online</LOCATION>
+			<TITLE>Slavery and the Pellucid Rhetoric of Glass’ </TITLE>
+			<PRESENT_AUTH id="225587040257">
+				<FACULTY_NAME>2109405</FACULTY_NAME>
+				<FNAME>Kerry</FNAME>
+				<MNAME />
+				<LNAME>Sinanan</LNAME>
+				<ROLE />
+				<STUDENT_LEVEL />
+			</PRESENT_AUTH>
+			<MEETING_TYPE>Conference</MEETING_TYPE>
+			<ACADEMIC>Academic</ACADEMIC>
+			<SCOPE>International</SCOPE>
+			<REFEREED />
+			<PUBPROCEED />
+			<PUBELSE />
+			<STATUS>Presented</STATUS>
+			<AREA>Human and Social Development</AREA>
+			<CLASSIFICATION />
+			<ABSTRACT>Slavery and the Pellucid Rhetoric of Glass’</ABSTRACT>
+			<UPLOAD_PRESENTATION />
+			<DTM_START />
+			<DTD_START />
+			<DTY_START />
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_SUB />
+			<DTD_SUB />
+			<DTY_SUB />
+			<SUB_START></SUB_START>
+			<SUB_END></SUB_END>
+			<DTM_ACC />
+			<DTD_ACC />
+			<DTY_ACC />
+			<ACC_START></ACC_START>
+			<ACC_END></ACC_END>
+			<DTM_DATE>January</DTM_DATE>
+			<DTD_DATE>7</DTD_DATE>
+			<DTY_DATE>2021</DTY_DATE>
+			<DATE_START>2021-01-07</DATE_START>
+			<DATE_END>2021-01-07</DATE_END>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</PRESENT>
+		<PRESENT id="225587087360" dmd:originalSource="MANUAL" dmd:created="2021-09-15T16:52:46"
+			dmd:lastModifiedSource="MANUAL" dmd:lastModified="2021-09-15T16:52:46" dmd:startDate="2020-08-24"
+			dmd:endDate="2020-08-24">
+			<PRESENTATION_TYPE>Paper</PRESENTATION_TYPE>
+			<PRESENTATION_TYPE_OTHER />
+			<NAME>Materializing Race Un-Conference, Online</NAME>
+			<ORG>Yale University</ORG>
+			<LOCATION>Online</LOCATION>
+			<TITLE>Beads of Resistance: Transatlanticism, Abolition and Anti-blackness</TITLE>
+			<PRESENT_AUTH id="225587087361">
+				<FACULTY_NAME>2109405</FACULTY_NAME>
+				<FNAME>Kerry</FNAME>
+				<MNAME />
+				<LNAME>Sinanan</LNAME>
+				<ROLE />
+				<STUDENT_LEVEL />
+			</PRESENT_AUTH>
+			<MEETING_TYPE>Conference</MEETING_TYPE>
+			<ACADEMIC>Academic</ACADEMIC>
+			<SCOPE>International</SCOPE>
+			<REFEREED />
+			<PUBPROCEED />
+			<PUBELSE />
+			<STATUS>Presented</STATUS>
+			<AREA />
+			<CLASSIFICATION />
+			<ABSTRACT />
+			<UPLOAD_PRESENTATION />
+			<DTM_START />
+			<DTD_START />
+			<DTY_START />
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_SUB />
+			<DTD_SUB />
+			<DTY_SUB />
+			<SUB_START></SUB_START>
+			<SUB_END></SUB_END>
+			<DTM_ACC />
+			<DTD_ACC />
+			<DTY_ACC />
+			<ACC_START></ACC_START>
+			<ACC_END></ACC_END>
+			<DTM_DATE>August</DTM_DATE>
+			<DTD_DATE>24</DTD_DATE>
+			<DTY_DATE>2020</DTY_DATE>
+			<DATE_START>2020-08-24</DATE_START>
+			<DATE_END>2020-08-24</DATE_END>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</PRESENT>
+		<PRESENT id="181237786624" dmd:originalSource="MANUAL" dmd:created="2019-02-14T11:04:25"
+			dmd:lastModifiedSource="SYSTEM" dmd:lastModified="2019-10-31T13:56:35" dmd:startDate="2019-02-01"
+			dmd:endDate="2019-02-01">
+			<PRESENTATION_TYPE>Paper</PRESENTATION_TYPE>
+			<PRESENTATION_TYPE_OTHER />
+			<NAME>American Society for Eighteenth-Century Studies</NAME>
+			<ORG>ASECS</ORG>
+			<LOCATION>Orlando, FL</LOCATION>
+			<TITLE>‘Mary Prince and the Slavery Archive’</TITLE>
+			<PRESENT_AUTH id="181237786625">
+				<FACULTY_NAME>2109405</FACULTY_NAME>
+				<FNAME>Kerry</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Sinanan</LNAME>
+				<ROLE />
+				<STUDENT_LEVEL />
+			</PRESENT_AUTH>
+			<MEETING_TYPE>Conference</MEETING_TYPE>
+			<ACADEMIC>Academic</ACADEMIC>
+			<SCOPE>International</SCOPE>
+			<REFEREED>Yes</REFEREED>
+			<PUBPROCEED />
+			<PUBELSE>Yes</PUBELSE>
+			<STATUS>Submitted</STATUS>
+			<AREA />
+			<CLASSIFICATION />
+			<ABSTRACT>This paper examines the memorialization of Mary Prince in post-2007 abolitionist culture
+			</ABSTRACT>
+			<UPLOAD_PRESENTATION />
+			<DTM_START />
+			<DTD_START />
+			<DTY_START />
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_SUB />
+			<DTD_SUB />
+			<DTY_SUB />
+			<SUB_START></SUB_START>
+			<SUB_END></SUB_END>
+			<DTM_ACC>February</DTM_ACC>
+			<DTD_ACC>01</DTD_ACC>
+			<DTY_ACC>2019</DTY_ACC>
+			<ACC_START>2019-02-01</ACC_START>
+			<ACC_END>2019-02-01</ACC_END>
+			<DTM_DATE />
+			<DTD_DATE />
+			<DTY_DATE />
+			<DATE_START></DATE_START>
+			<DATE_END></DATE_END>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</PRESENT>
+		<PRESENT id="181238337536" dmd:originalSource="MANUAL" dmd:created="2019-02-14T11:16:12"
+			dmd:lastModifiedSource="SYSTEM" dmd:lastModified="2019-10-31T13:56:35" dmd:startDate="2018-10-27"
+			dmd:endDate="2018-10-27">
+			<PRESENTATION_TYPE>Paper</PRESENTATION_TYPE>
+			<PRESENTATION_TYPE_OTHER />
+			<NAME> International Conference on Romanticism, Romantic Assembly</NAME>
+			<ORG>ICR</ORG>
+			<LOCATION>Greenville, South Carolina</LOCATION>
+			<TITLE>“Assembling Black Maternity: Birth, Slavery and Death from Romanticism to the Present </TITLE>
+			<PRESENT_AUTH id="181238337537">
+				<FACULTY_NAME>2109405</FACULTY_NAME>
+				<FNAME>Kerry</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Sinanan</LNAME>
+				<ROLE />
+				<STUDENT_LEVEL />
+			</PRESENT_AUTH>
+			<MEETING_TYPE>Conference</MEETING_TYPE>
+			<ACADEMIC>Academic</ACADEMIC>
+			<SCOPE>International</SCOPE>
+			<REFEREED>Yes</REFEREED>
+			<PUBPROCEED />
+			<PUBELSE />
+			<STATUS />
+			<AREA />
+			<CLASSIFICATION />
+			<ABSTRACT>This paper locates the current crisis in black maternal health care in the cultures of Caribbean
+				slavery.</ABSTRACT>
+			<UPLOAD_PRESENTATION />
+			<DTM_START />
+			<DTD_START />
+			<DTY_START />
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_SUB />
+			<DTD_SUB />
+			<DTY_SUB />
+			<SUB_START></SUB_START>
+			<SUB_END></SUB_END>
+			<DTM_ACC />
+			<DTD_ACC />
+			<DTY_ACC />
+			<ACC_START></ACC_START>
+			<ACC_END></ACC_END>
+			<DTM_DATE>October</DTM_DATE>
+			<DTD_DATE>27</DTD_DATE>
+			<DTY_DATE>2018</DTY_DATE>
+			<DATE_START>2018-10-27</DATE_START>
+			<DATE_END>2018-10-27</DATE_END>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</PRESENT>
+		<PRESENT id="181238241280" dmd:originalSource="MANUAL" dmd:created="2019-02-14T11:14:20"
+			dmd:lastModifiedSource="SYSTEM" dmd:lastModified="2019-10-31T13:56:35" dmd:startDate="2018-10-26"
+			dmd:endDate="2018-10-26">
+			<PRESENTATION_TYPE>Paper</PRESENTATION_TYPE>
+			<PRESENTATION_TYPE_OTHER />
+			<NAME>International Conference on Romanticism. Romantic Assembly. </NAME>
+			<ORG>ICR</ORG>
+			<LOCATION>Greenville, South Carolina</LOCATION>
+			<TITLE>“Assembling and Disassemblin“Assembling and Disassembling the Mother-Child Pair: Abolitionist Culture
+				and Influences” g the Mother-Child Pair: Abolitionist Culture and Influences” </TITLE>
+			<PRESENT_AUTH id="181238241281">
+				<FACULTY_NAME>2109405</FACULTY_NAME>
+				<FNAME>Kerry</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Sinanan</LNAME>
+				<ROLE />
+				<STUDENT_LEVEL />
+			</PRESENT_AUTH>
+			<MEETING_TYPE>Conference</MEETING_TYPE>
+			<ACADEMIC>Academic</ACADEMIC>
+			<SCOPE>International</SCOPE>
+			<REFEREED>Yes</REFEREED>
+			<PUBPROCEED />
+			<PUBELSE />
+			<STATUS />
+			<AREA />
+			<CLASSIFICATION />
+			<ABSTRACT>This paper discusses representations of slave mothers and children in abolitionist visual art and
+				poetry.</ABSTRACT>
+			<UPLOAD_PRESENTATION />
+			<DTM_START />
+			<DTD_START />
+			<DTY_START />
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_SUB />
+			<DTD_SUB />
+			<DTY_SUB />
+			<SUB_START></SUB_START>
+			<SUB_END></SUB_END>
+			<DTM_ACC />
+			<DTD_ACC />
+			<DTY_ACC />
+			<ACC_START></ACC_START>
+			<ACC_END></ACC_END>
+			<DTM_DATE>October</DTM_DATE>
+			<DTD_DATE>26</DTD_DATE>
+			<DTY_DATE>2018</DTY_DATE>
+			<DATE_START>2018-10-26</DATE_START>
+			<DATE_END>2018-10-26</DATE_END>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</PRESENT>
+		<PRESENT id="181237878784" dmd:originalSource="MANUAL" dmd:created="2019-02-14T11:06:14"
+			dmd:lastModifiedSource="SYSTEM" dmd:lastModified="2019-10-31T13:56:35" dmd:startDate="2018-03-23"
+			dmd:endDate="2018-03-23">
+			<PRESENTATION_TYPE>Paper</PRESENTATION_TYPE>
+			<PRESENTATION_TYPE_OTHER />
+			<NAME>American Society for Eighteenth-Century Studies Annual Conference</NAME>
+			<ORG>ASECS</ORG>
+			<LOCATION>Orlando, FL</LOCATION>
+			<TITLE>‘The Politics of Voice: Reading British Abolitionist Poetry’</TITLE>
+			<PRESENT_AUTH id="181237878785">
+				<FACULTY_NAME>2109405</FACULTY_NAME>
+				<FNAME>Kerry</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Sinanan</LNAME>
+				<ROLE />
+				<STUDENT_LEVEL />
+			</PRESENT_AUTH>
+			<MEETING_TYPE>Conference</MEETING_TYPE>
+			<ACADEMIC>Academic</ACADEMIC>
+			<SCOPE>International</SCOPE>
+			<REFEREED>Yes</REFEREED>
+			<PUBPROCEED />
+			<PUBELSE />
+			<STATUS />
+			<AREA />
+			<CLASSIFICATION />
+			<ABSTRACT>This paper discusses the critical reception of sentimental abolitionist poetry. </ABSTRACT>
+			<UPLOAD_PRESENTATION />
+			<DTM_START />
+			<DTD_START />
+			<DTY_START />
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_SUB />
+			<DTD_SUB />
+			<DTY_SUB />
+			<SUB_START></SUB_START>
+			<SUB_END></SUB_END>
+			<DTM_ACC />
+			<DTD_ACC />
+			<DTY_ACC />
+			<ACC_START></ACC_START>
+			<ACC_END></ACC_END>
+			<DTM_DATE>March</DTM_DATE>
+			<DTD_DATE>23</DTD_DATE>
+			<DTY_DATE>2018</DTY_DATE>
+			<DATE_START>2018-03-23</DATE_START>
+			<DATE_END>2018-03-23</DATE_END>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</PRESENT>
+		<SCHOLARY_WORK id="225586116608" dmd:originalSource="MANUAL" dmd:created="2021-09-15T16:31:58"
+			dmd:lastModifiedSource="MANUAL" dmd:lastModified="2021-09-15T16:31:58" dmd:startDate="2020-09-01"
+			dmd:endDate="2020-09-01">
+			<TITLE>‘Slavery and Glass: Tropes of “Race” and Reflection’.</TITLE>
+			<TITLE_REVIEW>‘Slavery and Glass: Tropes of “Race” and Reflection’.</TITLE_REVIEW>
+			<AUTHOR id="225586116609">
+				<FACULTY_NAME />
+				<FNAME />
+				<MNAME />
+				<LNAME />
+			</AUTHOR>
+			<PUBLISHER>The Magazine ANtiques</PUBLISHER>
+			<REVIEWER>John Stuart Gordon</REVIEWER>
+			<DESC />
+			<DTM_DATE>September</DTM_DATE>
+			<DTD_DATE>1</DTD_DATE>
+			<DTY_DATE>2020</DTY_DATE>
+			<DATE_START>2020-09-01</DATE_START>
+			<DATE_END>2020-09-01</DATE_END>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</SCHOLARY_WORK>
+		<SERVICE_DEPARTMENT id="225587185664" dmd:originalSource="MANUAL" dmd:created="2021-09-15T16:55:16"
+			dmd:lastModifiedSource="MANUAL" dmd:lastModified="2021-09-15T16:55:16" dmd:startDate="2020-09-01">
+			<ORG>Ad Hoc Committee Curriculum Transformation</ORG>
+			<INSTITUTION>UTSA</INSTITUTION>
+			<ROLE>Committee Chair</ROLE>
+			<ROLEOTHER />
+			<NUMHOURS>50</NUMHOURS>
+			<ELECAPP>Yes, appointed</ELECAPP>
+			<COMPENSATED />
+			<DESC>To overhaul the Department of English UG Curriculum</DESC>
+			<ACCOMPLISH />
+			<DTM_START>September</DTM_START>
+			<DTD_START>1</DTD_START>
+			<DTY_START>2020</DTY_START>
+			<START_START>2020-09-01</START_START>
+			<START_END>2020-09-01</START_END>
+			<DTM_END />
+			<DTD_END />
+			<DTY_END />
+			<END_START></END_START>
+			<END_END></END_END>
+		</SERVICE_DEPARTMENT>
+		<SERVICE_DEPARTMENT id="225587136512" dmd:originalSource="MANUAL" dmd:created="2021-09-15T16:54:13"
+			dmd:lastModifiedSource="MANUAL" dmd:lastModified="2021-09-15T16:54:13" dmd:startDate="2019-09-01">
+			<ORG>MA GPC</ORG>
+			<INSTITUTION>UTSA</INSTITUTION>
+			<ROLE>Committee Member</ROLE>
+			<ROLEOTHER />
+			<NUMHOURS />
+			<ELECAPP>Yes, appointed</ELECAPP>
+			<COMPENSATED />
+			<DESC>Oversee and manage business relating to MA Program in Department of English</DESC>
+			<ACCOMPLISH>Overhaul of the MA Thesis pathway</ACCOMPLISH>
+			<DTM_START>September</DTM_START>
+			<DTD_START>1</DTD_START>
+			<DTY_START>2019</DTY_START>
+			<START_START>2019-09-01</START_START>
+			<START_END>2019-09-01</START_END>
+			<DTM_END />
+			<DTD_END />
+			<DTY_END />
+			<END_START></END_START>
+			<END_END></END_END>
+		</SERVICE_DEPARTMENT>
+		<SERVICE_DEPARTMENT id="181238491136" dmd:originalSource="MANUAL" dmd:created="2019-02-14T11:19:30"
+			dmd:lastModifiedSource="MANUAL" dmd:lastModified="2019-02-14T11:19:31" dmd:startDate="2018-09-01">
+			<ORG>APCC</ORG>
+			<INSTITUTION>UTSA</INSTITUTION>
+			<ROLE>Attendee, Meeting</ROLE>
+			<ROLEOTHER />
+			<NUMHOURS>10</NUMHOURS>
+			<ELECAPP>Yes, appointed</ELECAPP>
+			<COMPENSATED>Pro Bono</COMPENSATED>
+			<DESC />
+			<ACCOMPLISH />
+			<DTM_START>September</DTM_START>
+			<DTD_START>01</DTD_START>
+			<DTY_START>2018</DTY_START>
+			<START_START>2018-09-01</START_START>
+			<START_END>2018-09-01</START_END>
+			<DTM_END />
+			<DTD_END />
+			<DTY_END />
+			<END_START></END_START>
+			<END_END></END_END>
+		</SERVICE_DEPARTMENT>
+		<SERVICE_DEPARTMENT id="181238409216" dmd:originalSource="MANUAL" dmd:created="2019-02-14T11:17:39"
+			dmd:lastModifiedSource="MANUAL" dmd:lastModified="2019-02-14T11:17:40" dmd:startDate="2018-09-01">
+			<ORG>Honors Committee</ORG>
+			<INSTITUTION>UTSA</INSTITUTION>
+			<ROLE>Attendee, Meeting</ROLE>
+			<ROLEOTHER />
+			<NUMHOURS>10</NUMHOURS>
+			<ELECAPP>Yes, appointed</ELECAPP>
+			<COMPENSATED>Pro Bono</COMPENSATED>
+			<DESC />
+			<ACCOMPLISH />
+			<DTM_START>September</DTM_START>
+			<DTD_START>01</DTD_START>
+			<DTY_START>2018</DTY_START>
+			<START_START>2018-09-01</START_START>
+			<START_END>2018-09-01</START_END>
+			<DTM_END />
+			<DTD_END />
+			<DTY_END />
+			<END_START></END_START>
+			<END_END></END_END>
+		</SERVICE_DEPARTMENT>
+		<SERVICE_PROFESSIONAL id="225587281920" dmd:originalSource="MANUAL" dmd:created="2021-09-15T16:58:11"
+			dmd:lastModifiedSource="MANUAL" dmd:lastModified="2021-09-15T16:58:12" dmd:startDate="2020-08-01">
+			<ORG>Early Caribbean Society</ORG>
+			<ROLE>Officer, Vice President</ROLE>
+			<ROLEOTHER />
+			<CITY />
+			<STATE />
+			<COUNTRY />
+			<NUMHOURS_YEARLY>30</NUMHOURS_YEARLY>
+			<ELECAPP>Yes, elected</ELECAPP>
+			<COMPENSATED>Pro Bono</COMPENSATED>
+			<AUDIENCE>International</AUDIENCE>
+			<EXOFFICIO />
+			<CLASSIFICATION />
+			<DESC>All business relating to the Early Caribbean Society: </DESC>
+			<ACCOMPLISH> Provide material support for Black students and scholars of the Caribbean, through a
+				conference/research fund.&lt;br&gt; ​ Establish ongoing relations with the Caribbean Studies
+				Association, with the goal of ensuring that work on the early Caribbean is in conversation with and
+				addresses contemporary issues in Caribbean Studies.&lt;br&gt; ​ Establish reciprocal relations with
+				Caribbean universities and scholars.&lt;br&gt; </ACCOMPLISH>
+			<DTM_START>August</DTM_START>
+			<DTD_START>1</DTD_START>
+			<DTY_START>2020</DTY_START>
+			<START_START>2020-08-01</START_START>
+			<START_END>2020-08-01</START_END>
+			<DTM_END />
+			<DTD_END />
+			<DTY_END />
+			<END_START></END_START>
+			<END_END></END_END>
+		</SERVICE_PROFESSIONAL>
+		<SERVICE_PROFESSIONAL id="225587302400" dmd:originalSource="MANUAL" dmd:created="2021-09-15T16:58:55"
+			dmd:lastModifiedSource="MANUAL" dmd:lastModified="2021-09-15T16:58:55" dmd:startDate="2019-08-01">
+			<ORG>Early Caribbean Society</ORG>
+			<ROLE>Officer, Secretary</ROLE>
+			<ROLEOTHER />
+			<CITY />
+			<STATE />
+			<COUNTRY />
+			<NUMHOURS_YEARLY>30</NUMHOURS_YEARLY>
+			<ELECAPP>Yes, elected</ELECAPP>
+			<COMPENSATED />
+			<AUDIENCE>International</AUDIENCE>
+			<EXOFFICIO />
+			<CLASSIFICATION />
+			<DESC />
+			<ACCOMPLISH>&lt;br&gt;&lt;br&gt;</ACCOMPLISH>
+			<DTM_START>August</DTM_START>
+			<DTD_START>1</DTD_START>
+			<DTY_START>2019</DTY_START>
+			<START_START>2019-08-01</START_START>
+			<START_END>2019-08-01</START_END>
+			<DTM_END />
+			<DTD_END />
+			<DTY_END />
+			<END_START></END_START>
+			<END_END></END_END>
+		</SERVICE_PROFESSIONAL>
+		<SERVICE_PROFESSIONAL id="225587331072" dmd:originalSource="MANUAL" dmd:created="2021-09-15T16:59:57"
+			dmd:lastModifiedSource="MANUAL" dmd:lastModified="2021-09-15T16:59:57" dmd:startDate="2019-08-01">
+			<ORG>PMLA</ORG>
+			<ROLE>Reviewer, Ad Hoc Reviewer</ROLE>
+			<ROLEOTHER />
+			<CITY />
+			<STATE />
+			<COUNTRY />
+			<NUMHOURS_YEARLY>5</NUMHOURS_YEARLY>
+			<ELECAPP>Yes, appointed</ELECAPP>
+			<COMPENSATED>Pro Bono</COMPENSATED>
+			<AUDIENCE>International</AUDIENCE>
+			<EXOFFICIO />
+			<CLASSIFICATION />
+			<DESC />
+			<ACCOMPLISH>To review articles submitted to PMLA</ACCOMPLISH>
+			<DTM_START>August</DTM_START>
+			<DTD_START>1</DTD_START>
+			<DTY_START>2019</DTY_START>
+			<START_START>2019-08-01</START_START>
+			<START_END>2019-08-01</START_END>
+			<DTM_END />
+			<DTD_END />
+			<DTY_END />
+			<END_START></END_START>
+			<END_END></END_END>
+		</SERVICE_PROFESSIONAL>
+	</Record>
+</Data>

@@ -1,0 +1,90 @@
+#import("_cms/formats/global/utilities")
+#breadcrumbs()
+#advisor()
+#processRows($currentPage.getStructuredDataNodes("row"))
+#######################################################################
+#macro(advisor)
+    #set($details = $currentPage.getStructuredDataNode("details"))
+    #set($name = $_EscapeTool.xml($details.getChild("name").textValue))
+    #set($intro = $_EscapeTool.xml($details.getChild("intro").textValue))
+    #set($email = $_EscapeTool.xml($details.getChild("contact").getChild("email").textValue))
+    #set($phone = $_EscapeTool.xml($details.getChild("contact").getChild("phone").textValue))
+    #set($address = $_EscapeTool.xml($details.getChild("contact").getChild("address").textValue))
+    #set($biography = "")
+    #set($biography = $details.getChild("biography").getChild("wysiwyg").textValue)
+    #set($programs = [])
+    #foreach($linkingAsset in $currentPage.linkingAssets)
+        #if($linkingAsset.assetType == "page" && $linkingAsset.contentType.name == "Program")
+            #set($VOID = $programs.add($linkingAsset))
+        #end
+    #end
+    <section class="section">
+    	<div class="container">
+    		<div class="row">
+    			<div class="col-md-5 mb-5">
+    			    #imageData($currentPage.getStructuredDataNode("image"))
+    				<img class="img-fluid w-100" src="${imageURL}" alt="${imageAlt}" />
+    			</div>
+    			<div class="col-md-6 mb-5">
+    				<h3>${name}</h3>
+    				<p class="mb-5">${intro}</p>
+    				<div class="row">
+    					<div class="col-md-6 mb-5 mb-md-0">
+    						<h4 class="mb-4">CONTACT INFO:</h4>
+    						<ul class="list-unstyled">
+    							<li class="mb-3"><a class="text-color" href="mailto:${email}" target="_blank"><i class="ti-email mr-2" />${email}</a></li>
+    							<li class="mb-3"><a class="text-color" href="callto:${phone}" target="_blank"><i class="ti-mobile mr-2" />${phone}</a></li>
+    							<![CDATA[#protect
+    							<li class="mb-3"><a class="text-color" href="https://maps.google.com/?q=${address}" target="_blank"><i class="ti-location-pin mr-2" />${address}</a></li>
+    							#protect]]>
+    						</ul>
+    					</div>
+    					<div class="col-md-6">
+    						<h4 class="mb-4">SUMMARY OF ACTIVITIES/INTERESTS</h4>
+    						<ul class="list-unstyled">
+    						    #foreach($interest in $details.getChild("summary").getChildren("interest"))
+    							    <li class="mb-3">$_EscapeTool.xml($interest.textValue)</li>
+                                #end
+    						</ul>
+    					</div>
+    				</div>
+    			</div>
+    			#if(!$_PropertyTool.isEmpty($biography))
+        			<div class="col-12">
+        				<h4 class="mb-4">BIOGRAPHY</h4>
+        			    ${biography}
+        			</div>
+    			#end
+    		</div>
+    		#if($programs.size() > 0)
+        		<div class="row justify-content-center">
+        			<div class="col-12">
+        				<h4 class="mb-4">PROGRAMS</h4>
+        			</div>
+                    #foreach($program in $programs)
+                        #set($programDetails = $program.getStructuredDataNode("details"))
+                        #set($programName = $_EscapeTool.xml($programDetails.getChild("name").textValue))
+                        #set($programCopy = $_DisplayTool.truncate($_DisplayTool.stripTags($programDetails.getChild("wysiwyg").textValue),100,"...",true))
+                        #set($programType = $_DisplayTool.list($programDetails.getChild("type").textValues))
+                        #imageData($program.getStructuredDataNode("image"))
+            			<div class="col-lg-4 col-sm-6 mb-5">
+            				<div class="card p-0 border-primary rounded-0 hover-shadow">
+            					<img class="card-img-top rounded-0" src="[system-asset]${imageURL}[/system-asset]" alt="${imageAlt}"/>
+            					<div class="card-body">
+            						<ul class="list-inline mb-2">
+            							<li class="list-inline-item">${programType}</li>
+            						</ul>
+            						<a href="course-single.html">
+            							<h4 class="card-title">${programName}</h4>
+            						</a>
+            						<p class="card-text mb-4"> ${programCopy}</p>
+            						<a href="${program.link}" class="btn btn-primary btn-sm">More Info</a>
+            					</div>
+            				</div>
+            			</div>
+        			#end
+        		</div>
+        	#end
+    	</div>
+    </section>
+#end

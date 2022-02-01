@@ -1,0 +1,5 @@
+getText:java.lang.String:<ul class="list-unstyled">&n<li class="mb-2">23621 15 Mile Rd #C104, Clinton MI, 48035, New York, USA</li>&n<li class="mb-2">+1 (2) 345 6789</li>&n<li class="mb-2">+1 (2) 345 6789</li>&n<li class="mb-2">contact@yourdomain.com</li>&n</ul>
+getDefinitionFieldId:java.lang.String:c05745a1c0a8005b520f17ce96a2c88a
+getTextVersion:java.lang.Integer:2
+getOwnerEntity:com.hannonhill.cascade.model.dom.Block:7c51c9caac1600051ca008f9458581ad
+getPosition:java.lang.String:

@@ -1,0 +1,6 @@
+getText:java.lang.String:
+getFile:com.hannonhill.cascade.model.dom.File:<recycled>
+getDefinitionFieldId:java.lang.String:9c588ee6c0a8005b459cfb4c9629e4a597ba0865c0a8005b2e79c159f0a9ed3d
+getTextVersion:java.lang.Integer:2
+getOwnerEntity:com.hannonhill.cascade.model.dom.Page:7c51d641ac1600051ca008f95bf82e19
+getPosition:java.lang.String:

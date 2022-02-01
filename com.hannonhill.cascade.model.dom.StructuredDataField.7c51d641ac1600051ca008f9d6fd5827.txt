@@ -1,0 +1,5 @@
+getText:java.lang.String:358 3rd Ave, New York, NY 10016
+getDefinitionFieldId:java.lang.String:9c588ee7c0a8005b459cfb4c7e832011
+getTextVersion:java.lang.Integer:2
+getOwnerEntity:com.hannonhill.cascade.model.dom.Page:7c51d641ac1600051ca008f95bf82e19
+getPosition:java.lang.String:

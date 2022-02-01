@@ -1,0 +1,32 @@
+getContentType:com.hannonhill.cascade.model.dom.ContentType:7c51ca72ac1600051ca008f98785cb18|Academic Advisor|College-MAIN
+getPageConfigurations:org.hibernate.collection.PersistentSet:
+getPageConfigurationSet:com.hannonhill.cascade.model.dom.PageConfigurationSet:7c51d7a9ac1600051ca008f996085e26|Academic Advisor|College-MAIN
+getAllStructuredData:org.hibernate.collection.PersistentSet:
+getStructuredDataFields:org.hibernate.collection.PersistentSet:7c51d74bac1600051ca008f9a13fa3b7&|7c51d74bac1600051ca008f90f17ebf1&|7c51d74bac1600051ca008f9af7c09a5&|7c51d74bac1600051ca008f9184156d0&|7c51d74bac1600051ca008f9c2b47919&|7c51d74bac1600051ca008f9df48f741&|7c51d74bac1600051ca008f95c3991b1&|7c51d74bac1600051ca008f9716c3773&|7c51d74bac1600051ca008f9653d408a&|7c51d74bac1600051ca008f986b28ec5&|7c51d74bac1600051ca008f927801484&|7c51d74bac1600051ca008f9bb6c9847&|7c51d74bac1600051ca008f9f97fef8b&|7c51d74bac1600051ca008f9208c34a0&|7c51d74bac1600051ca008f9f04b5edd&|7c51d74bac1600051ca008f9765543be&|7c51d74bac1600051ca008f9a5374779&|7c51d74bac1600051ca008f9b21764a5&|7c51d74bac1600051ca008f914fc1498&|7c51d74bac1600051ca008f921973e90&|7c51d74bac1600051ca008f99622d514&|
+getStructuredDataDefinition:com.hannonhill.cascade.model.dom.StructuredDataDefinition:7c51d826ac1600051ca008f9a6b5b50f|Pages/Academic Advisor|College-MAIN
+getMetadataSet:com.hannonhill.cascade.model.dom.MetadataSet:7c51d5a5ac1600051ca008f9d2c8671a|Page|College-MAIN
+getLinkRewriting:com.hannonhill.cascade.model.dom.LinkRewriting:INHERIT
+getStructuredDataVersion:java.lang.Integer:3
+isPublishAllDestinations:java.lang.Boolean:false
+isShouldBeIndexed:java.lang.Boolean:true
+isShouldBePublished:java.lang.Boolean:true
+isExpirationNoticeSent:java.lang.Boolean:false
+isFirstExpirationWarningSent:java.lang.Boolean:false
+isSecondExpirationWarningSent:java.lang.Boolean:false
+getDisplayName:java.lang.String:
+getDescription:java.lang.String:
+isReviewOnSchedule:java.lang.Boolean:false
+getTitle:java.lang.String:Steve Rogers
+getSummary:java.lang.String:
+getTeaser:java.lang.String:
+getKeywords:java.lang.String:
+getAuthor:java.lang.String:
+getReviewEvery:java.lang.Integer:180
+getPath:java.lang.String:advisors/logan
+getTags:org.hibernate.collection.PersistentSet:
+getParentFolder:com.hannonhill.cascade.model.dom.Folder:7c51d2edac1600051ca008f9528e8775|advisors|College-MAIN
+getOwnerId:java.lang.String:AV-Kyra
+getRelativeOrder:java.lang.Integer:2147482623
+getDynamicMetadataFields:org.hibernate.collection.PersistentSet:
+isCurrentVersion:java.lang.Boolean:true
+getName:java.lang.String:logan

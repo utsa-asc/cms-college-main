@@ -1,0 +1,8 @@
+getXml:java.lang.String:<system-data-structure>&n	<text field-id="9c4dc2b6c0a8005b459cfb4cea681e9a" identifier="type" label="Type" required="true" type="multi-selector">&n			<selector-item value="Associate's"/>&n			<selector-item value="Bachelor's"/>&n			<selector-item value="Master's"/>&n			<selector-item value="Doctorate"/>&n			<selector-item value="Certificate"/>&n		</text>&n</system-data-structure>
+getParentContainer:com.hannonhill.cascade.model.dom.SharedFieldContainer:7c51c80cac1600051ca008f933ea41db|/|College-MAIN
+getParentContainer:com.hannonhill.cascade.model.dom.SharedFieldContainer:7c51c80cac1600051ca008f933ea41db|/|College-MAIN
+getSharedFieldType:com.hannonhill.cascade.model.dom.SharedFieldType:MULTISELECTOR
+getPath:java.lang.String:Program Type
+getPermissions:com.hannonhill.cascade.model.dom.Permissions:7c51d801ac1600051ca008f921cae800
+isCurrentVersion:java.lang.Boolean:true
+getName:java.lang.String:Program Type

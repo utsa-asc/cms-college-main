@@ -1,0 +1,12 @@
+getGroups:java.lang.String:Advanced Velocity
+getPlugins:org.hibernate.collection.PersistentSet:
+getAssetType:java.lang.String:symlink
+getParentContainer:com.hannonhill.cascade.model.dom.AssetFactoryContainer:7c51c95fac1600051ca008f92ab0230a|Default|College-MAIN
+getParentContainer:com.hannonhill.cascade.model.dom.AssetFactoryContainer:7c51c95fac1600051ca008f92ab0230a|Default|College-MAIN
+getAllowSubfolderPlacement:java.lang.Boolean:false
+getFolderPlacementPosition:java.lang.Long:0
+getOverwrite:java.lang.Boolean:false
+getWorkflowMode:java.lang.Integer:3
+getPath:java.lang.String:Default/External Link
+isCurrentVersion:java.lang.Boolean:true
+getName:java.lang.String:External Link

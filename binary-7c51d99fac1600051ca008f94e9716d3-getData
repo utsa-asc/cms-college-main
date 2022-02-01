@@ -1,0 +1,33 @@
+## #import("_cms/formats/global/utilities")
+## #set($row = $currentPage.getStructuredDataNodes("row")[4])
+## #academicAdvisors()
+#macro(academicAdvisors)
+    <section class="section" id="${rowID}">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-12">
+                    <h2 class="section-title">Our Academic Advisors</h2>
+                </div>
+                    #set($advisors = $_.locateFolder("advisors").children)
+                    #foreach($advisor in $advisors)
+                    #set($advisorName = $_EscapeTool.xml($advisor.getStructuredDataNode("details/name").textValue))
+                    #set($advisorEmail = $_EscapeTool.xml($advisor.getStructuredDataNode("details/contact/email").textValue))
+                    #imageData($advisor.getStructuredDataNode("image"))
+                    <div class="col-lg-4 col-sm-6 mb-5 mb-lg-0">
+                        <div class="card border-0 rounded-0 hover-shadow">
+                            <img class="card-img-top rounded-0" src="[system-asset]${imageURL}[/system-asset]" alt="${imageAlt}" />
+                            <div class="card-body">
+                                <a href="${advisor.link}">
+                                    <h4 class="card-title">${advisorName}</h4>
+                                </a>
+                                <ul class="list-inline">
+                                    <li class="mb-3"><a class="text-color" href="mailto:${advisorEmail}"><i class="ti-email mr-2"></i>${advisorEmail}</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                #end
+            </div>
+        </div>
+    </section>
+#end

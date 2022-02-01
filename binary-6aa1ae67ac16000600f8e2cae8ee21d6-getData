@@ -1,0 +1,290 @@
+#import("_cms/formats/global/utilities")
+#import("_cms/formats/global/globalHeader")
+#set($header = $siteSetup.getStructuredDataNode("header"))
+#set($social = $siteSetup.getStructuredDataNode("social"))
+#set($topHeader = "#globalHeader()" )
+<header id="header" class="main-header">
+    #globalHeader()
+    <!-- Sticky Header -->
+    <div class="sticky-header">
+        <!-- Main Header -->
+        <div id="main-header">
+            <div class="container">
+                <nav class="navbar navbar-expand-md">
+                    <a class="navbar-brand" href="#" aria-label="Logo Image"><img src="[system-asset:local]/college-dls/college/images/college-logo.png[/system-asset:local]" /></a>
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar4" aria-label="Toggle">
+                        <span class="navbar-toggler-icon"><i class="fal fa-bars"></i></span>
+                        <span class="navbar-toggler-closeicon" style="display: none;"><i class="fal fa-times"></i></span>
+                    </button>
+                    <div class="collapse navbar-collapse justify-content-end" id="collapsibleNavbar4">
+                        <ul class="navbar-nav">
+                            <li class="nav-item">
+                                <a class="nav-link" href="#">Admissions</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#">Programs</a>
+                                <div class="dropdown-menu">
+                                    <a class="dropdown-item" href="#">Undergraduate</a>
+                                    <a class="dropdown-item" href="#">Graduate</a>
+                                    <a class="dropdown-item" href="#">Certificate</a>
+                                </div>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="#">Faculty &amp; Research </a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Student Success</a>
+                                <div class="dropdown-menu">
+                                    <a class="dropdown-item" href="#">Undergraduate</a>
+                                    <a class="dropdown-item" href="#">Graduate</a>
+                                    <a class="dropdown-item" href="#">Certificate</a>
+                                </div>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Departments</a>
+                                <div class="dropdown-menu">
+                                    <a class="dropdown-item" href="#">Undergraduate</a>
+                                    <a class="dropdown-item" href="#">Graduate</a>
+                                    <a class="dropdown-item" href="#">Certificate</a>
+                                </div>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">About</a>
+                                <div class="dropdown-menu">
+                                    <a class="dropdown-item" href="#">Undergraduate</a>
+                                    <a class="dropdown-item" href="#">Graduate</a>
+                                    <a class="dropdown-item" href="#">Certificate</a>
+                                </div>
+                            </li>
+                            <li class="nav-item mobile-nav-btns">
+                                <a href="#" class="action-btn">Apply <i class="fas fa-arrow-right"></i></a>
+                                <a href="#" class="action-btn">Visit <i class="fas fa-arrow-right"></i></a>
+                                <a href="#" class="action-btn">Request Info <i class="fas fa-arrow-right"></i></a>
+                            </li>
+                        </ul>
+                    </div>
+                </nav>
+            </div>
+        </div>
+        <!--End Main Header -->
+        <!-- Request Apply Header -->
+        <div class="bottom-absolute-header">
+            <div id="orange-bg-header">
+                <div class="container">
+                    <ul class="orange-header-list">
+                        <li class="nav-item"><a class="nav-link" href="#">Request Info</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#">Visit</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#">Apply</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End Sticky Header -->
+
+    <!--Slider -->
+    <div class="slider-wrapper" id="main-slider-wrapper">
+
+        <div class="slider-wrapper">
+            <div id="hero-slider" class="carousel slide" data-ride="carousel">
+                <!-- The slideshow -->
+                <div class="carousel-inner">
+                    <div class="carousel-item active">
+                        <div class="hero-banner-slider" style="background-image: url('[system-asset:local]/college-dls/college/images/slider-bg.png[/system-asset:local]');">
+                            <div class="container">
+                                <div class="hero-banner-cntnt">
+                                    <h1 class="banner-heading">I am a rotating banner. <span class="display-block">Or Page Title</span></h1>
+                                    <p class="banner-description">Lorem ipsum dolor sit amet, <span class="display-block">consectetur adipiscing elit.</span></p>
+                                    <div class="banner-btns">
+                                        <a class="rectangle-orange-btn" href="#">Action</a>
+                                        <a class="rectangle-white-btn" href="#">Action</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <div class="hero-banner-slider" style="background-image: url('[system-asset:local]/college-dls/college/images/hero-banner.png[/system-asset:local]');">
+                            <div class="container">
+                                <div class="hero-banner-cntnt">
+                                    <h1 class="banner-heading">I am a rotating banner. <span class="display-block">Or Page Title</span></h1>
+                                    <p class="banner-description">Lorem ipsum dolor sit amet, <span class="display-block">consectetur adipiscing elit.</span></p>
+                                    <div class="banner-btns">
+                                        <a class="rectangle-orange-btn" href="#">Action</a>
+                                        <a class="rectangle-white-btn" href="#">Action</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <div class="hero-banner-slider" style="background-image: url('[system-asset:local]/college-dls/college/images/slider-bg.png[/system-asset:local]');">
+                            <div class="container">
+                                <div class="hero-banner-cntnt">
+                                    <h1 class="banner-heading">I am a rotating banner. <span class="display-block">Or Page Title</span></h1>
+                                    <p class="banner-description">Lorem ipsum dolor sit amet, <span class="display-block">consectetur adipiscing elit.</span></p>
+                                    <div class="banner-btns">
+                                        <a class="rectangle-orange-btn" href="#">Action</a>
+                                        <a class="rectangle-white-btn" href="#">Action</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <div class="hero-banner-slider" style="background-image: url('[system-asset:local]/college-dls/college/images/hero-banner.png[/system-asset:local]');">
+                            <div class="container">
+                                <div class="hero-banner-cntnt">
+                                    <h1 class="banner-heading">College Name <span class="display-block">Or Page Title</span></h1>
+                                    <p class="banner-description">Lorem ipsum dolor sit amet, <span class="display-block">consectetur adipiscing elit.</span></p>
+                                    <div class="banner-btns">
+                                        <a class="rectangle-orange-btn" href="#">Action</a>
+                                        <a class="rectangle-white-btn" href="#">Action</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Indicators -->
+                <ul class="carousel-indicators container">
+                    <li><button data-bs-target="#hero-slider" data-bs-slide-to="0" class="active" aria-label="Slide First">&#160;</button></li>
+                    <li><button data-bs-target="#hero-slider" data-bs-slide-to="1" aria-label="Slide Second">&#160;</button>
+                    </li>
+                    <li><button data-bs-target="#hero-slider" data-bs-slide-to="2" aria-label="Slide Third">&#160;</button></li>
+                    <li><button data-bs-target="#hero-slider" data-bs-slide-to="3" aria-label="Slide Fourth">&#160;</button>
+                    </li>
+                </ul>
+                <!-- Left and right controls -->
+                <a class="carousel-control-prev" href="#hero-slider" data-bs-slide="prev" aria-label="Previous Arrow">
+                    <span class="carousel-prev-icon"><i class="fal fa-arrow-left" aria-hidden="true"></i></span>
+                </a>
+                <a class="carousel-control-next" href="#hero-slider" data-bs-slide="next" aria-label="Next Arrow">
+                    <span class="carousel-next-icon"><i class="fal fa-arrow-right" aria-hidden="true"></i></span>
+                </a>
+                <div id="carousel-button">
+                    <button id="playButton" type="button" class="btn" aria-label="play">
+                        <i class="fas fa-play-circle" aria-hidden="true"></i>
+                    </button>
+                    <button id="pauseButton" type="button" class="btn" aria-label="pause">
+                        <i class="fas fa-pause-circle" aria-hidden="true"></i>
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Find Your Program -->
+        <div class="find-you-program" style="background-image: url('[system-asset:local]/college-dls/utsa/images/header-shape.png[/system-asset:local]');">
+            <div class="container">
+                <div class="find-program-header">
+                    <h2 class="h5 color-white bold">Find Your Program</h2>
+                </div>
+                <div class="form-wrapper">
+                    <form class="form-design">
+                        <div class="row">
+                            <div class="col-xxl-5 col-xl-5 col-lg-5 col-md-12 col-sm-12">
+                                <div class="form-grouph input-design">
+                                    <label for="searchdegree" class="hide">Search Degrees and Programs</label>
+                                    <input type="text" placeholder="Search Degrees and Programs" name="Search Degrees and Programs" id="searchdegree" />
+                                </div>
+                            </div>
+                            <div class="col-xxl-5 col-xl-5 col-lg-5 col-md-12 col-sm-12">
+                                <div class="form-grouph select-design">
+                                    <label id="lbl-select-degree" class="hide">Filter By Degree Type</label>
+                                    <select class="js-example-disabled-results" aria-labelledby="lbl-select-degree">
+                                        <option>Filter By Degree Type</option>
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="col-xxl-2 col-xl-2 col-lg-2 col-md-12 col-sm-12">
+                                <div class="form-grouph submit-design">
+                                    <input class="darkblue-bg color-white form-btn" type="submit" value="Search" title="Search" />
+                                </div>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+        <!--End Find Your Program -->
+    </div>
+    <!-- End Slider -->
+</header>
+<!-- Header Section End -->
+<!-- Loader -->
+<div id="cover">
+    <div class="loading-spin"><i class="fas fa-spinner"></i></div>
+</div>
+    <!--
+<header class="fixed-top header">
+    <div class="top-header py-2 bg-white">
+        <div class="container">
+            <div class="row no-gutters">
+                <div class="col-lg-4 text-center text-lg-left">
+                    #linkData($header.getChild("top").getChild("leftLink"))
+                    <a class="text-color mr-3" href="${linkURL}" target="${linkTarget}">${linkLabel}</a>
+                    <ul class="list-inline d-inline">
+                        #foreach($socialProfile in $social.getChildren("profileLink"))
+                            #iconData($socialProfile)
+                            <li class="list-inline-item mx-0">
+                                <a class="d-inline-block p-2 text-color" href="${iconLinkURL}" target="${iconLinkTarget}"><i class="${iconClass}" /></a>
+                            </li>
+                        #end
+                    </ul>
+                </div>
+                <div class="col-lg-8 text-center text-lg-right">
+                    <ul class="list-inline">
+                        #foreach($rightLink in $header.getChild("top").getChildren("rightLink"))
+                            #linkData($rightLink)
+                            <li class="list-inline-item"><a class="text-uppercase text-color p-sm-2 py-2 px-0 d-inline-block" href="${linkURL}" target="${linkTarget}">${linkLabel}</a></li>
+                        #end
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="navigation w-100">
+        <div class="container">
+            <nav class="navbar navbar-expand-lg navbar-dark p-0">
+                #imageData($header.getChild("logo"))
+                #if($imageLinkType == "no link")
+                    <span class="navbar-brand">
+                        <img src="[system-asset]${imageURL}[/system-asset]" alt="${imageAlt}" />
+                    </span>
+                #else
+                    <a class="navbar-brand" href="${imageLinkURL}" target="${imageLinkTarget}">
+                        <img src="[system-asset]${imageURL}[/system-asset]" alt="${imageAlt}" />
+                    </a>
+                #end
+                <button class="navbar-toggler rounded-0" type="button" data-toggle="collapse" data-target="#navigation" aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navigation">
+                    <ul class="navbar-nav ml-auto text-center">
+                        #foreach($mainLink in $header.getChild("main").getChildren("item"))
+                            #if($mainLink.getChild("type").textValue == "Link")
+                                #linkData($mainLink.getChild("link"))
+                                <li class="nav-item"><a class="nav-link" href="${linkURL}" target="${linkTarget}">${linkLabel}</a></li>
+                            #elseif($mainLink.getChild("type").textValue == "Dropdown")
+                                #set($dpLabel = $_EscapeTool.xml($mainLink.getChild("dropdown").getChild("label").textValue))
+                                 #set($dpLabelID = "#textToID($dpLabel)")
+                                <li class="nav-item dropdown view">
+                                    <a class="nav-link dropdown-toggle" href="#" id="${dpLabelID}" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                        ${dpLabel}
+                                    </a>
+                                    <ul class="dropdown-menu" aria-labelledby="${dpLabelID}">
+                                        #foreach($dpLink in $mainLink.getChild("dropdown").getChildren("link"))
+                                            #linkData($dpLink)
+                                            <li><a class="dropdown-item" href="${linkURL}" target="${linkTarget}">${linkLabel}</a></li>
+                                        #end
+                                    </ul>
+                                </li>
+                            #end
+                        #end
+                    </ul>
+                </div>
+            </nav>
+        </div>
+    </div>
+</header>
+-->

@@ -1,0 +1,8 @@
+getFormat:com.hannonhill.cascade.model.dom.VelocityFormat:7c51d8e8ac1600051ca008f917a05a9b|_cms/formats/pages/home|College-MAIN
+isBlockOverrides:java.lang.Boolean:false
+isFormatOverrides:java.lang.Boolean:true
+isShouldApplyToConfigSet:java.lang.Boolean:false
+isInline:java.lang.Boolean:false
+isAllowApplyToConfigSet:java.lang.Boolean:false
+getPageConfiguration:com.hannonhill.cascade.model.dom.PageConfiguration:7c51d78cac1600051ca008f939e0034d
+getName:java.lang.String:DEFAULT

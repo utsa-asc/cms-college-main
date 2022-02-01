@@ -1,0 +1,8 @@
+getExtension:java.lang.String:.xml
+getPageRegions:org.hibernate.collection.PersistentSet:
+getTemplate:com.hannonhill.cascade.model.dom.Template:7c51d8d5ac1600051ca008f91d3b65cc|_cms/templates/XML|College-MAIN
+getSerializationType:java.lang.String:XML
+getShouldIncludeXMLDeclaration:java.lang.Boolean:false
+getPublishable:java.lang.Boolean:false
+getConfigurationSet:com.hannonhill.cascade.model.dom.PageConfigurationSet:7428f54eac16000600f8e2cab23f7bf9
+getName:java.lang.String:XML

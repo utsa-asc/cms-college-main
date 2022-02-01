@@ -1,0 +1,25 @@
+## #import("_cms/formats/global/utilities")
+## #set($row = $currentPage.getStructuredDataNodes("row")[3])
+## #successStory()
+#macro(successStory)
+    #set($block = $row.getChild("block").asset)
+    #set($image = $block.getStructuredDataNode("image").asset.link)
+    #set($video = $_EscapeTool.xml($block.getStructuredDataNode("video").textValue))
+    #set($wysiwyg = $block.getStructuredDataNode("wysiwyg").textValue)
+    <section class="section bg-cover" data-background="[system-asset]${image}[/system-asset]" id="${rowID}">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 col-sm-4 position-relative success-video">
+                    <a class="play-btn venobox" href="${video}" data-vbtype="video">
+                        <i class="ti-control-play" />
+                    </a>
+                </div>
+                <div class="col-lg-6 col-sm-8">
+                    <div class="bg-white p-5">
+                        ${wysiwyg}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+#end

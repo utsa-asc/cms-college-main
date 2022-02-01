@@ -1,0 +1,3 @@
+#import("_cms/formats/global/utilities")
+#breadcrumbs()
+#processRows($currentPage.getStructuredDataNodes("row"))

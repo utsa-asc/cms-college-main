@@ -1,0 +1,31 @@
+## #import("_cms/formats/global/utilities")
+## #set($row = $currentPage.getStructuredDataNodes("row")[2])
+## #cta()
+#macro(cta)
+    #set($block = $row.getChild("block").asset)
+    #set($headline = $_EscapeTool.xml($block.getStructuredDataNode("headline").textValue))
+    #set($text = "")
+    #set($text = $_EscapeTool.xml($block.getStructuredDataNode("text").textValue))
+<section class="headline-text-btn-wrapper grey-bg" id="${rowID}">
+    <div class="container">
+        <div class="row">
+            <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4 col-sm-12">
+                <div class="heading-wrapper">
+                    <h4>${headline}</h4>
+                </div>
+            </div>
+            <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4 col-sm-12">
+                <div class="paragraph-text">
+                    <p>${text}</p>
+                </div>
+            </div>
+            <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4 col-sm-12">
+                <div class="blue-action-btn">
+                    #linkData($block.getStructuredDataNode("link"))
+                    <a href="${linkURL}" class="action-btn" target="${linkTarget}">${linkLabel} <i class="fas fa-arrow-right" aria-hidden="true"></i></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+#end

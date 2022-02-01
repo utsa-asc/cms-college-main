@@ -1,0 +1,5 @@
+getText:java.lang.String:::CONTENT-XML-SELECTOR::
+getDefinitionFieldId:java.lang.String:97a35063c0a8005b2e79c1599f6d97249c5f1fd9c0a8005b459cfb4cf2fb5b1a
+getTextVersion:java.lang.Integer:2
+getOwnerEntity:com.hannonhill.cascade.model.dom.Page:7c51d6e2ac1600051ca008f9a8168e49
+getPosition:java.lang.String:2

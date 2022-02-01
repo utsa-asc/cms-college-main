@@ -1,0 +1,7 @@
+getPageConfigurations:org.hibernate.collection.PersistentSet:7428f54eac16000600f8e2cad7dc20ea&|7428f54eac16000600f8e2cac03e0b55&|
+getParentContainer:com.hannonhill.cascade.model.dom.PageConfigurationSetContainer:7c51c7e6ac1600051ca008f9d97a463d|/|College-MAIN
+getParentContainer:com.hannonhill.cascade.model.dom.PageConfigurationSetContainer:7c51c7e6ac1600051ca008f9d97a463d|/|College-MAIN
+getDefaultConfiguration:com.hannonhill.cascade.model.dom.PageConfiguration:7428f54eac16000600f8e2cad7dc20ea
+getPath:java.lang.String:TEST
+isCurrentVersion:java.lang.Boolean:true
+getName:java.lang.String:TEST

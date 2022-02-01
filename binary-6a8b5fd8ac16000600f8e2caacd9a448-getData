@@ -1,0 +1,30 @@
+## #import("_cms/formats/global/utilities")
+## #globalHeader()
+#macro(globalHeader)
+    <!-- Top Header -->
+    <div id="top-header">
+        <div class="top-header-left">
+            <a href="#">
+                <img src="[system-asset:local]/college-dls/utsa/images/top-logo.png[/system-asset:local]" alt="The University of Texas at San Antonio" />
+                <span class="top-logo-text">The University of Texas at San Antonio</span>
+            </a>
+        </div>
+        <div class="top-header-right">
+            <form class="top-header-form">
+                <div class="myutsa-link">
+                    <a href="#"><i class="fas fa-globe-americas"></i> myUTSA</a>
+                </div>
+                <div class="search">
+                    <button type="button" class="search-btn dropdown-toggle" data-bs-toggle="dropdown"><span class="search-icon"><i class="fas fa-search"></i></span> <span class="search-text">Search</span></button>
+                    <div class="dropdown-menu search-dropdown">
+                        <label for="search" class="hide">Search</label>
+                        <input type="search" placeholder="Search" name="Search" id="search" />
+                        <button type="submit" class="search-input-icon" aria-label="Search"><i class="fas fa-search"></i></button>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+#end
+
+        

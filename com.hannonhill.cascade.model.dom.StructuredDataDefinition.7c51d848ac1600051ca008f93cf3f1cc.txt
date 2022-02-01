@@ -1,0 +1,6 @@
+getXml:java.lang.String:<system-data-structure>&n  <group collapsed="true" identifier="slider" label="Slider">&n    <group collapsed="true" identifier="slide" label="Slide" multiple="true">&n      <text field-id="97a35063c0a8005b2e79c159ce218025" identifier="headline" label="Headline" required="true"/>&n      <text field-id="97a35063c0a8005b2e79c159e1399d28" identifier="tagline" label="Tagline" multi-line="true"/>&n      <shared-field field-id="97a35063c0a8005b2e79c15941995275" identifier="link" path="/Link"/>&n      <asset field-id="a54893f4ac1e004c28343a3e97022484" identifier="image" label="Image Background" required="true" type="file"/>&n    </group>&n  </group>&n  <shared-field field-id="97a35063c0a8005b2e79c1599f6d9724" identifier="row" path="/Row"/>&n</system-data-structure>
+getParentContainer:com.hannonhill.cascade.model.dom.StructuredDataDefinitionContainer:7c51d8a6ac1600051ca008f9abfb61a3|Pages|College-MAIN
+getParentContainer:com.hannonhill.cascade.model.dom.StructuredDataDefinitionContainer:7c51d8a6ac1600051ca008f9abfb61a3|Pages|College-MAIN
+getPath:java.lang.String:Pages/Home
+isCurrentVersion:java.lang.Boolean:true
+getName:java.lang.String:Home

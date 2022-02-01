@@ -1,0 +1,44 @@
+## #import("_cms/formats/global/utilities")
+## #set($row = $currentPage.getStructuredDataNodes("row")[0])
+## #featuredItems()
+#macro(featuredItems)
+    #set($block = $row.getChild("block").asset)
+    #imageData($block.getStructuredDataNode("image"))
+    <section class="bg-gray overflow-md-hidden#if($rowCount == 1) mt-feature-blocks#end" id="${rowID}">
+        <div class="container-fluid p-0">
+            <div class="row no-gutters">
+                <div class="col-xl-4 col-lg-5 align-self-end">
+                    #if($imageLinkType == "no link")
+                        <img class="img-fluid w-100" src="[system-asset]${imageURL}[/system-asset]" alt="${imageAlt}" />
+                    #else
+                        <a href="${imageLinkURL}" target="${imageLinkTarget}">
+                            <img class="img-fluid w-100" src="[system-asset]${imageURL}[/system-asset]" alt="${imageAlt}" />
+                        </a>
+                    #end
+                </div>
+                <div class="col-xl-8 col-lg-7">
+                    <div class="row feature-blocks bg-gray justify-content-between">
+                        #foreach($item in $block.getStructuredDataNodes("item"))
+                            #iconData($item.getChild("icon"))
+                            #set($itemHeadline = "")
+                            #set($itemTagline = "")
+                            #set($itemHeadline = $_EscapeTool.xml($item.getChild("headline").textValue))
+                            #set($itemTagline = $_EscapeTool.xml($item.getChild("tagline").textValue))
+                            <div class="col-sm-6 col-xl-5 mb-xl-5 mb-lg-3 mb-4 text-center text-sm-left">
+                                #if($iconLinkType == "no link")
+                                    <i class="${iconClass} mb-xl-4 mb-lg-3 mb-4 feature-icon"></i>
+                                #else
+                                    <a href="${iconLinkURL}" target="${iconLinkTarget}">
+                                        <i class="${iconClass} mb-xl-4 mb-lg-3 mb-4 feature-icon"></i>
+                                    </a>
+                                #end 
+                                <h3 class="mb-xl-4 mb-lg-3 mb-4">${itemHeadline}</h3>
+                                <p>${itemTagline}</p>
+                            </div>
+                        #end
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+#end

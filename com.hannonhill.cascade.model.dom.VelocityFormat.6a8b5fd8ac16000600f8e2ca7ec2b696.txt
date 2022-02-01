@@ -1,0 +1,9 @@
+getTemplateContent:com.hannonhill.cascade.model.dom.BlobEntity:6a8b5fd8ac16000600f8e2caacd9a448
+getPath:java.lang.String:_cms/formats/global/globalHeader
+getTags:org.hibernate.collection.PersistentSet:
+getParentFolder:com.hannonhill.cascade.model.dom.Folder:7c51d55eac1600051ca008f954636592|_cms/formats/global|College-MAIN
+getOwnerId:java.lang.String:admin
+getRelativeOrder:java.lang.Integer:2147479551
+getDynamicMetadataFields:org.hibernate.collection.PersistentSet:
+isCurrentVersion:java.lang.Boolean:true
+getName:java.lang.String:globalHeader

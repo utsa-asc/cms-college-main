@@ -1,0 +1,10 @@
+getPageRegions:org.hibernate.collection.PersistentSet:7c51d8c7ac1600051ca008f9542b7c35&|7c51d8c7ac1600051ca008f9d14ab2b1&|7c51d8c7ac1600051ca008f922b49ac7&|7c51d8c7ac1600051ca008f9c0e340d8&|7c51d8c7ac1600051ca008f99df06e68&|
+getXml:java.lang.String:<!DOCTYPE html>&n<html xmlns="http://www.w3.org/1999/xhtml">&n<head>&n<system-region name="HEAD"/>&n<title></title>&n</head>&n<body>&n<div id="body-wrapper">&n<div id="skip-content"><button class="Skip-btn">Skip To Main Content</button></div>&n<system-region name="HEADER"/> <system-region name="DEFAULT"/> <system-region name="FOOTER"/></div>&n<system-region name="SCRIPTS"/>&n</body>&n</html>
+getPath:java.lang.String:_cms/templates/HTML
+getTags:org.hibernate.collection.PersistentSet:
+getParentFolder:com.hannonhill.cascade.model.dom.Folder:7c51d539ac1600051ca008f9bcdf6bfd|_cms/templates|College-MAIN
+getOwnerId:java.lang.String:matt.shirey
+getRelativeOrder:java.lang.Integer:2130706431
+getDynamicMetadataFields:org.hibernate.collection.PersistentSet:
+isCurrentVersion:java.lang.Boolean:true
+getName:java.lang.String:HTML

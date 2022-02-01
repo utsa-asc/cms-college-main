@@ -1,0 +1,14 @@
+#import("_cms/formats/global/utilities")
+#set ($username = $currentPage.getStructuredDataNode("username").textValue )
+#set ($source = $currentPage.getStructuredDataNode("xmlSource").textValue )
+#set ($USER_URL = "https://utsa%2Fweb_services_2:vZ8apjChnyt@webservices.digitalmeasures.com/login/service/v4/SchemaData/INDIVIDUAL-ACTIVITIES-University/USERNAME:${username}/PCI,PASTHIST,CLINICAL_ACTVITIES,ADMIN_ASSIGNMENTS,AWARDHONOR,CONSULT,EDUCATION,CREDENTIALING,EXTERNAL_PARTNERSHIPS,FACDEV,LICCERT,MEDCONT,MEMBER,FACULTY_CAREER,SCHTEACH,DSL,NCTEACH,ACADVISE,PERFORM_EXHIBIT,CONGRANT,RESAWARDS,EXPENDITURES,INTELLCONT,INTELLPROP,PRESENT,SCHOLARY_WORK,RESPROG,SERVICE_DEPARTMENT,SERVICE_COLLEGE,SERVICE_UNIVERSITY,SERVICE_SYSTEM,SERVICE_PROFESSIONAL,SERVICE_PUBLIC,MENTORING_ADVISING" )
+#set ($API_KEY = "ad07b252-edc4-4a58-9aa9-8ed018fa8c07")
+#set ($CURRENT_PATH = $currentPage.path )
+
+${currentPageSiteName}
+${CURRENT_PATH}
+
+
+
+<div id="userInfo">${username}</div>
+<textarea rows="40" cols="80" style="border:none;">${source}</textarea>

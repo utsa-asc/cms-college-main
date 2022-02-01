@@ -1,0 +1,9 @@
+getPageConfigurationSet:com.hannonhill.cascade.model.dom.PageConfigurationSet:7428f54eac16000600f8e2cab23f7bf9|TEST|College-MAIN
+getStructuredDataDefinition:com.hannonhill.cascade.model.dom.StructuredDataDefinition:74295b3dac16000600f8e2ca8520c75a|Blocks/TEST|College-MAIN
+getMetadataSet:com.hannonhill.cascade.model.dom.MetadataSet:7c51d5a5ac1600051ca008f9d2c8671a|Page|College-MAIN
+getParentContainer:com.hannonhill.cascade.model.dom.ContentTypeContainer:7c51c7f6ac1600051ca008f904bf8d38|/|College-MAIN
+getInlineEditableFields:org.hibernate.collection.PersistentSet:
+getContentTypePageConfigurations:org.hibernate.collection.PersistentSet:
+getPath:java.lang.String:TEST
+isCurrentVersion:java.lang.Boolean:true
+getName:java.lang.String:TEST

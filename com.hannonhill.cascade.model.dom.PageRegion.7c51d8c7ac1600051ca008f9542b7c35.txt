@@ -1,0 +1,7 @@
+getTemplate:com.hannonhill.cascade.model.dom.Template:7c51d8c6ac1600051ca008f9d9e5dc79
+isBlockOverrides:java.lang.Boolean:false
+isFormatOverrides:java.lang.Boolean:false
+isShouldApplyToConfigSet:java.lang.Boolean:false
+isInline:java.lang.Boolean:false
+isAllowApplyToConfigSet:java.lang.Boolean:false
+getName:java.lang.String:DEFAULT

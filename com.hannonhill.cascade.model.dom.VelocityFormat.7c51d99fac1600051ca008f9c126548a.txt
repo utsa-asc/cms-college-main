@@ -1,0 +1,9 @@
+getTemplateContent:com.hannonhill.cascade.model.dom.BlobEntity:7c51d99fac1600051ca008f94e9716d3
+getPath:java.lang.String:_cms/formats/shared/academicAdvisors
+getTags:org.hibernate.collection.PersistentSet:
+getParentFolder:com.hannonhill.cascade.model.dom.Folder:7c51d56aac1600051ca008f9d49376be|_cms/formats/shared|College-MAIN
+getOwnerId:java.lang.String:matt.shirey
+getRelativeOrder:java.lang.Integer:2147467263
+getDynamicMetadataFields:org.hibernate.collection.PersistentSet:
+isCurrentVersion:java.lang.Boolean:true
+getName:java.lang.String:academicAdvisors

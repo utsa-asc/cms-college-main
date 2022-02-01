@@ -1,0 +1,5 @@
+isRoot:java.lang.Boolean:true
+getName:java.lang.String:Workflow Definitions
+getPath:java.lang.String:/
+getPermissions:com.hannonhill.cascade.model.dom.Permissions:7c51c7a9ac1600051ca008f9ad1796f0
+isCurrentVersion:java.lang.Boolean:true

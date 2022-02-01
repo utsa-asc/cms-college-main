@@ -1,0 +1,9 @@
+getLabel:java.lang.String:Program Type
+isRequired:java.lang.Boolean:true
+getConfiguration:java.lang.String:<multiselect>&r&n	<item>Associate&amp;#39;s</item>&r&n	<item>Bachelor&amp;#39;s</item>&r&n	<item>Master&amp;#39;s</item>&r&n	<item>Doctorate</item>&r&n	<item>Certificate</item>&r&n</multiselect>
+getMetadataSet:com.hannonhill.cascade.model.dom.MetadataSet:7c51d594ac1600051ca008f93cf08258
+getListingOrder:java.lang.Integer:0
+getMetadataType:com.hannonhill.cascade.model.dom.MetadataFieldType:MULTISELECT
+getVisibility:com.hannonhill.cascade.model.dom.MetadataFieldVisibility:INLINE
+getHelpText:java.lang.String:
+getName:java.lang.String:programType

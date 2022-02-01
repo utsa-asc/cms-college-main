@@ -1,0 +1,5 @@
+getText:java.lang.String:generic stock image
+getDefinitionFieldId:java.lang.String:9c2186f0ac1600054f9500f316bdf99e97ba0865c0a8005b2e79c1591cf7dc30
+getTextVersion:java.lang.Integer:2
+getOwnerEntity:com.hannonhill.cascade.model.dom.Block:9c1fb170ac1600054f9500f3161b0fa6
+getPosition:java.lang.String:

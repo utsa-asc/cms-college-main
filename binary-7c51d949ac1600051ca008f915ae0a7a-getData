@@ -1,0 +1,3 @@
+#import("_cms/formats/global/utilities")
+#import("_cms/formats/global/globalFooter")
+#globalFooter()

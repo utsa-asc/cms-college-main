@@ -1,0 +1,6 @@
+getText:java.lang.String:
+getPage:com.hannonhill.cascade.model.dom.Page:7c51d6e2ac1600051ca008f9a8168e49|index|College-MAIN
+getDefinitionFieldId:java.lang.String:ae83bc27c0a8005b520f17cea0e3359481c60f08ac1e00a1403ca41fcd7ccdf6
+getTextVersion:java.lang.Integer:2
+getOwnerEntity:com.hannonhill.cascade.model.dom.Block:7c51c9caac1600051ca008f9458581ad
+getPosition:java.lang.String:

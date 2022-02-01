@@ -1,0 +1,9 @@
+## #import("_cms/formats/global/utilities")
+## #set($row = $currentPage.getStructuredDataNodes("row")[1])
+## #wysiwyg()
+#macro(wysiwyg)
+    #set($wysiwyg = $row.getChild("wysiwyg").textValue)
+    <section class="section" id="${rowID}">
+        ${wysiwyg}
+    </section>
+#end

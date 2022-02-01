@@ -1,0 +1,5 @@
+getText:java.lang.String:<p class="mb-0">Copyright &amp;amp;#169;&n<script>// <![CDATA[&nvar CurrentYear = new Date().getFullYear()&n              document.write(CurrentYear)&n// ]]></script>&n2021 , designed &amp;amp; developed by <a class="text-muted" href="https://themefisher.com/">Themefisher</a></p>
+getDefinitionFieldId:java.lang.String:c058af7ec0a8005b520f17ce4dfc80ab
+getTextVersion:java.lang.Integer:2
+getOwnerEntity:com.hannonhill.cascade.model.dom.Block:7c51c9caac1600051ca008f9458581ad
+getPosition:java.lang.String:

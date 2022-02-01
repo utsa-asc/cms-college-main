@@ -1,0 +1,41 @@
+## #import("_cms/formats/global/utilities")
+## #set($row = $currentPage.getStructuredDataNodes("row")[5])
+## #programs()
+#macro(programs)
+    <section class="section-sm">
+        <div class="container">
+            <div class="row justify-content-center">
+            	<div class="col-12">
+            		<h2 class="section-title">Our Programs</h2>
+                    ## <div class="border-top w-100 border-primary d-none d-sm-block"></div>
+                    ## <div>
+                    ## <a href="courses.html" class="btn btn-sm btn-primary-outline ml-sm-3 d-none d-sm-block">see all</a>
+                    ## </div>
+            	</div>
+            	#set($programs = $_.locateFolder("programs").children)
+                #foreach($program in $programs)
+                    #set($programDetails = $program.getStructuredDataNode("details"))
+                    #set($programName = $_EscapeTool.xml($programDetails.getChild("name").textValue))
+                    #set($programCopy = $_DisplayTool.truncate($_DisplayTool.stripTags($programDetails.getChild("wysiwyg").textValue),100,"...",true))
+                    #set($programType = $_DisplayTool.list($programDetails.getChild("type").textValues))
+                    #imageData($program.getStructuredDataNode("image"))
+            		<div class="col-lg-4 col-sm-6 mb-5">
+            			<div class="card p-0 border-primary rounded-0 hover-shadow">
+            				<img class="card-img-top rounded-0" src="[system-asset]${imageURL}[/system-asset]" alt="${imageAlt}"/>
+            				<div class="card-body">
+            					<ul class="list-inline mb-2">
+            						<li class="list-inline-item">${programType}</li>
+            					</ul>
+            					<a href="course-single.html">
+            						<h4 class="card-title">${programName}</h4>
+            					</a>
+            					<p class="card-text mb-4"> ${programCopy}</p>
+            					<a href="${program.link}" class="btn btn-primary btn-sm">More Info</a>
+            				</div>
+            			</div>
+            		</div>
+            	#end
+            </div>
+        </div>
+    </section>
+#end

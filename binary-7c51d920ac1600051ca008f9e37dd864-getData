@@ -1,0 +1,175 @@
+#set($globalSite = $currentPageSiteName)
+#set($siteSetup = $_.locateBlock("/_blocks/_setup", $globalSite))
+#set($globalMacros = "_cms/formats/shared")
+#set($imported = [])
+#######################################################################
+## #processRows($currentPage.getStructuredDataNodes("row"))
+#######################################################################
+#macro(breadcrumbs)
+    #set($bannerPath = $currentPage.parentFolder.name + "banner.jpg")
+    #set($banner = $_.locateFile($bannerPath))
+    #if($banner)
+        #set($bannerImage = $banner)
+    #else
+        #set($bannerImage = "_files/images/banner/banner-1.jpg")
+    #end
+    <section class="page-title-section overlay" data-background="[system-asset]${bannerImage}[/system-asset]">
+    	<div class="container">
+    		<div class="row">
+    			<div class="col-md-8">
+    				<ul class="list-inline custom-breadcrumb mb-2">
+    				    #set($homepage = $_.locatePage("/index", $currentPageSiteName).link)
+    					<li class="list-inline-item"> <a href="${homepage}" target="_parent" class="text-white h3 font-secondary nasted">Home</a></li>
+    					#set($bcPath = "")
+                        #set($currentBC = "")
+                        #foreach($bc in $currentPage.path.split("/"))
+                            #set($bcPath = $bcPath + "/" + $bc)
+                            #if($foreach.last)
+                                #if($currentPage.name != "index")
+                                    <li class="list-inline-item nasted"><span class="h2 text-primary font-secondary">$_EscapeTool.xml($currentPage.label)</span></li>
+                                #end
+                                #set($currentBC = $_EscapeTool.xml($currentPage.label))
+                            #else
+                                #set($bcPathCheck = $bcPath + "/index")
+                                #set($bcPathCheckLocated = "")
+                                #set($bcPathCheckLocated = $_.locatePage($bcPathCheck, $currentPageSiteName))
+                                #if($bcPathCheckLocated != "")
+                                    <li class="list-inline-item nasted"> <a href="[system-asset]${bcPathCheckLocated.link}[/system-asset]" target="_parent" class="text-white h3 font-secondary">$_EscapeTool.xml($_.locateFolder($bcPath, $currentPageSiteName).label)</a></li>
+                                #else
+                                    #set($bcPathFolderCheckLocated = $_.locateFolder($bcPath, $currentPageSiteName))
+                                    #if($bcPathFolderCheckLocated)
+                                        <li class="list-inline-item nasted"> <span class="text-white h3 font-secondary">$_EscapeTool.xml($bcPathFolderCheckLocated.label)</span></li>
+                                    #end
+                                #end
+                            #end
+                        #end
+    				</ul>
+    			</div>
+    		</div>
+    	</div>
+    </section>
+#end ## END MACRO
+#######################################################################
+#macro(processRows $data)
+    #foreach($row in $data)
+        #set($rowType = "")
+        #set($rowType = $row.getChild("type").textValue)
+        #if($rowType != "" && $rowType != "None")
+            #set($rowMacro = $rowType)
+            #set($rowID = $rowMacro + "-" + $foreach.count)
+            #set($rowCount = $foreach.count)
+            <!-- ${rowMacro} -->
+            #processMacro($rowMacro)
+        #end
+    #end
+#end ## END MACRO
+#######################################################################
+#macro(runMacro $data)
+    #set($macroBuild = "#" + $data + "()")
+    #set($macroRun = "#evaluate($macroBuild)")
+    $macroRun 
+#end ## END MACRO
+#######################################################################
+#macro(processMacro $data)
+    #set($formatSitePath = "site://" + $globalSite + "/" + $globalMacros + "/" + $data)##
+    #set($formatPath = $globalMacros + "/" + $data)##
+    #set($formatFile = "")
+    #set($formatFile = $_.locateFormat($formatPath, $globalSite))
+    #if($formatFile != "")
+        #if(!$imported.contains($data))##
+            #set($add = $imported.add($data))
+            #import($formatSitePath)
+            #runMacro($data)
+        #else
+            #runMacro($data)
+        #end
+    #else
+        #formatNotFound($row.getChild("type").textValue)
+    #end
+#end ## END MACRO
+#######################################################################
+#macro(linkData $data)
+    #set($linkTarget = "")
+    #set($linkLabel = "")        
+    #set($linkType  = "")
+    #set($linkURL = "")
+    #set($linkTarget = $data.getChild("target").textValue.replace("Parent Window/Tab","_parent").replace("New Window/Tab","_blank"))
+    #set($linkType  = $data.getChild("type").textValue.toLowerCase())
+    #set($linkLabel = $_EscapeTool.xml($data.getChild("label").textValue))      
+    #if($linkType == "internal")
+        #set($linkURL = $data.getChild("internal").asset.link)
+        #if($data.getChild("internal").asset.assetType == "symlink")
+            #set($linkURL = $_EscapeTool.xml($linkURL))
+        #else
+            #set($linkURL = "[system-asset]${linkURL}[/system-asset]")
+        #end
+    #else
+        #set($linkURL = $_EscapeTool.xml($data.getChild("external").textValue))
+    #end
+#end ## END MACRO
+#######################################################################
+#macro(imageData $data)
+    #set($imageURL = "")
+    #set($imageLinkTarget = "")
+    #set($imageAlt = "")        
+    #set($imageLinkType  = "")
+    #set($imageLinkURL = "")
+    #set($imageURL = $data.getChild("file").asset.link)
+    #set($imageLinkTarget = $data.getChild("target").textValue.replace("Parent Window/Tab","_parent").replace("New Window/Tab","_blank"))
+    #set($imageLinkType  = $data.getChild("type").textValue.toLowerCase())
+    #set($imageAlt = $_EscapeTool.xml($data.getChild("alt").textValue))      
+    #if($imageLinkType == "internal")
+        #set($imageLinkURL = $data.getChild("internal").asset.link)
+        #if($data.getChild("internal").asset.assetType == "symlink")
+            #set($imageLinkURL = $_EscapeTool.xml($imageLinkURL))
+        #else
+            #set($imageLinkURL = "[system-asset]${imageLinkURL}[/system-asset]")
+        #end
+    #else
+        #set($imageLinkURL = $_EscapeTool.xml($data.getChild("external").textValue))
+    #end
+#end ## END MACRO
+#######################################################################
+#macro(iconData $data)
+    #set($iconClass = "")
+    #set($iconLinkTarget = "")
+    #set($iconAlt = "")        
+    #set($iconLinkType  = "")
+    #set($iconLinkURL = "")
+    #set($iconClass = $_EscapeTool.xml($data.getChild("class").textValue))
+    #set($iconLinkTarget = $data.getChild("target").textValue.replace("Parent Window/Tab","_parent").replace("New Window/Tab","_blank"))
+    #set($iconLinkType  = $data.getChild("type").textValue.toLowerCase())
+    #set($iconAlt = $_EscapeTool.xml($data.getChild("alt").textValue))      
+    #if($iconLinkType == "internal")
+        #set($iconLinkURL = $data.getChild("internal").asset.link)
+        #if($data.getChild("internal").asset.assetType == "symlink")
+            #set($iconLinkURL = $_EscapeTool.xml($iconLinkURL))
+        #else
+            #set($iconLinkURL = "[system-asset]${iconLinkURL}[/system-asset]")
+        #end
+    #else
+        #set($iconLinkURL = $_EscapeTool.xml($data.getChild("external").textValue))
+    #end
+#end ## END MACRO
+#######################################################################
+#macro(textToID $data)
+$data.toLowerCase().replaceAll("[^A-Za-z0-9]","-")##
+#end ## END MACRO
+#######################################################################
+#macro(formatNotFound $data)
+    [system-view:internal]
+            <h4 class="alert-heading">Error:</h4>
+             <hr />
+            <p>Format not found.<br />
+            Row Type: "$data"<br />
+            Format: "$formatSitePath"</p>
+    [/system-view:internal]
+#end ## END MACRO
+#######################################################################
+#macro(minifyMe $data)
+#set($trimSpacingRegExp2 = "([\t\r\n]|(\s{2,}))")##
+#set($trimSpacingRegExp3 = "([\t\r\n]|(\s{3,}))")##
+#set($trimSpacingRegExp4 = "([\t\r\n]|(\s{4,}))")##
+#set($trimSpacingRegExp5 = "([\t\r\n]|(\s{5,}))")##
+$data.replaceAll($trimSpacingRegExp5," ").replaceAll($trimSpacingRegExp4," ").replaceAll($trimSpacingRegExp3," ").replaceAll($trimSpacingRegExp2," ").replaceAll($trimSpacingRegExp2,"").replaceAll('alt=" "','alt=""').replaceAll("alt=' '","alt=''").replaceAll(" &quot; ","&quot;").replaceAll("&quot; ","&quot;").replaceAll(" &quot;","&quot;").replaceAll(", ,",",").replaceAll(",,",",").replaceAll('=" ','="').replaceAll(' ">','">').replaceAll('> ','>').replaceAll(' <','<').replaceAll(' , ',',')##
+#end ## END MACRO

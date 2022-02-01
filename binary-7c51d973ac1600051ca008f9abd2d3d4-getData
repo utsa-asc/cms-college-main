@@ -1,0 +1,12 @@
+## #import("_cms/formats/global/utilities")
+## #set($row = $currentPage.getStructuredDataNodes("row")[1])
+## #wysiwygFeaturedImage()
+#macro(wysiwygFeaturedImage)
+    #set($wysiwyg = $row.getChild("wysiwyg").textValue)
+    #set($image = $row.getChild("image").getChild("file").asset.link)
+    #set($alt = "")
+    #set($alt = $_EscapeTool.xml($row.getChild("image").getChild("alt").textValue))
+    <section class="section" id="${rowID}">
+        ${wysiwyg}
+    </section>
+#end

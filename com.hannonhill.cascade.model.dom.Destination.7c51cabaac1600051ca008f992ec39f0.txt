@@ -1,0 +1,14 @@
+isEnabled:java.lang.Boolean:true
+getDirectory:java.lang.String:test
+getTransport:com.hannonhill.cascade.model.dom.FileSystemTransport:3c3ea7a0ac1600066191d764f94e9980|tomcat-local-publish|UTSA-WWWROOT
+getParentContainer:com.hannonhill.cascade.model.dom.SiteDestinationContainer:7c51c83cac1600051ca008f926e1d80b|/|College-MAIN
+getParentContainer:com.hannonhill.cascade.model.dom.SiteDestinationContainer:7c51c83cac1600051ca008f926e1d80b|/|College-MAIN
+isConvertTextTo7Bit:java.lang.Boolean:false
+getPublishingBaseURL:java.lang.String:
+isCheckedByDefault:java.lang.Boolean:true
+getExtensionsToStrip:java.lang.String:
+getUsesScheduledPublishing:java.lang.Boolean:false
+getPath:java.lang.String:localhost-test
+getPermissions:com.hannonhill.cascade.model.dom.Permissions:7c51cabaac1600051ca008f92432393c
+isCurrentVersion:java.lang.Boolean:true
+getName:java.lang.String:localhost-test

@@ -1,0 +1,32 @@
+getContentType:com.hannonhill.cascade.model.dom.ContentType:7c51ca72ac1600051ca008f98785cb18|Academic Advisor|College-MAIN
+getPageConfigurations:org.hibernate.collection.PersistentSet:
+getPageConfigurationSet:com.hannonhill.cascade.model.dom.PageConfigurationSet:7c51d7a9ac1600051ca008f996085e26|Academic Advisor|College-MAIN
+getAllStructuredData:org.hibernate.collection.PersistentSet:
+getStructuredDataFields:org.hibernate.collection.PersistentSet:7c51d641ac1600051ca008f91887cda1&|7c51d641ac1600051ca008f9c042768c&|7c51d641ac1600051ca008f9c2eb4a4b&|7c51d641ac1600051ca008f95f68c983&|7c51d641ac1600051ca008f935a98072&|7c51d641ac1600051ca008f94a1ae96b&|7c51d641ac1600051ca008f97eab1d0f&|7c51d641ac1600051ca008f9ef07a996&|7c51d641ac1600051ca008f9234dfb61&|7c51d641ac1600051ca008f9d3841985&|7c51d641ac1600051ca008f902c7142d&|7c51d641ac1600051ca008f9d6fd5827&|7c51d641ac1600051ca008f9fd1ca830&|7c51d641ac1600051ca008f979660097&|7c51d641ac1600051ca008f90002f573&|7c51d641ac1600051ca008f93d3cfecd&|7c51d641ac1600051ca008f9392c5c89&|7c51d641ac1600051ca008f98300c6dc&|7c51d641ac1600051ca008f9f902ec84&|7c51d641ac1600051ca008f98cccaddf&|7c51d641ac1600051ca008f90f26c3e4&|
+getStructuredDataDefinition:com.hannonhill.cascade.model.dom.StructuredDataDefinition:7c51d826ac1600051ca008f9a6b5b50f|Pages/Academic Advisor|College-MAIN
+getMetadataSet:com.hannonhill.cascade.model.dom.MetadataSet:7c51d5a5ac1600051ca008f9d2c8671a|Page|College-MAIN
+getLinkRewriting:com.hannonhill.cascade.model.dom.LinkRewriting:INHERIT
+getStructuredDataVersion:java.lang.Integer:3
+isPublishAllDestinations:java.lang.Boolean:false
+isShouldBeIndexed:java.lang.Boolean:true
+isShouldBePublished:java.lang.Boolean:true
+isExpirationNoticeSent:java.lang.Boolean:false
+isFirstExpirationWarningSent:java.lang.Boolean:false
+isSecondExpirationWarningSent:java.lang.Boolean:false
+getDisplayName:java.lang.String:
+getDescription:java.lang.String:
+isReviewOnSchedule:java.lang.Boolean:false
+getTitle:java.lang.String:Peter Parker
+getSummary:java.lang.String:
+getTeaser:java.lang.String:
+getKeywords:java.lang.String:
+getAuthor:java.lang.String:
+getReviewEvery:java.lang.Integer:180
+getPath:java.lang.String:advisors/peter-parker
+getTags:org.hibernate.collection.PersistentSet:
+getParentFolder:com.hannonhill.cascade.model.dom.Folder:7c51d2edac1600051ca008f9528e8775|advisors|College-MAIN
+getOwnerId:java.lang.String:matt.shirey
+getRelativeOrder:java.lang.Integer:2147475455
+getDynamicMetadataFields:org.hibernate.collection.PersistentSet:
+isCurrentVersion:java.lang.Boolean:true
+getName:java.lang.String:peter-parker

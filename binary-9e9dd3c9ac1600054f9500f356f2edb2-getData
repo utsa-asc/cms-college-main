@@ -1,0 +1,31 @@
+## #import("_cms/formats/global/utilities")
+## #set($row = $currentPage.getStructuredDataNodes("row")[2])
+## #ctaEnrollment()
+#macro(ctaEnrollment)
+    #set($block = $row.getChild("block").asset)
+    #set($subheading = $_EscapeTool.xml($block.getStructuredDataNode("subheading").textValue))
+    #set($heading = "")
+    #set($heading = $_EscapeTool.xml($block.getStructuredDataNode("heading").textValue))
+    #imageData($block.getStructuredDataNode("image"))
+    #set($links = $block.getStructuredDataNodes("link"))
+<!-- Roadrunner Section -->
+ <section class="enrollment-section-wrapper" style="background-image: url('[system-asset]${imageURL}[/system-asset]');">
+     <div class="container">
+         <div class="enrollment-cntnt">
+             <h5>${subheading}</h5>
+             <h2>${heading}</h2>
+             <div class="roadrunner-btns">
+                 <div class="row">
+                     #foreach($link in $links)
+                        #linkData($link)
+                         <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4 col-sm-12">
+                            <a href="${linkURL}" class="action-btn" target="${linkTarget}">${linkLabel} <i class="fas fa-arrow-right" aria-hidden="true"></i></a>
+                        </div>
+                     #end
+                 </div>
+             </div>
+         </div>
+     </div>
+ </section>
+<!--End Roadrunner Section -->
+#end
