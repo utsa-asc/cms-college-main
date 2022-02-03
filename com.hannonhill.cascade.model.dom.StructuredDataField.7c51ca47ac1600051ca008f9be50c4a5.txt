@@ -1,5 +1,5 @@
 getText:java.lang.String:<h2 class="section-title">Success Stories</h2>&n<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat.</p>&n<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris</p>
+getPosition:java.lang.String:
 getDefinitionFieldId:java.lang.String:9870fda9c0a8005b2e79c1591ceb9b5f
 getTextVersion:java.lang.Integer:2
 getOwnerEntity:com.hannonhill.cascade.model.dom.Block:7c51ca47ac1600051ca008f9352ce506
-getPosition:java.lang.String:

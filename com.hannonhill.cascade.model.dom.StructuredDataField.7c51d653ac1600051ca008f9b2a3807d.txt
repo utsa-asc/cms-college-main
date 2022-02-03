@@ -1,5 +1,5 @@
 getText:java.lang.String:Human Computer Interfacing
+getPosition:java.lang.String:3
 getDefinitionFieldId:java.lang.String:9c588ee7c0a8005b459cfb4cd5b00fed
 getTextVersion:java.lang.Integer:2
 getOwnerEntity:com.hannonhill.cascade.model.dom.Page:7c51d652ac1600051ca008f9350be738
-getPosition:java.lang.String:3

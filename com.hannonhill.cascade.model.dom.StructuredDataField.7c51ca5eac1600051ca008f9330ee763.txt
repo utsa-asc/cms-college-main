@@ -1,5 +1,5 @@
 getText:java.lang.String:
+getPosition:java.lang.String:
 getDefinitionFieldId:java.lang.String:unknown
 getTextVersion:java.lang.Integer:2
 getOwnerEntity:com.hannonhill.cascade.model.dom.Block:7c51ca5eac1600051ca008f96775cffa
-getPosition:java.lang.String:

@@ -1,5 +1,5 @@
 getText:java.lang.String:Our Notice Board
+getPosition:java.lang.String:2
 getDefinitionFieldId:java.lang.String:98694cbdc0a8005b2e79c159c677c304
 getTextVersion:java.lang.Integer:2
 getOwnerEntity:com.hannonhill.cascade.model.dom.Block:7c51ca14ac1600051ca008f918be19e2
-getPosition:java.lang.String:2

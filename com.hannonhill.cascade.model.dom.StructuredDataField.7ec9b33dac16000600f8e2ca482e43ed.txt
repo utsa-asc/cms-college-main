@@ -1,5 +1,5 @@
 getText:java.lang.String:zew310
+getPosition:java.lang.String:
 getDefinitionFieldId:java.lang.String:97b7bda5c0a8005b2e79c1596ccccf13
 getTextVersion:java.lang.Integer:2
 getOwnerEntity:com.hannonhill.cascade.model.dom.Block:7ec8ffa2ac16000600f8e2ca9f76ea00
-getPosition:java.lang.String:

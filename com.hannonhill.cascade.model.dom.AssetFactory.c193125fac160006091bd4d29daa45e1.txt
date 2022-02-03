@@ -1,0 +1,15 @@
+getDescription:java.lang.String:
+getGroups:java.lang.String:Advanced Velocity
+getPlugins:org.hibernate.collection.PersistentSet:
+getAssetType:java.lang.String:block
+getParentContainer:com.hannonhill.cascade.model.dom.AssetFactoryContainer:7c51c96eac1600051ca008f94e02f426|Blocks|College-MAIN
+getParentContainer:com.hannonhill.cascade.model.dom.AssetFactoryContainer:7c51c96eac1600051ca008f94e02f426|Blocks|College-MAIN
+getAllowSubfolderPlacement:java.lang.Boolean:false
+getBaseAsset:com.hannonhill.cascade.model.dom.Block:c1934819ac160006091bd4d26e7ab5a7|_cms/base-assets/CTA Image|College-MAIN
+getFolderPlacementPosition:java.lang.Long:0
+getOverwrite:java.lang.Boolean:false
+getPlacementFolder:com.hannonhill.cascade.model.dom.Folder:7c51d2f9ac1600051ca008f99d9618f0|_blocks|College-MAIN
+getWorkflowMode:java.lang.Integer:2
+getPath:java.lang.String:Blocks/CTA Image
+isCurrentVersion:java.lang.Boolean:true
+getName:java.lang.String:CTA Image

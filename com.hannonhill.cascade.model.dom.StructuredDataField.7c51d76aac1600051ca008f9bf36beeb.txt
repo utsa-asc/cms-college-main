@@ -1,5 +1,5 @@
 getText:java.lang.String:::CONTENT-XML-SELECTOR::Associate's::CONTENT-XML-SELECTOR::Bachelor's::CONTENT-XML-SELECTOR::Certificate
+getPosition:java.lang.String:
 getDefinitionFieldId:java.lang.String:9c4dc2b6c0a8005b459cfb4cea681e9a
 getTextVersion:java.lang.Integer:2
 getOwnerEntity:com.hannonhill.cascade.model.dom.Page:7c51d769ac1600051ca008f96526afbc
-getPosition:java.lang.String:

@@ -1,5 +1,5 @@
 getText:java.lang.String:Action Phrase Here
+getPosition:java.lang.String:1
 getDefinitionFieldId:java.lang.String:97b7bda5c0a8005b2e79c159ca3bc57881c60f08ac1e00a1403ca41f2a49371e
 getTextVersion:java.lang.Integer:2
 getOwnerEntity:com.hannonhill.cascade.model.dom.Block:7c51ca37ac1600051ca008f9d4ee5dcf
-getPosition:java.lang.String:1

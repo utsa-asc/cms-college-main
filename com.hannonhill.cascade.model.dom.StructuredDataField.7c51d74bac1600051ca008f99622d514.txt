@@ -1,5 +1,5 @@
 getText:java.lang.String:134 E 27th St, New York, NY 10016
+getPosition:java.lang.String:
 getDefinitionFieldId:java.lang.String:9c588ee7c0a8005b459cfb4c7e832011
 getTextVersion:java.lang.Integer:2
 getOwnerEntity:com.hannonhill.cascade.model.dom.Page:7c51d74bac1600051ca008f9a93c8555
-getPosition:java.lang.String:

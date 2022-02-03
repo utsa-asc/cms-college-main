@@ -1,0 +1,3 @@
+getPath:java.lang.String:Blocks/Quickfacts
+getXml:java.lang.String:<?xml version="1.0" encoding="UTF-8"?>&r&n<system-data-structure>&r&n  <group collapsed="true" identifier="fact" label="Single Fact" maximum-number="6" minimum-number="1" multiple="true">&r&n  <text field-id="1efcf18ec0a8005f5e2396ff2076d152" identifier="headline" label="Headline" required="true" />&r&n  <text field-id="97b7bda5c0a8005b2e79c1596ccccf13" identifier="text" label="Text" />&r&n  </group>&r&n</system-data-structure>&r&n
+getSiteName:java.lang.String:College-MAIN

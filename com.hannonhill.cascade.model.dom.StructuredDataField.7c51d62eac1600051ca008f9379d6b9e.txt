@@ -1,6 +1,6 @@
 getText:java.lang.String:
+getPosition:java.lang.String:1
 getPage:com.hannonhill.cascade.model.dom.Page:7c51d677ac1600051ca008f9f178a719|advisors/steve-rogers|College-MAIN
 getDefinitionFieldId:java.lang.String:9c4dc2b6c0a8005b459cfb4c30b90cbe
 getTextVersion:java.lang.Integer:2
 getOwnerEntity:com.hannonhill.cascade.model.dom.Page:7c51d62eac1600051ca008f9324e9ff3
-getPosition:java.lang.String:1

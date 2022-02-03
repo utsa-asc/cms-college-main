@@ -1,0 +1,36 @@
+getAllStructuredData:org.hibernate.collection.PersistentSet:
+getIndexOtherInformationOptions:java.lang.Long:0
+getMaxRenderedEntities:java.lang.Integer:0
+getSortOption:java.lang.Long:1
+getSortOrder:com.hannonhill.cascade.model.compare.Order:DESCENDING
+getMaxResults:java.lang.Integer:0
+isUseDefaultStyle:java.lang.Boolean:false
+isExcludeJQuery:java.lang.Boolean:false
+getStructuredDataFields:org.hibernate.collection.PersistentSet:c1940ae2ac160006091bd4d2b80ec5f6&|c1940ae1ac160006091bd4d23bd27cb0&|c1940ae2ac160006091bd4d2201fc3ea&|c1940ae2ac160006091bd4d274c4078e&|c1940ae1ac160006091bd4d271fc887b&|c1940ae2ac160006091bd4d2160904fc&|c1940ae1ac160006091bd4d2f1f66ee3&|c1940ae2ac160006091bd4d290fb2a76&|c1940ae2ac160006091bd4d2baa0864f&|c1940ae1ac160006091bd4d20029a453&|c1940ae2ac160006091bd4d267022da6&|c1940ae2ac160006091bd4d2001b579c&|c1940ae2ac160006091bd4d203afb7fa&|
+getBlockType:com.hannonhill.cascade.model.dom.BlockType:STRUCTUREDDATA
+isIncludePageXML:java.lang.Boolean:false
+getIndexAssetContentsOptions:java.lang.Long:0
+getIndexAssetTypesOptions:java.lang.Long:0
+getStructuredDataDefinition:com.hannonhill.cascade.model.dom.StructuredDataDefinition:9c205382ac1600054f9500f30dfc4095|Blocks/CTA-Image|College-MAIN
+getStructuredDataVersion:java.lang.Integer:3
+isExpirationNoticeSent:java.lang.Boolean:false
+isFirstExpirationWarningSent:java.lang.Boolean:false
+isSecondExpirationWarningSent:java.lang.Boolean:false
+getDisplayName:java.lang.String:
+getDescription:java.lang.String:
+isReviewOnSchedule:java.lang.Boolean:false
+getTitle:java.lang.String:
+getSummary:java.lang.String:
+getTeaser:java.lang.String:
+getKeywords:java.lang.String:
+getAuthor:java.lang.String:
+getMetadataSet:com.hannonhill.cascade.model.dom.MetadataSet:7c51d5b3ac1600051ca008f9bfd41814|Default|College-MAIN
+getReviewEvery:java.lang.Integer:180
+getPath:java.lang.String:_cms/base-assets/CTA Image
+getTags:org.hibernate.collection.PersistentSet:
+getParentFolder:com.hannonhill.cascade.model.dom.Folder:7c51d57fac1600051ca008f961acb95a|_cms/base-assets|College-MAIN
+getOwnerId:java.lang.String:admin
+getRelativeOrder:java.lang.Integer:2146467839
+getDynamicMetadataFields:org.hibernate.collection.PersistentSet:
+isCurrentVersion:java.lang.Boolean:true
+getName:java.lang.String:CTA Image
