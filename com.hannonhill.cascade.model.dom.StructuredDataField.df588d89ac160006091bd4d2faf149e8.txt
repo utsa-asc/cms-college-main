@@ -1,4 +1,4 @@
-getText:java.lang.String:CTA Example HeadingSubheading text can go here, not too long please
+getText:java.lang.String:Subheading text can go here, not too long please
 getPosition:java.lang.String:
 getDefinitionFieldId:java.lang.String:97b7bda5c0a8005b2e79c1596ccccf13
 getTextVersion:java.lang.Integer:2

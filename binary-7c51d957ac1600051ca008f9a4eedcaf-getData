@@ -1,12 +1,24 @@
 ## #import("_cms/formats/global/utilities")
-## #set($row = $currentPage.getStructuredDataNodes("row")[2])
+## #set($row = $currentPage.getStructuredDataNodes("row")[1])
 ## #cta()
 #macro(cta)
     #set($block = $row.getChild("block").asset)
     #set($headline = $_EscapeTool.xml($block.getStructuredDataNode("headline").textValue))
     #set($text = "")
     #set($text = $_EscapeTool.xml($block.getStructuredDataNode("text").textValue))
-<section class="headline-text-btn-wrapper grey-bg" id="${rowID}">
+    #set($colorVariant = "")
+    #set($variantConfigColor = $row.getChild("variant-color-config"))
+    #set($colorVariant = $variantConfigColor.getChild("color").textValue )
+    #set($buttonVariant = "blue-action-btn")
+    #if ($colorVariant == "blue-bg")
+        #set($colorVariant = "blue-bg stripe-bg")
+        #set($buttonVariant = "orange-action-btn")
+    #end
+    #if ($colorVariant == "orange-bg")
+        #set($colorVariant = "orange-a11y-bg stripe-bg")
+        #set($buttonVariant = "blue-action-btn")
+    #end
+<section class="headline-text-btn-wrapper ${colorVariant}" id="${rowID}">
     <div class="container">
         <div class="row">
             <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4 col-sm-12">
@@ -20,7 +32,7 @@
                 </div>
             </div>
             <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4 col-sm-12">
-                <div class="blue-action-btn">
+                <div class="${buttonVariant}">
                     #linkData($block.getStructuredDataNode("link"))
                     <a href="${linkURL}" class="action-btn" target="${linkTarget}">${linkLabel} <i class="fas fa-arrow-right" aria-hidden="true"></i></a>
                 </div>

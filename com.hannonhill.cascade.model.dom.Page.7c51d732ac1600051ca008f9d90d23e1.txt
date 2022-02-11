@@ -22,7 +22,7 @@ getTeaser:java.lang.String:
 getKeywords:java.lang.String:
 getAuthor:java.lang.String:
 getReviewEvery:java.lang.Integer:180
-getPath:java.lang.String:about
+getPath:java.lang.String:interior
 getTags:org.hibernate.collection.PersistentSet:
 getParentFolder:com.hannonhill.cascade.model.dom.Folder:7c51c7b6ac1600051ca008f98c0c17d1|/|College-MAIN
 getOwnerId:java.lang.String:matt.shirey
@@ -30,4 +30,4 @@ getRelativeOrder:java.lang.Integer:1932735276
 getDynamicMetadataFields:org.hibernate.collection.PersistentSet:
 getPermissions:com.hannonhill.cascade.model.dom.Permissions:7c51d733ac1600051ca008f9c2996c01
 isCurrentVersion:java.lang.Boolean:true
-getName:java.lang.String:about
+getName:java.lang.String:interior

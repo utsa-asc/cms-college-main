@@ -6,7 +6,7 @@ getSortOrder:com.hannonhill.cascade.model.compare.Order:DESCENDING
 getMaxResults:java.lang.Integer:0
 isUseDefaultStyle:java.lang.Boolean:false
 isExcludeJQuery:java.lang.Boolean:false
-getStructuredDataFields:org.hibernate.collection.PersistentSet:9c2786fdac1600054f9500f35db6b791&|9c2786fdac1600054f9500f32569754c&|9c2786fdac1600054f9500f3bfb5fc8e&|9c2786fdac1600054f9500f3269f37c0&|9c2786fdac1600054f9500f336691b8e&|9c2786fdac1600054f9500f381ca9d91&|9c2786fdac1600054f9500f3961e99ff&|
+getStructuredDataFields:org.hibernate.collection.PersistentSet:df588d89ac160006091bd4d219dbc0c9&|df588d88ac160006091bd4d21598f950&|df588d89ac160006091bd4d2faf149e8&|df588d89ac160006091bd4d28f328897&|df588d88ac160006091bd4d2c54ac817&|df588d88ac160006091bd4d2e682e947&|df588d89ac160006091bd4d20955e234&|
 getBlockType:com.hannonhill.cascade.model.dom.BlockType:STRUCTUREDDATA
 isIncludePageXML:java.lang.Boolean:false
 getIndexAssetContentsOptions:java.lang.Long:0

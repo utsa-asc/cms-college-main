@@ -9,24 +9,48 @@
     #imageData($block.getStructuredDataNode("image"))
     #set($image = "")
     #set($image = $_EscapeTool.xml($block.getStructuredDataNode("image").asset.link))
-<section class="content-img-design-sec pt-5 pb-5">
+    #set($variantConfigOrient = $row.getChild("variant-orient-config"))
+    #set($variantConfigColor = $row.getChild("variant-color-config"))
+
+    #set($colorVariant = $variantConfigColor.getChild("color").textValue )
+    #set($orientVariant = $variantConfigOrient.getChild("orientation").textValue )
+
+    #set($buttonVariant = "blue-action-btn")
+    #if ($colorVariant == "blue-bg")
+        #set($colorVariant = "blue-offset-bg stripe-bg")
+        #set($buttonVariant = "orange-action-btn")
+    #end
+    #if ($colorVariant == "orange-bg")
+        #set($colorVariant = "orange-offset-bg stripe-bg")
+        #set($buttonVariant = "blue-action-btn")
+    #end
+    #set($orientationContainer = "")
+    #set($orientationImage = "order-last" )
+    #set($orientationContent = "order-first" )
+    
+    #if ($orientVariant == "left")
+        #set($orientationImage = "" )
+        #set($orientationContent = "" )
+        #set($orientationContainer = "offset-left")
+    #end
+<section class="content-img-design-sec ${colorVariant} ${orientationContainer} pt-5 pb-5">
     <div class="container">
-        <div class="row align-items-center mobile-reverse-order">
+        <div class="row align-items-center ${orientationContent}">
+            <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6 col-sm-12 ${orientationImage}">
+                <div class="images-design">
+                    <img class="clip-top-img" src="[system-asset]${imageURL}[/system-asset]" alt="${imageAlt}" />
+                </div>
+            </div>
             <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6 col-sm-12">
                 <div class="heading-paragraph-design">
                     <h3>${headline}</h3>
                     <div class="paragraph-text">
                         <p>${text}</p>
                     </div>
-                    <div class="blue-action-btn">
+                    <div class="${buttonVariant}">
                         #linkData($block.getStructuredDataNode("link"))
                         <a href="${linkURL}" class="action-btn" target="${linkTarget}">${linkLabel} <i class="fas fa-arrow-right" aria-hidden="true"></i></a>
                     </div>
-                </div>
-            </div>
-            <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6 col-sm-12">
-                <div class="images-design">
-                    <img class="clip-top-img" src="[system-asset]${imageURL}[/system-asset]" alt="${imageAlt}" />
                 </div>
             </div>
         </div>

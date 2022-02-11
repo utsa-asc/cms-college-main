@@ -1,0 +1,6 @@
+getXml:java.lang.String:<system-data-structure>&n  <text field-id="e0560abfac160006091bd4d2ab8c49d0" identifier="text1"/>&n  &n  		<shared-field field-id="e0562e96ac160006091bd4d28599785b" identifier="variant-color-config" path="/variant-config-color"/>&n&n</system-data-structure>
+getParentContainer:com.hannonhill.cascade.model.dom.StructuredDataDefinitionContainer:7c51c802ac1600051ca008f9233818b0|/|College-MAIN
+getParentContainer:com.hannonhill.cascade.model.dom.StructuredDataDefinitionContainer:7c51c802ac1600051ca008f9233818b0|/|College-MAIN
+getPath:java.lang.String:test
+isCurrentVersion:java.lang.Boolean:true
+getName:java.lang.String:test
