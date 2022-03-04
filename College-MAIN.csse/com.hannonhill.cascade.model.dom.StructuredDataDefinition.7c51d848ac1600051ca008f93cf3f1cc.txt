@@ -1,0 +1,6 @@
+getXml:java.lang.String:<system-data-structure>&n  <shared-field field-id="5566661bac16000668ed23354446e557" identifier="banner" path="/Banner"/>&n  <shared-field field-id="97a35063c0a8005b2e79c1599f6d9724" identifier="row" path="/Row"/>&n</system-data-structure>
+getParentContainer:com.hannonhill.cascade.model.dom.StructuredDataDefinitionContainer:7c51d8a6ac1600051ca008f9abfb61a3|Pages|College-MAIN
+getParentContainer:com.hannonhill.cascade.model.dom.StructuredDataDefinitionContainer:7c51d8a6ac1600051ca008f9abfb61a3|Pages|College-MAIN
+getPath:java.lang.String:Pages/Home
+isCurrentVersion:java.lang.Boolean:true
+getName:java.lang.String:Home

@@ -1,0 +1,8 @@
+#import("_cms/formats/global/utilities")
+<!-- Banner -->
+<section class="slider-wrapper" id="main-slider-wrapper">
+    #processRows($currentPage.getStructuredDataNodes("bannerInterior"))
+    #breadcrumbs()
+</section>
+<!-- End Banner -->
+#processRows($currentPage.getStructuredDataNodes("row"))

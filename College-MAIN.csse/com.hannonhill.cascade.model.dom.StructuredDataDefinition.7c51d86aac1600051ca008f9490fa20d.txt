@@ -1,0 +1,6 @@
+getXml:java.lang.String:<system-data-structure>&n  <asset field-id="9870fda9c0a8005b2e79c159c2bc839d" identifier="image" label="Background Image" required="true" type="file"/>&n  <text field-id="9870fda9c0a8005b2e79c159846fd64d" help-text="YouTube or Vimeo" identifier="video" label="Full Video URL" required="true"/>&n  <text field-id="9870fda9c0a8005b2e79c1591ceb9b5f" identifier="wysiwyg" label="WYSIWYG" required="true" wysiwyg="true"/>&n</system-data-structure>
+getParentContainer:com.hannonhill.cascade.model.dom.StructuredDataDefinitionContainer:7c51d8b2ac1600051ca008f9ac47e3ae|Components|College-MAIN
+getParentContainer:com.hannonhill.cascade.model.dom.StructuredDataDefinitionContainer:7c51d8b2ac1600051ca008f9ac47e3ae|Components|College-MAIN
+getPath:java.lang.String:Components/Success Story
+isCurrentVersion:java.lang.Boolean:true
+getName:java.lang.String:Success Story

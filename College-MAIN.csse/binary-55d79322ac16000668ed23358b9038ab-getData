@@ -1,0 +1,16 @@
+## #import("_cms/formats/global/utilities")
+## #set($row = $currentPage.getStructuredDataNode("bannerInterior"))
+## #bannerSlim()
+#macro(bannerSlim)
+    #set($banner = $row.getChild("bannerSlim"))
+    #set($headline = "")
+    #set($headline2 = "")
+    #set($headline = $_EscapeTool.xml($banner.getChild("headline").textValue))
+<section class="banner">
+    <div class="single-title-wrapper">
+        <div class="container">
+            <h1 class="single-title-heading">${headline}</h1>
+        </div>
+    </div>
+</section>
+#end

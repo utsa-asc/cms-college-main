@@ -1,0 +1,29 @@
+## #import("_cms/formats/global/utilities")
+## #set($row = $currentPage.getStructuredDataNode("banner"))
+## #bannerVideo()
+#macro(bannerVideo)
+    #set($banner = $row.getChild("bannerVideo"))
+    #set($headline = "")
+    #set($videoURL = "")
+    #set($imageURL = "")
+    #set($headline = $_EscapeTool.xml($banner.getChild("headline").textValue))
+    #set($posterAsset = $banner.getChild("posterImage").asset)
+    #set($videoAsset = $banner.getChild("video").asset)
+    #set($imageURL = $posterAsset.link )
+    #set($videoURL = $videoAsset.link )
+<section class="banner">
+    <div class="video-banner-wrapper">
+        <div class="video-div">
+            <video id="video" width="100%" height="100%" poster="${imageURL}">
+                <source src="${videoURL}" type="video/mp4" />
+            </video>
+        </div>
+        <div class="video-cntnt-block">
+            <h1>${headline}</h1>
+        </div>
+        <div class="video-Controls">
+            <div class="play-pause-btn" data-click="0">Play Video <i class="fal fa-play-circle" aria-hidden="true"></i></div>
+        </div>
+    </div>
+</section>
+#end

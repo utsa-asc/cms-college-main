@@ -1,6 +1,0 @@
-getXml:java.lang.String:<system-data-structure>&n  <shared-field field-id="98694cbdc0a8005b2e79c159dde6c5e7" identifier="image" path="/Image"/>&n  <group collapsed="true" identifier="item" label="Featured Item" multiple="true">&n    <text field-id="98694cbdc0a8005b2e79c159c677c304" identifier="headline" label="Headline" required="true"/>&n    <text field-id="98694cbdc0a8005b2e79c15964b1cfcb" identifier="tagline" label="Tagline" multi-line="true" required="true"/>&n    <shared-field field-id="c067e58ec0a8005b520f17ced2407dcb" identifier="icon" path="/Icon"/>&n  </group>&n</system-data-structure>
-getParentContainer:com.hannonhill.cascade.model.dom.StructuredDataDefinitionContainer:7c51d8b2ac1600051ca008f9ac47e3ae|Blocks|College-MAIN
-getParentContainer:com.hannonhill.cascade.model.dom.StructuredDataDefinitionContainer:7c51d8b2ac1600051ca008f9ac47e3ae|Blocks|College-MAIN
-getPath:java.lang.String:Blocks/Featured Items
-isCurrentVersion:java.lang.Boolean:true
-getName:java.lang.String:Featured Items

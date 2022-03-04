@@ -1,0 +1,101 @@
+## #import("_cms/formats/global/utilities")
+## #set($row = $currentPage.getStructuredDataNode("banner"))
+## #bannerRotating()
+#macro(bannerRotating)
+    #set($slider = $row.getChild("bannerRotating"))
+    #set($slides = $slider.getChildren("slide") )
+<!--Banner Rotating (${slides.size()})-->
+<section class="banner" id="banner-rotating">
+    <div class="slider-wrapper">
+        <div id="hero-slider" class="carousel slide" data-ride="carousel">
+            <!-- The slideshow -->
+            <div class="carousel-inner">
+                #foreach($slide in $slider.getChildren("slide"))
+                    #set($headline = $_EscapeTool.xml($slide.getChild("headline").textValue))
+                    #set($tagline = "")
+                    #set($tagline = $_EscapeTool.xml($slide.getChild("tagline").textValue))
+                    #set($slideImage = $slide.getChild("image").asset.link)
+                    #set($activeClass = "")
+                    #if($velocityCount == 1)
+                        #set($activeClass = "active")
+                    #end
+                    <div class="carousel-item ${activeClass}">
+                        <div class="hero-banner-slider ${velocityCount}" style="background-image: url('[system-asset]${slideImage}[/system-asset]');">
+                            <div class="container">
+                                <div class="hero-banner-cntnt">
+                                    <h1 class="banner-heading">${headline}</h1>
+                                    <p class="banner-description">${tagline}</p>
+                                    <div class="banner-btns">
+                                        #linkData($slide.getChild("link"))
+                                        <a href="${linkURL}" class="orange-btn" target="${linkTarget}">${linkLabel}</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                #end
+            </div>
+            <!-- Indicators -->
+            <ul class="carousel-indicators container">
+                #foreach($slide in $slider.getChildren("slide"))
+                    #set ($zeroCount = $velocityCount - 1)
+                    <li><button data-bs-target="#hero-slider" data-bs-slide-to="${zeroCount}" class="active" aria-label="Slide ${velocityCount}">&#160;</button></li>
+                #end
+            </ul>
+            <!-- Left and right controls -->
+            <a class="carousel-control-prev" href="#hero-slider" data-bs-slide="prev" aria-label="Previous Arrow">
+                <span class="carousel-prev-icon"><i class="fal fa-arrow-left" aria-hidden="true"></i></span>
+            </a>
+            <a class="carousel-control-next" href="#hero-slider" data-bs-slide="next" aria-label="Next Arrow">
+                <span class="carousel-next-icon"><i class="fal fa-arrow-right" aria-hidden="true"></i></span>
+            </a>
+            <div id="carousel-button">
+                <button id="playButton" type="button" class="btn" aria-label="play">
+                    <i class="fas fa-play-circle" aria-hidden="true"></i>
+                </button>
+                <button id="pauseButton" type="button" class="btn" aria-label="pause">
+                    <i class="fas fa-pause-circle" aria-hidden="true"></i>
+                </button>
+            </div>
+        </div>
+    </div>
+    <!-- Find Your Program -->
+    <!--
+    <div class="find-you-program" style="background-image: url('[system-asset:local]/college-dls/utsa/images/header-shape.png[/system-asset:local]');">
+        <div class="container">
+            <div class="find-program-header">
+                <h2 class="h5 color-white bold">Find Your Program</h2>
+            </div>
+            <div class="form-wrapper">
+                <form class="form-design">
+                    <div class="row">
+                        <div class="col-xxl-5 col-xl-5 col-lg-5 col-md-12 col-sm-12">
+                            <div class="form-grouph input-design">
+                                <label for="searchdegree" class="hide">Search Degrees and Programs</label>
+                                <input type="text" placeholder="Search Degrees and Programs" name="Search Degrees and Programs" id="searchdegree" />
+                            </div>
+                        </div>
+                        <div class="col-xxl-5 col-xl-5 col-lg-5 col-md-12 col-sm-12">
+                            <div class="form-grouph select-design">
+                                <label id="lbl-select-degree" class="hide">Filter By Degree Type</label>
+                                <select class="js-example-disabled-results" aria-labelledby="lbl-select-degree">
+                                    <option>Filter By Degree Type</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="col-xxl-2 col-xl-2 col-lg-2 col-md-12 col-sm-12">
+                            <div class="form-grouph submit-design">
+                                <input class="darkblue-bg color-white form-btn" type="submit" value="Search" title="Search" />
+                            </div>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+    -->
+    <!--End Find Your Program -->
+</section>
+<!-- End Slider -->
+
+#end

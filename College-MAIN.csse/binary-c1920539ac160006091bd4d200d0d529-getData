@@ -1,0 +1,46 @@
+## #import("_cms/formats/global/utilities")
+## #set($row = $currentPage.getStructuredDataNodes("row")[3])
+## #quickfacts()
+#macro(quickfacts)
+    #set($block = $row.getChild("block").asset)
+    #set($facts = $block.getStructuredDataNodes("fact") )
+    #set($heading = "" )
+    #set($heading = $block.getStructuredDataNode("heading").textValue )
+    #set($fsize = $facts.size())
+    #set($defaultColSize = 12/$fsize)
+    #set($variantConfigColor = $row.getChild("variant-color-config"))
+    #set($colorVariant = $variantConfigColor.getChild("color").textValue )
+    #if ($colorVariant == "blue-bg")
+        #set($colorVariant = "blue-bg")
+    #end
+    #if ($colorVariant == "orange-bg")
+        #set($colorVariant = "orange-a11y-bg stripe-bg")
+    #end
+    #if ($colorVariant == "grey-bg")
+        #set($colorVariant = "grey-bg")
+    #end
+<section class="quick-fact-wrapper ${colorVariant}">
+    <div class="container">
+        #if ($heading != "")
+        <div class="department-heading">
+            <h3 class="h3 fw-bold text-center">${heading}</h3>
+        </div>
+        #end
+        <div class="row">
+            #foreach($f in $facts)
+                #set($headline = "")
+                #set($headline = $_EscapeTool.xml($f.getChild("headline").textValue))
+                #set($text = "")
+                #set($text = $_EscapeTool.xml($f.getChild("text").textValue))
+            <div class="col-xxl-${defaultColSize} col-xl-${defaultColSize} col-lg-${defaultColSize} col-md-${defaultColSize} col-sm-12">
+                <div class="quick-facts-cntnt">
+                    <h2>${headline}</h2>
+                    <p>${text}</p>
+                </div>
+            </div>
+            #end
+        </div>
+    </div>
+</section>
+#end
+

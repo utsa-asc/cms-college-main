@@ -1,0 +1,9 @@
+getTemplateContent:com.hannonhill.cascade.model.dom.BlobEntity:571700d4ac16000668ed2335bbae2068
+getPath:java.lang.String:_cms/formats/components/bannerVideo
+getTags:org.hibernate.collection.PersistentSet:
+getParentFolder:com.hannonhill.cascade.model.dom.Folder:7c51d56aac1600051ca008f9d49376be|_cms/formats/components|College-MAIN
+getOwnerId:java.lang.String:admin
+getRelativeOrder:java.lang.Integer:2147483615
+getDynamicMetadataFields:org.hibernate.collection.PersistentSet:
+isCurrentVersion:java.lang.Boolean:true
+getName:java.lang.String:bannerVideo

@@ -1,0 +1,34 @@
+## #import("_cms/formats/global/utilities")
+## #globalHeader()
+#macro(globalHeader)
+<!-- Top Header -->
+<div id="top-header">
+    <div class="top-header-left">
+        <a title="UTSA Home" href="https://www.utsa.edu">
+            <img width="250px" height="12px" class="logo-full d-none d-sm-block" src="[system-asset:local]/college-dls/utsa/images/utsa-logo-full.svg[/system-asset:local]" alt="The University of Texas at San Antonio" />
+            <img width="72px" height="25px" class="logo-short d-block d-sm-none" src="[system-asset:local]/college-dls/utsa/images/utsa-logo.svg[/system-asset:local]" alt="The University of Texas at San Antonio" />
+        </a>
+    </div>
+    <div class="top-header-right">
+        <form class="top-header-form">
+            <div class="myutsa-link">
+                <a title="MyUTSA" href="https://my.utsa.edu"><i class="fas fa-globe-americas"></i> <span class="myutsa-text">myUTSA</span></a>
+            </div>
+            <div class="search">
+                <button type="button" class="search-btn dropdown-toggle" data-bs-toggle="dropdown" aria-label="Search">
+                    <span class="search-icon"><i class="fas fa-search"></i></span>
+                    <span class="search-text">Search</span>
+                </button>
+                <div class="dropdown-menu search-dropdown">
+                    <label for="search" class="hide">Search</label>
+                    <input type="search" placeholder="Search" name="Search" id="search" />
+                    <button type="submit" class="search-input-icon" aria-label="Search"><i class="fas fa-search"></i></button>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+<!-- End Top Header -->
+#end
+
+        

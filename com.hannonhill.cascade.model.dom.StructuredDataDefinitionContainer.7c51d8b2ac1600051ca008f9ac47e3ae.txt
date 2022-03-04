@@ -1,7 +1,0 @@
-getParentContainer:com.hannonhill.cascade.model.dom.StructuredDataDefinitionContainer:7c51c802ac1600051ca008f9233818b0|/|College-MAIN
-getParentContainer:com.hannonhill.cascade.model.dom.StructuredDataDefinitionContainer:7c51c802ac1600051ca008f9233818b0|/|College-MAIN
-isRoot:java.lang.Boolean:false
-getName:java.lang.String:Blocks
-getPath:java.lang.String:Blocks
-getPermissions:com.hannonhill.cascade.model.dom.Permissions:7c51d8b2ac1600051ca008f9fbcd9f99
-isCurrentVersion:java.lang.Boolean:true

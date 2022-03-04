@@ -1,0 +1,7 @@
+#import("_cms/formats/global/utilities")
+## #slider()
+#processRows($currentPage.getStructuredDataNodes("banner"))
+#processRows($currentPage.getStructuredDataNodes("row"))
+#######################################################################
+
+

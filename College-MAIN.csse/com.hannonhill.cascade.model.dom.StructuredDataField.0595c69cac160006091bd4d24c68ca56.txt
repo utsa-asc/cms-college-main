@@ -1,0 +1,5 @@
+getText:java.lang.String:Bacon short loin beef ribs, strip steak sirloin prosciutto cupim
+getPosition:java.lang.String:
+getDefinitionFieldId:java.lang.String:97b7bda5c0a8005b2e79c1596ccccf13
+getTextVersion:java.lang.Integer:2
+getOwnerEntity:com.hannonhill.cascade.model.dom.Block:9c1fb170ac1600054f9500f3161b0fa6

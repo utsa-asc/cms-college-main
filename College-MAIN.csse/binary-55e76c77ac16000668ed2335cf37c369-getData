@@ -1,0 +1,29 @@
+## #import("_cms/formats/global/utilities")
+## #set($row = $currentPage.getStructuredDataNode("banner"))
+## #banner()
+#macro(banner)
+    #set($banner = $row.getChild("banner"))
+    #set($headline = "")
+    #set($tagline = "")
+    #set($headline = $_EscapeTool.xml($banner.getChild("headline").textValue))
+    #set($tagline = $_EscapeTool.xml($banner.getChild("tagline").textValue))
+    #set($imageURL = $banner.getChild("image").asset.link)
+    #set($actions = $banner.getChildren("link") )
+<section class="banner">
+    <div class="hero-banner-wrapper" style="background-image: url('[system-asset]${imageURL}[/system-asset]');">
+        <div class="container">
+            <div class="hero-banner-cntnt">
+                <h1 class="banner-heading">${headline}</h1>
+                <p class="banner-description">${tagline}</p>
+                <div class="banner-btns">
+                    #foreach($link in $actions)
+                        #linkData($link)
+                        <a class="orange-btn" target="${linkTarget}" href="${linkURL}">${linkLabel}</a>
+                    #end
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+#end

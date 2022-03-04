@@ -1,6 +1,0 @@
-getXml:java.lang.String:<system-data-structure>&n  <text field-id="1efcf18ec0a8005f5e2396ff2076d152" identifier="headline" label="Headline" required="true"/>&n  <text field-id="97b7bda5c0a8005b2e79c1596ccccf13" identifier="text" label="Text"/>&n  <shared-field field-id="97b7bda5c0a8005b2e79c159ca3bc578" identifier="link" maximum-number="1" path="/Link"/>&n  <shared-field field-id="9c2186f0ac1600054f9500f316bdf99e" identifier="image" maximum-number="1" path="/Image"/>&n</system-data-structure>
-getParentContainer:com.hannonhill.cascade.model.dom.StructuredDataDefinitionContainer:7c51d8b2ac1600051ca008f9ac47e3ae|Blocks|College-MAIN
-getParentContainer:com.hannonhill.cascade.model.dom.StructuredDataDefinitionContainer:7c51d8b2ac1600051ca008f9ac47e3ae|Blocks|College-MAIN
-getPath:java.lang.String:Blocks/CTA-Image
-isCurrentVersion:java.lang.Boolean:true
-getName:java.lang.String:CTA-Image

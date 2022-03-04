@@ -1,0 +1,27 @@
+## #import("_cms/formats/global/utilities")
+## #set($row = $currentPage.getStructuredDataNode("bannerInterior"))
+## #bannerBlue()
+#macro(bannerBlue)
+    #set($banner = $row.getChild("bannerBlue"))
+    #set($headline = "")
+    #set($headline2 = "")
+    #set($headline = $_EscapeTool.xml($banner.getChild("headline").textValue))
+    #set($imageData = $banner.getChild("image"))
+    #imageData($imageData)
+<section class="banner">
+    <div class="blue-bg">
+        <div class="row no-mrg align-items-center">
+            <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6 col-sm-12 no-padd">
+                <div class="hero-banner-content-block">
+                    <h1>${headline}</h1>
+                </div>
+            </div>
+            <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6 col-sm-12 no-padd">
+                <div class="hero-banner-img-block">
+                    <img src="${imageURL}" alt="${imageAlt}" />
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+#end

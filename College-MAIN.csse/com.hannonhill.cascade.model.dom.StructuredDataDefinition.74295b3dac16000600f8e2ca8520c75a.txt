@@ -1,0 +1,6 @@
+getXml:java.lang.String:<system-data-structure>&n  <text field-id="97b7bda5c0a8005b2e79c1596ccccf13" identifier="username" label="Username"/>&n  <text field-id="742a6473ac16000600f8e2caa0a05d9b" identifier="xmlSource" wysiwyg="true"/>&n</system-data-structure>
+getParentContainer:com.hannonhill.cascade.model.dom.StructuredDataDefinitionContainer:7c51d8b2ac1600051ca008f9ac47e3ae|Components|College-MAIN
+getParentContainer:com.hannonhill.cascade.model.dom.StructuredDataDefinitionContainer:7c51d8b2ac1600051ca008f9ac47e3ae|Components|College-MAIN
+getPath:java.lang.String:Components/TEST
+isCurrentVersion:java.lang.Boolean:true
+getName:java.lang.String:TEST

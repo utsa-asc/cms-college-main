@@ -1,0 +1,3 @@
+getPath:java.lang.String:Components/Success Story
+getXml:java.lang.String:<?xml version="1.0" encoding="UTF-8"?>&r&n<system-data-structure>&r&n  <asset field-id="9870fda9c0a8005b2e79c159c2bc839d" identifier="image" label="Background Image" required="true" type="file" />&r&n  <text field-id="9870fda9c0a8005b2e79c159846fd64d" help-text="YouTube or Vimeo" identifier="video" label="Full Video URL" required="true" />&r&n  <text field-id="9870fda9c0a8005b2e79c1591ceb9b5f" identifier="wysiwyg" label="WYSIWYG" required="true" wysiwyg="true" />&r&n</system-data-structure>&r&n
+getSiteName:java.lang.String:College-MAIN
