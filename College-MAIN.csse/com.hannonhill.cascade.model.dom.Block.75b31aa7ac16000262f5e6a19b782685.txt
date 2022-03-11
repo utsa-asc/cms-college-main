@@ -1,0 +1,36 @@
+getAllStructuredData:org.hibernate.collection.PersistentSet:
+getIndexOtherInformationOptions:java.lang.Long:0
+getMaxRenderedEntities:java.lang.Integer:0
+getSortOption:java.lang.Long:1
+getSortOrder:com.hannonhill.cascade.model.compare.Order:DESCENDING
+getMaxResults:java.lang.Integer:0
+isUseDefaultStyle:java.lang.Boolean:false
+isExcludeJQuery:java.lang.Boolean:false
+getStructuredDataFields:org.hibernate.collection.PersistentSet:772d36f5ac16000262f5e6a1074f339a&|772d36f5ac16000262f5e6a14ea73605&|772d36f5ac16000262f5e6a137798d12&|772d36f5ac16000262f5e6a17ee999f4&|772d36f5ac16000262f5e6a1838a072d&|772d36f5ac16000262f5e6a1aa9d8569&|772d36f5ac16000262f5e6a10fd84fc0&|772d36f5ac16000262f5e6a1c32504dd&|772d36f5ac16000262f5e6a153692e7f&|772d36f5ac16000262f5e6a16805e569&|772d36f5ac16000262f5e6a1d075a49e&|772d36f5ac16000262f5e6a1b7855f6d&|772d36f5ac16000262f5e6a1ed70c97f&|772d36f5ac16000262f5e6a1c1e60dae&|772d36f5ac16000262f5e6a1c2bf00d5&|772d36f5ac16000262f5e6a146d54d1d&|
+getBlockType:com.hannonhill.cascade.model.dom.BlockType:STRUCTUREDDATA
+isIncludePageXML:java.lang.Boolean:false
+getIndexAssetContentsOptions:java.lang.Long:0
+getIndexAssetTypesOptions:java.lang.Long:0
+getStructuredDataDefinition:com.hannonhill.cascade.model.dom.StructuredDataDefinition:7175c294ac16000262f5e6a17a80e928|Page Config|College-MAIN
+getStructuredDataVersion:java.lang.Integer:3
+isExpirationNoticeSent:java.lang.Boolean:false
+isFirstExpirationWarningSent:java.lang.Boolean:false
+isSecondExpirationWarningSent:java.lang.Boolean:false
+getDisplayName:java.lang.String:
+isReviewOnSchedule:java.lang.Boolean:false
+getDescription:java.lang.String:
+getTitle:java.lang.String:
+getSummary:java.lang.String:
+getTeaser:java.lang.String:
+getKeywords:java.lang.String:
+getAuthor:java.lang.String:
+getMetadataSet:com.hannonhill.cascade.model.dom.MetadataSet:76805e8eac16000262f5e6a156ce9128|Page Config|College-MAIN
+getReviewEvery:java.lang.Integer:180
+getPath:java.lang.String:_page-config
+getTags:org.hibernate.collection.PersistentSet:
+getParentFolder:com.hannonhill.cascade.model.dom.Folder:7c51c7b6ac1600051ca008f98c0c17d1|/|College-MAIN
+getOwnerId:java.lang.String:admin
+getRelativeOrder:java.lang.Integer:2147221503
+getDynamicMetadataFields:org.hibernate.collection.PersistentSet:
+isCurrentVersion:java.lang.Boolean:true
+getName:java.lang.String:_page-config

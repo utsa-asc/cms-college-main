@@ -1,0 +1,9 @@
+## #import("_cms/formats/global/utilities")
+#macro(sideNavigation $row)
+    {{render '@side-navigation'}}
+    [system-view:internal]
+            <h4 class="alert-heading">Error:</h4>
+             <hr />
+            <p>Format '#'sideNavigation NOT IMPLEMENTED</p>
+    [/system-view:internal]
+#end

@@ -1,0 +1,10 @@
+#import("_cms/formats/global/utilities")
+#pageSetup()
+#set($componentType = "ctaEnrollment")
+#set($footer = $siteSetup.getStructuredDataNode("footer"))
+#set($configSections = $pageConfig.getStructuredDataNode("sections"))
+#set($showEnrollCTA = $configSections.getChild("showEnrollmentCTA").textValue)
+#if($showEnrollCTA == "Yes")
+    #set($row = $pageConfig.getStructuredDataNode("siteEnrollCTASection"))
+    #processComponent($pageConfig.getStructuredDataNode("siteEnrollCTASection"), $componentType)
+#end

@@ -6,48 +6,76 @@
 ## #processRows($currentPage.getStructuredDataNodes("row"))
 #######################################################################
 #macro(breadcrumbs)
-    #set($bannerPath = $currentPage.parentFolder.name + "banner.jpg")
-    #set($banner = $_.locateFile($bannerPath))
-    #if($banner)
-        #set($bannerImage = $banner)
-    #else
-        #set($bannerImage = "_files/images/banner/banner-1.jpg")
-    #end
-    <section class="page-title-section overlay" data-background="[system-asset]${bannerImage}[/system-asset]">
-    	<div class="container">
-    		<div class="row">
-    			<div class="col-md-8">
-    				<ul class="list-inline custom-breadcrumb mb-2">
-    				    #set($homepage = $_.locatePage("/index", $currentPageSiteName).link)
-    					<li class="list-inline-item"> <a href="${homepage}" target="_parent" class="text-white h3 font-secondary nasted">Home</a></li>
-    					#set($bcPath = "")
-                        #set($currentBC = "")
-                        #foreach($bc in $currentPage.path.split("/"))
-                            #set($bcPath = $bcPath + "/" + $bc)
-                            #if($foreach.last)
-                                #if($currentPage.name != "index")
-                                    <li class="list-inline-item nasted"><span class="h2 text-primary font-secondary">$_EscapeTool.xml($currentPage.label)</span></li>
-                                #end
-                                #set($currentBC = $_EscapeTool.xml($currentPage.label))
-                            #else
-                                #set($bcPathCheck = $bcPath + "/index")
-                                #set($bcPathCheckLocated = "")
-                                #set($bcPathCheckLocated = $_.locatePage($bcPathCheck, $currentPageSiteName))
-                                #if($bcPathCheckLocated != "")
-                                    <li class="list-inline-item nasted"> <a href="[system-asset]${bcPathCheckLocated.link}[/system-asset]" target="_parent" class="text-white h3 font-secondary">$_EscapeTool.xml($_.locateFolder($bcPath, $currentPageSiteName).label)</a></li>
-                                #else
-                                    #set($bcPathFolderCheckLocated = $_.locateFolder($bcPath, $currentPageSiteName))
-                                    #if($bcPathFolderCheckLocated)
-                                        <li class="list-inline-item nasted"> <span class="text-white h3 font-secondary">$_EscapeTool.xml($bcPathFolderCheckLocated.label)</span></li>
-                                    #end
-                                #end
-                            #end
+<!-- Breadcrumb -->
+<div class="breadcrumb-wrapper">
+    <div class="container">
+        <ul class="list-unstyled">
+			<li class="crumb-item">
+		    #set($homepage = $_.locatePage("/index", $currentPageSiteName).link)
+			    <a href="${homepage}" target="_parent" class="link-text">Home</a>
+			#set($bcPath = "")
+            #set($currentBC = "")
+            #foreach($bc in $currentPage.path.split("/"))
+                #set($bcPath = $bcPath + "/" + $bc)
+                #if($foreach.last)
+                    #if($currentPage.name != "index")
+                        <span class="breadcrumb-divider">&#160;/&#160;</span>
+                        <span class="unlink-text">$_EscapeTool.xml($currentPage.label)</span>
+                    #end
+                    #set($currentBC = $_EscapeTool.xml($currentPage.label))
+                #else
+                    #set($bcPathCheck = $bcPath + "/index")
+                    #set($bcPathCheckLocated = "")
+                    #set($bcPathCheckLocated = $_.locatePage($bcPathCheck, $currentPageSiteName))
+                    #if($bcPathCheckLocated != "")
+                        <span class="breadcrumb-divider">&#160;/&#160;</span>
+                        <span class="unlink-text"><a href="[system-asset]${bcPathCheckLocated.link}[/system-asset]" target="_parent" class="text-white font-secondary">$_EscapeTool.xml($_.locateFolder($bcPath, $currentPageSiteName).label)</a></span>
+                    #else
+                        #set($bcPathFolderCheckLocated = $_.locateFolder($bcPath, $currentPageSiteName))
+                        #if($bcPathFolderCheckLocated)
+                        <span class="breadcrumb-divider">&#160;/&#160;</span>
+                        <span class="unlink-text">$_EscapeTool.xml($bcPathFolderCheckLocated.label)</span>
                         #end
-    				</ul>
-    			</div>
-    		</div>
-    	</div>
-    </section>
+                    #end
+                #end
+            #end
+            </li>
+        </ul>
+    </div>
+</div>
+<!-- End Breadcrumb -->
+#end ## END MACRO
+#######################################################################
+#macro(pageSetup)
+    #set($results = $_.query().byMetadataSet('Page Config').execute())
+    #set($pageConfig = "")
+    #set($cpath = $currentPagePath)
+    #set($target = $_.locatePage($currentPagePath, $currentPageSiteName))
+    #foreach ($parents in $cpath.split("/"))
+        #set($parent = $target.parentFolder)
+        ## parent: ${parent} ${parent.path}
+        ## cpath: ${cpath}
+        ## results: ${results.size()}
+        #foreach ($r in $results)
+            #set($rpath = "/" + $r.path)
+            #set($ppath = $parent.path)
+            #if (($ppath.length() > 0) && (!$ppath.endsWith("/")))
+                #set($ppath = $ppath + "/")
+            #end
+            #if (!$ppath.startsWith("/"))
+                #set($ppath = "/" + $ppath)
+            #end
+            #set($ppath = $ppath + "_page-config")
+            ## compare .${rpath}. to .${ppath}.
+            #if ($rpath == $ppath)
+                #set($pageConfig = $r)
+                #break
+            #end
+        #end
+        #if ($_PropertyTool.isEmpty($pageConfig))
+            #set($target = $parent)
+        #end        
+    #end
 #end ## END MACRO
 #######################################################################
 #macro(processRows $data)
@@ -59,8 +87,18 @@
             #set($rowID = $rowMacro + "-" + $foreach.count)
             #set($rowCount = $foreach.count)
             <!-- ${rowMacro} -->
-            #processMacro($rowMacro)
+            #processMacro($rowMacro, $foreach.count)
         #end
+    #end
+#end ## END MACRO
+#######################################################################
+#macro(processComponent $data, $rowType)
+    #if($rowType != "" && $rowType != "None")
+        #set($rowMacro = $rowType)
+        #set($rowID = $rowMacro + "-" + $foreach.count)
+        #set($rowCount = $foreach.count)
+        <!-- ${rowMacro} -->
+        #processMacro($rowMacro, $foreach.count)
     #end
 #end ## END MACRO
 #######################################################################
@@ -70,7 +108,7 @@
     $macroRun 
 #end ## END MACRO
 #######################################################################
-#macro(processMacro $data)
+#macro(processMacro $data, $rowIdx)
     #set($formatSitePath = "site://" + $globalSite + "/" + $globalMacros + "/" + $data)##
     #set($formatPath = $globalMacros + "/" + $data)##
     #set($formatFile = "")
@@ -79,9 +117,9 @@
         #if(!$imported.contains($data))##
             #set($add = $imported.add($data))
             #import($formatSitePath)
-            #runMacro($data)
+            #runMacro($data, $rowIdx)
         #else
-            #runMacro($data)
+            #runMacro($data, $rowIdx)
         #end
     #else
         #formatNotFound($row.getChild("type").textValue)

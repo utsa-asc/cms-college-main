@@ -1,5 +1,5 @@
 ## #import("_cms/formats/global/utilities")
-## #globalFooter()
+#globalFooter()
 #macro(globalFooter)
 <!-- Footer -->
 <footer id="footer">

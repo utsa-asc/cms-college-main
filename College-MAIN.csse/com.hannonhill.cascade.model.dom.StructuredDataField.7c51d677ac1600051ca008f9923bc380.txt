@@ -1,5 +1,0 @@
-getText:java.lang.String:captainamerica@educenter.org
-getPosition:java.lang.String:
-getDefinitionFieldId:java.lang.String:9c588ee6c0a8005b459cfb4c0fd06c69
-getTextVersion:java.lang.Integer:2
-getOwnerEntity:com.hannonhill.cascade.model.dom.Page:7c51d677ac1600051ca008f9f178a719

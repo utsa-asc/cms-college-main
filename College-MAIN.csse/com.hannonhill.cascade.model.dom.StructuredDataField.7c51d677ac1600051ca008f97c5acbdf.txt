@@ -1,5 +1,0 @@
-getText:java.lang.String:Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. 
-getPosition:java.lang.String:
-getDefinitionFieldId:java.lang.String:9c588ee6c0a8005b459cfb4ce8d6681c
-getTextVersion:java.lang.Integer:2
-getOwnerEntity:com.hannonhill.cascade.model.dom.Page:7c51d677ac1600051ca008f9f178a719

@@ -1,7 +1,7 @@
 getRoles:org.hibernate.collection.PersistentSet:
 getUrl:java.lang.String:https://pub.lehgarza.family/test
-getRoleGroupSites:org.hibernate.collection.PersistentSet:
 getRoleUserSites:org.hibernate.collection.PersistentSet:
+getRoleGroupSites:org.hibernate.collection.PersistentSet:
 getLinkRewriting:com.hannonhill.cascade.model.dom.LinkRewriting:RELATIVE
 getBaseAssetFactoryContainer:com.hannonhill.cascade.model.dom.AssetFactoryContainer:7c51c95fac1600051ca008f92ab0230a|Default|College-MAIN
 getExtensionsToStrip:java.lang.String:

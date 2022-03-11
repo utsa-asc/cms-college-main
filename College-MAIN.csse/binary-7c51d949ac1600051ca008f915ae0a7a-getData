@@ -1,3 +1,55 @@
 #import("_cms/formats/global/utilities")
-#import("_cms/formats/global/globalFooter")
-#globalFooter()
+#set($footer = $siteSetup.getStructuredDataNode("footer"))
+#set($social = $siteSetup.getStructuredDataNode("social"))
+<section class="site-footer grey-b-bg pt-5 pb-2">
+## 	<div class="newsletter">
+## 		<div class="container">
+## 			<div class="row">
+## 				<div class="col-md-9 ml-auto bg-primary py-5 newsletter-block">
+## 				    #set($clive = $_EscapeTool.xml($footer.getChild("subscribe").getChild("clive").textValue))
+## 					<h3 class="text-white">$_EscapeTool.xml($footer.getChild("subscribe").getChild("heading").textValue)</h3>
+## 					<div class="input-wrapper">
+## 					    <script async="true" data-clive-id="${clive}" data-clive-type="form" src="https://live.clive.cloud/forms/${clive}/embed"></script>
+## 					</div>
+## 				</div>
+## 			</div>
+## 		</div>
+## 	</div>
+	<div class="container">
+		<div class="row">
+    {{ render '@site-footer'}}
+    [system-view:internal]
+            <h4 class="alert-heading">Error:</h4>
+             <hr />
+            <p>Format '#'siteFooter NOT IMPLEMENTED</p>
+    [/system-view:internal]
+
+## 			<div class="col-lg-3 col-md-12 mb-5 mb-lg-0">
+## 				#imageData($footer.getChild("logoColumn").getChild("logo"))
+## 				#if($imageLinkType == "no link")
+##                     <span class="logo-footer">
+##                         <img class="img-fluid mb-4" src="[system-asset]${imageURL}[/system-asset]" alt="${imageAlt}" />
+##                     </span>
+##                 #else
+##                     <a class="logo-footer" href="${imageLinkURL}" target="${imageLinkTarget}">
+##                         <img class="img-fluid mb-4" src="[system-asset]${imageURL}[/system-asset]" alt="${imageAlt}" />
+##                     </a>
+##                 #end
+## 				${footer.getChild("logoColumn").getChild("wysiwyg").textValue}
+## 			</div>
+## 			#foreach($linkColumn in $footer.getChildren("linkColumn"))
+## 				<div class="col-lg-3 col-md-4 col-sm-12 col-8 mb-5 mb-md-0">
+## 					<h4 class="blue mb-2 h5">$_EscapeTool.xml($linkColumn.getChild("heading").textValue)</h4>
+##                     <div class="site-footer-column-${foreach.count}">
+##                         <ul class="list-unstyled">
+##                         #foreach($lcLink in $linkColumn.getChildren("link"))
+##                             #linkData($lcLink)
+## 						    <li class="nav-item"><a href="${linkURL}" target="${linkTarget}">${linkLabel}</a></li>
+## 						#end
+##                         </ul>
+##                     </div>
+## 				</div>
+## 			#end
+		</div>
+	</div>
+</section>

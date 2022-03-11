@@ -1,0 +1,5 @@
+getText:java.lang.String:bannerSlim
+getPosition:java.lang.String:1
+getOwnerEntity:com.hannonhill.cascade.model.dom.Page:7c51d732ac1600051ca008f9d90d23e1
+getDefinitionFieldId:java.lang.String:5566661bac16000668ed23354446e557979de3c0c0a8005b2e79c1597d77cc0a
+getTextVersion:java.lang.Integer:2

@@ -1,8 +1,15 @@
 #import("_cms/formats/global/utilities")
+#pageSetup()
+#set($configSections = $pageConfig.getStructuredDataNode("sections"))
+#set($showBreadcrumb = $configSections.getChild("showBreadcrumb").textValue)
 <!-- Banner -->
 <section class="slider-wrapper" id="main-slider-wrapper">
     #processRows($currentPage.getStructuredDataNodes("bannerInterior"))
+    #if ($showBreadcrumb == "Yes")
     #breadcrumbs()
+    #end
 </section>
+#set( $row = $currentPage.getStructuredDataNode("pageContent"))
 <!-- End Banner -->
+#processComponent($row, "wysiwygStandard")
 #processRows($currentPage.getStructuredDataNodes("row"))

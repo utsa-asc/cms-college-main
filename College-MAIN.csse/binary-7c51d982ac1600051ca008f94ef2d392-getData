@@ -1,9 +1,17 @@
 ## #import("_cms/formats/global/utilities")
 ## #set($row = $currentPage.getStructuredDataNodes("row")[1])
 ## #wysiwyg()
-#macro(wysiwyg)
+#macro(wysiwyg $row, $rowIdx)
     #set($wysiwyg = $row.getChild("wysiwyg").textValue)
-    <section class="section" id="${rowID}">
-        ${wysiwyg}
-    </section>
+<section class="page-text-wrapper row${rowIdx}">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <div class="heading-paragraph-design">
+                    ${wysiwyg}
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 #end

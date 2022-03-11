@@ -1,0 +1,13 @@
+getParentContainer:com.hannonhill.cascade.model.dom.PublishSetContainer:7c51c81fac1600051ca008f9fb629963|/|College-MAIN
+getParentContainer:com.hannonhill.cascade.model.dom.PublishSetContainer:7c51c81fac1600051ca008f9fb629963|/|College-MAIN
+getUsesScheduledPublishing:java.lang.Boolean:true
+getScheduledPublishDestinations:org.hibernate.collection.PersistentSet:
+getPublishSetRecords:org.hibernate.collection.PersistentSet:6f5f85f8ac16000262f5e6a159d5cd12&|
+isPublishAllDestinations:java.lang.Boolean:true
+getPublishEvery:java.lang.Long:1
+getPublishEveryTimeUnit:java.lang.String:Hours
+getTimeToPublish:java.lang.String:12:00:AM
+getSendReportToUsers:java.lang.String:admin
+getPath:java.lang.String:test
+isCurrentVersion:java.lang.Boolean:true
+getName:java.lang.String:test

@@ -1,0 +1,6 @@
+getText:java.lang.String:
+getFile:com.hannonhill.cascade.model.dom.File:4f20cdb3ac16000600f8e2ca952b2812|college-dls/college/images/hero-banner.png|College-MAIN
+getPosition:java.lang.String:1
+getOwnerEntity:com.hannonhill.cascade.model.dom.Page:5189e1feac16000668ed23359c4b24f8
+getDefinitionFieldId:java.lang.String:5566661bac16000668ed23354446e557555dd474ac16000668ed2335f6682c5f
+getTextVersion:java.lang.Integer:2

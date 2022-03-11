@@ -10,8 +10,8 @@ isExpirationNoticeSent:java.lang.Boolean:false
 isFirstExpirationWarningSent:java.lang.Boolean:false
 isSecondExpirationWarningSent:java.lang.Boolean:false
 getDisplayName:java.lang.String:Department Name
-getDescription:java.lang.String:
 isReviewOnSchedule:java.lang.Boolean:false
+getDescription:java.lang.String:
 getTitle:java.lang.String:Department Name
 getSummary:java.lang.String:
 getTeaser:java.lang.String:

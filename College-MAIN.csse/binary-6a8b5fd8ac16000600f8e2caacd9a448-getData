@@ -1,5 +1,5 @@
 ## #import("_cms/formats/global/utilities")
-## #globalHeader()
+#globalHeader()
 #macro(globalHeader)
 <!-- Top Header -->
 <div id="top-header">

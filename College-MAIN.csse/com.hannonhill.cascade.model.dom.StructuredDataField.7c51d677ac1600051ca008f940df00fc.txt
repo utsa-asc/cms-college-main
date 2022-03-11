@@ -1,5 +1,0 @@
-getText:java.lang.String:Parent Window/Tab
-getPosition:java.lang.String:
-getDefinitionFieldId:java.lang.String:9c588ee6c0a8005b459cfb4c9629e4a5f884a4e2ac1e00a10b370fc1098431c1
-getTextVersion:java.lang.Integer:2
-getOwnerEntity:com.hannonhill.cascade.model.dom.Page:7c51d677ac1600051ca008f9f178a719

@@ -1,6 +1,6 @@
-getXml:java.lang.String:<system-data-structure>&n  <shared-field field-id="5566661bac16000668ed23354446e557" identifier="bannerInterior" path="/BannerInterior"/>&n  <shared-field field-id="c62bfb57c0a8005b520f17ce14eb5ece" identifier="row" path="/Row"/>&n</system-data-structure>
+getXml:java.lang.String:<system-data-structure>&n  <shared-field field-id="5566661bac16000668ed23354446e557" identifier="bannerInterior" path="/BannerInterior"/>&n  <group identifier="pageContent" label="Main Page Content">&n    <text field-id="771b5419ac16000262f5e6a179337a34" identifier="wysiwyg" label="Content" required="true" wysiwyg="true"/>&n  </group>&n  <shared-field field-id="c62bfb57c0a8005b520f17ce14eb5ece" identifier="row" path="/Row"/>&n</system-data-structure>
 getParentContainer:com.hannonhill.cascade.model.dom.StructuredDataDefinitionContainer:7c51d8a6ac1600051ca008f9abfb61a3|Pages|College-MAIN
 getParentContainer:com.hannonhill.cascade.model.dom.StructuredDataDefinitionContainer:7c51d8a6ac1600051ca008f9abfb61a3|Pages|College-MAIN
-getPath:java.lang.String:Pages/Interior
+getPath:java.lang.String:Pages/Standard
 isCurrentVersion:java.lang.Boolean:true
-getName:java.lang.String:Interior
+getName:java.lang.String:Standard

@@ -1,5 +1,0 @@
-getText:java.lang.String:Subscribe Now
-getPosition:java.lang.String:
-getDefinitionFieldId:java.lang.String:c16107ebc0a8005b520f17ce01f114bd
-getTextVersion:java.lang.Integer:2
-getOwnerEntity:com.hannonhill.cascade.model.dom.Block:7c51c9caac1600051ca008f9458581ad
