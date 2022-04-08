@@ -6,6 +6,9 @@
     #set($headline = "")
     #set($headline2 = "")
     #set($headline = $_EscapeTool.xml($banner.getChild("headline").textValue))
+    #if ($headline == "")
+        #set($headline = $_EscapeTool.xml($currentPage.metadata.title))
+    #end
 <section class="banner">
     <div class="single-title-wrapper">
         <div class="container">

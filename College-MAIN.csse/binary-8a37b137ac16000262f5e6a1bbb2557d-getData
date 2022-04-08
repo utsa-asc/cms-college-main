@@ -1,0 +1,79 @@
+## #import("_cms/formats/global/utilities")
+## #blogContent($currentPage, 0)
+#macro(blogContent $data, $rowIdx)
+    #set($data = $currentPage)
+    #set($formatString = "MMMMM d, yyyy")
+    #set($articleMeta = $data.metadata)
+    #set($author = $articleMeta.author)
+    #set($startDate = $articleMeta.startDate)
+    #set ($formattedStartDate = $_DateTool.format($formatString, $startDate) )
+    #set($title = $_EscapeTool.xml($articleMeta.title))
+    #set($content = $data.getStructuredDataNode("wysiwyg").textValue)
+    #set($teaser = $_EscapeTool.xml($articleMeta.teaser))
+    #set($postscript = $data.getStructuredDataNode("postscript").textValue)
+    ##
+    #pageSetup()
+    #set($configSections = $pageConfig.getStructuredDataNode("sections"))
+    #set($showSideNav = $configSections.getChild("showSideNav").textValue)
+    #set($contentWidthClasses = "col-12")
+    #if($showSideNav == "Yes")
+        #set($contentWidthClasses = "col-xxl-8 col-xl-8 col-lg-8 col-md-8 col-sm-12")
+        #set($componentData = $pageConfig.getStructuredDataNode("sideNavSection"))
+    #end
+    #set($articleType = "standard")
+    #set($articleType = $data.getStructuredDataNode("articleType").textValue)
+<section class="page-text-wrapper row0 articleType-${articleType}">
+    <div class="container">
+        <div class="row mobile-reverse-order">
+        <div class="news-inner-wrapper ${contentWidthClasses}">
+            ## <h2 class="news-title">Lorem ipsum dolor sit amet: consectetur adipiscing elit</h2>
+            ## title: ${title}
+            ## author: ${author}
+            ## pubDate: ${startDate}
+            ## $_PropertyTool.outputProperties($articleMeta)
+            <p class="news-post-details">Posted on ${formattedStartDate} by ${author}</p>
+            #if ($teaser != "")
+            <div class="news-subtitle pb-3">${teaser}</div>
+            #end
+            #if ($articleType == "standard")
+                #imageData($data.getStructuredDataNode("image1"))
+                #if ($_PropertyTool.isEmpty($imageURL))
+                    #imageData($data.getStructuredDataNode("image2"))
+                #end
+                #if (!$_PropertyTool.isEmpty($imageURL))
+                    <div class="news-img col-8">
+                        <img class="img-fluid w-100 clip-top-img" src="[system-asset]${imageURL}[/system-asset]" alt="${imageAlt}" />
+                        <p class="img-caption">${imageAlt}</p>
+                    </div>    
+                #end
+            #end
+            <div class="news-text-block">
+                ${content}
+            </div>
+            
+            <div class="news-text-block pb-3">
+                &#8212; ${author}
+            </div>
+
+            <!-- TODO: TAGS
+            <div class="news-tags">
+                <p><span class="tags">Tags:</span>
+                <a href="#">Cyber</a>,
+                <a href="#">Undergraduate</a>
+                </p>
+            </div>
+            -->
+            <div class="postscript col-12">
+                ${postscript}
+            </div>
+
+        </div>
+        #if($showSideNav == "Yes")
+        <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4 col-sm-12 no-padd">
+            #processComponent($componentData, "sideNavigation")
+        </div>
+        #end
+        </div>
+    </div>
+</section>
+#end

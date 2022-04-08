@@ -19,9 +19,9 @@
 		<div class="row">
     {{ render '@site-footer'}}
     [system-view:internal]
-            <h4 class="alert-heading">Error:</h4>
+            <span class="h4 alert-heading">TODO:</span><br/>
              <hr />
-            <p>Format '#'siteFooter NOT IMPLEMENTED</p>
+            <p>Format &#35;siteFooter NOT IMPLEMENTED</p>
     [/system-view:internal]
 
 ## 			<div class="col-lg-3 col-md-12 mb-5 mb-lg-0">

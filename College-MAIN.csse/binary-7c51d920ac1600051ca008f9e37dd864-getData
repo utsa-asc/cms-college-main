@@ -2,6 +2,7 @@
 #set($siteSetup = $_.locateBlock("/_blocks/_setup", $globalSite))
 #set($globalMacros = "_cms/formats/components")
 #set($imported = [])
+##
 #######################################################################
 ## #processRows($currentPage.getStructuredDataNodes("row"))
 #######################################################################
@@ -196,7 +197,7 @@ $data.toLowerCase().replaceAll("[^A-Za-z0-9]","-")##
 #######################################################################
 #macro(formatNotFound $data)
     [system-view:internal]
-            <h4 class="alert-heading">Error:</h4>
+            <span class="h4 alert-heading">TODO:</span><br/>
              <hr />
             <p>Format not found.<br />
             Row Type: "$data"<br />

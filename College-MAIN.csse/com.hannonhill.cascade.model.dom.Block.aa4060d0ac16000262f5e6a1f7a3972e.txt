@@ -1,0 +1,36 @@
+getAllStructuredData:org.hibernate.collection.PersistentSet:
+getIndexOtherInformationOptions:java.lang.Long:0
+getMaxRenderedEntities:java.lang.Integer:0
+getSortOption:java.lang.Long:1
+getSortOrder:com.hannonhill.cascade.model.compare.Order:DESCENDING
+getMaxResults:java.lang.Integer:0
+isUseDefaultStyle:java.lang.Boolean:false
+isExcludeJQuery:java.lang.Boolean:false
+getStructuredDataFields:org.hibernate.collection.PersistentSet:aa4060d0ac16000262f5e6a18c89c868&|aa4060d0ac16000262f5e6a18dfdf2e6&|aa4060d0ac16000262f5e6a160df4711&|aa4060d0ac16000262f5e6a169d9b4ae&|aa4060d0ac16000262f5e6a17d2059dd&|aa4060d0ac16000262f5e6a1e4760108&|aa4060d0ac16000262f5e6a18d46b916&|aa4060d0ac16000262f5e6a1a9d5bfcd&|aa4060d0ac16000262f5e6a1c5ae026c&|aa4060d0ac16000262f5e6a182f9890b&|aa4060d0ac16000262f5e6a1b73d71c7&|aa4060d0ac16000262f5e6a1fab20ec1&|
+getBlockType:com.hannonhill.cascade.model.dom.BlockType:STRUCTUREDDATA
+isIncludePageXML:java.lang.Boolean:false
+getIndexAssetContentsOptions:java.lang.Long:0
+getIndexAssetTypesOptions:java.lang.Long:0
+getStructuredDataDefinition:com.hannonhill.cascade.model.dom.StructuredDataDefinition:aa38b271ac16000262f5e6a11edd4427|Components/News Group|College-MAIN
+getStructuredDataVersion:java.lang.Integer:3
+isExpirationNoticeSent:java.lang.Boolean:false
+isFirstExpirationWarningSent:java.lang.Boolean:false
+isSecondExpirationWarningSent:java.lang.Boolean:false
+getDisplayName:java.lang.String:
+isReviewOnSchedule:java.lang.Boolean:false
+getDescription:java.lang.String:
+getTitle:java.lang.String:
+getSummary:java.lang.String:
+getTeaser:java.lang.String:
+getKeywords:java.lang.String:
+getAuthor:java.lang.String:
+getMetadataSet:com.hannonhill.cascade.model.dom.MetadataSet:7c51d5b3ac1600051ca008f9bfd41814|Default|College-MAIN
+getReviewEvery:java.lang.Integer:180
+getPath:java.lang.String:_cms/base-assets/News Group
+getTags:org.hibernate.collection.PersistentSet:
+getParentFolder:com.hannonhill.cascade.model.dom.Folder:7c51d57fac1600051ca008f961acb95a|_cms/base-assets|College-MAIN
+getOwnerId:java.lang.String:admin
+getRelativeOrder:java.lang.Integer:2147451903
+getDynamicMetadataFields:org.hibernate.collection.PersistentSet:
+isCurrentVersion:java.lang.Boolean:true
+getName:java.lang.String:News Group

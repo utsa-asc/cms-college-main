@@ -1,0 +1,60 @@
+## #import("_cms/formats/global/utilities")
+## #set($row = $currentPage.getStructuredDataNodes("row")[1])
+## #blockquoteImage()
+#macro(blockquoteImage)
+    #set($block = $row.getChild("block").asset)
+    #set($quote = "")
+    #set($qsource = "")
+    #set($qtitle = "")
+    #set($qheading = "")
+    #set($quote = $_EscapeTool.xml($block.getStructuredDataNode("text").textValue))
+    #set($qsource = $_EscapeTool.xml($block.getStructuredDataNode("source").textValue))
+    #set($qtitle = $_EscapeTool.xml($block.getStructuredDataNode("title").textValue))
+    #set($qheading = $_EscapeTool.xml($block.getStructuredDataNode("heading").textValue))
+    #imageData($block.getStructuredDataNode("image"))
+    ##
+    #set($colorVariant = "")
+    #set($variantConfigColor = $row.getChild("variant-color-config"))
+    #set($colorVariant = $variantConfigColor.getChild("color").textValue )
+    #set($buttonVariant = "blue-action-btn")
+    #if ($colorVariant == "orange-bg")
+        #set($colorVariant = "orange-a11y")
+    #else
+        #set($colorVariant = "")
+    #end
+    #set($variantConfigOrient = $row.getChild("variant-orient-config"))
+    #set($orientConfig = "")
+    #set($orientConfig = $variantConfigOrient.getChild("orientation").textValue )
+    #if ($orientConfig == "default")
+        #set($orientConfig = "")    
+    #else
+        #set($orientConfig = "text-center")
+    #end
+##
+<section class="blockquote-wrapper pt-5 pb-5">
+    <div class="container">
+        #if (!$_PropertyTool.isNull($qheading))
+        <div class="blockquote-heading">
+            <h3>${qheading}</h3>
+        </div>
+        #end
+        <div class="image-content-wrapper">
+            <div class="row align-items-center">
+                <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4 col-sm-12">
+                    <div class="image_wrapper">
+                        <img class="clip-top-img" src="[system-asset]${imageURL}[/system-asset]" alt="${imageAlt}" />
+                    </div>
+                </div>
+                <div class="col-xxl-8 col-xl-8 col-lg-8 col-md-8 col-sm-12">
+                    <div class="image_right-cntnt">
+                        <figure>
+                            <blockquote class="blockquote ${colorVariant}">&#8220;${quote}&#8221;</blockquote>
+                            <footer class="blockquote-footer"><strong>${qsource},</strong> ${qtitle}</footer>
+                        </figure>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+#end

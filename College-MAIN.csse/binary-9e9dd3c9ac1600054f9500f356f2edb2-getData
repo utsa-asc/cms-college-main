@@ -8,12 +8,31 @@
     #set($heading = $_EscapeTool.xml($block.getStructuredDataNode("heading").textValue))
     #imageData($block.getStructuredDataNode("image"))
     #set($links = $block.getStructuredDataNodes("link"))
+    ### default and alternate variant support
+    #set($variantConfigOrient = $row.getChild("variant-orient-config"))
+    #set($orientConfig = "")
+    #set($orientConfig = $variantConfigOrient.getChild("orientation").textValue )
+    #set($orientCssAdd = "")
+    #if ($orientConfig == "default")
+        #set($orientConfig = "default")    
+    #else
+        #set($orientConfig = "alternate")
+        #set($orientCssAdd = "text-center")
+    #end
+    ##
 <!-- Roadrunner Section -->
- <section class="enrollment-section-wrapper" style="background-image: url('[system-asset]${imageURL}[/system-asset]');">
+ <section class="enrollment-wrapper" style="background-image: url('[system-asset]${imageURL}[/system-asset]');">
      <div class="container">
-         <div class="enrollment-cntnt">
-             <h5>${subheading}</h5>
+         <div class="enrollment-cntnt ${orientCssAdd}">
+            #if ($orientConfig == "default")
+             <span class="h5">${subheading}</span>
              <h2>${heading}</h2>
+            #end
+            ##     
+            #if ($orientConfig == "alternate")
+            <h2>${heading}</h2>
+            <p>${subheading}</p>
+            #end
              <div class="roadrunner-btns">
                  <div class="row">
                      #foreach($link in $links)

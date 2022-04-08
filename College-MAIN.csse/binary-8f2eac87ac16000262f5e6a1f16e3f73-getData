@@ -1,0 +1,37 @@
+## #import("_cms/formats/global/utilities")
+## #set($row = $currentPage.getStructuredDataNodes("row")[1])
+## #blockquote()
+#macro(blockquote)
+    #set($block = $row.getChild("block").asset)
+    #set($quote = "")
+    #set($qsource = "")
+    #set($qtitle = "")
+    #set($quote = $_EscapeTool.xml($block.getStructuredDataNode("text").textValue))
+    #set($qsource = $_EscapeTool.xml($block.getStructuredDataNode("source").textValue))
+    #set($qtitle = $_EscapeTool.xml($block.getStructuredDataNode("title").textValue))
+    ##
+    #set($colorVariant = "")
+    #set($variantConfigColor = $row.getChild("variant-color-config"))
+    #set($colorVariant = $variantConfigColor.getChild("color").textValue )
+    #set($buttonVariant = "blue-action-btn")
+    #if ($colorVariant == "orange-bg")
+        #set($colorVariant = "orange-a11y")
+    #else
+        #set($colorVariant = "")
+    #end
+    #set($variantConfigOrient = $row.getChild("variant-orient-config"))
+    #set($orientConfig = "")
+    #set($orientConfig = $variantConfigOrient.getChild("orientation").textValue )
+    #if ($orientConfig == "default")
+        #set($orientConfig = "")    
+    #else
+        #set($orientConfig = "text-center")
+    #end
+    
+<section class="blockquote-wrapper pt-5 pb-5">
+    <figure class="p-5 ${orientConfig}">
+        <blockquote class="blockquote ${colorVariant}">&#8220;${quote}&#8221;</blockquote>
+        <footer class="blockquote-footer"><strong>${qsource},</strong> ${qtitle}</footer>
+    </figure>
+</section>
+#end

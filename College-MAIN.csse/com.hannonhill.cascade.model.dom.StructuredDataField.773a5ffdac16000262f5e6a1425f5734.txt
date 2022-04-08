@@ -1,5 +1,0 @@
-getText:java.lang.String:<p>Ham rump filet mignon alcatra, ribeye bresaola corned beef kevin drumstick tail pancetta jowl pastrami. Ball tip venison frankfurter meatloaf shank, andouille ground round brisket boudin short loin pork pastrami chislic rump kevin. Kielbasa jowl tongue biltong landjaeger. Flank beef ribs venison ball tip, capicola corned beef tenderloin. Landjaeger ball tip pork belly kielbasa buffalo picanha spare ribs chuck pork pancetta shankle jerky.</p>
-getPosition:java.lang.String:
-getOwnerEntity:com.hannonhill.cascade.model.dom.Page:518991eeac16000668ed233553fc6ae9
-getDefinitionFieldId:java.lang.String:771b5419ac16000262f5e6a179337a34
-getTextVersion:java.lang.Integer:2

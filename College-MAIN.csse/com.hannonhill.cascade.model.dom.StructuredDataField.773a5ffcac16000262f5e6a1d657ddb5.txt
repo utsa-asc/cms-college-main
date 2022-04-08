@@ -1,5 +1,0 @@
-getText:java.lang.String:Short loin doner
-getPosition:java.lang.String:1
-getOwnerEntity:com.hannonhill.cascade.model.dom.Page:518991eeac16000668ed233553fc6ae9
-getDefinitionFieldId:java.lang.String:5566661bac16000668ed23354446e557555dd474ac16000668ed233581b5d654
-getTextVersion:java.lang.Integer:2

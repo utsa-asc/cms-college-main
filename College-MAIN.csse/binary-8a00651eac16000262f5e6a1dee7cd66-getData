@@ -1,0 +1,15 @@
+#import("_cms/formats/global/utilities")
+#pageSetup()
+#set($configSections = $pageConfig.getStructuredDataNode("sections"))
+#set($showBreadcrumb = $configSections.getChild("showBreadcrumb").textValue)
+#set( $row = $currentPage.getStructuredDataNode("pageContent"))
+<!-- Banner -->
+<section class="slider-wrapper" id="main-slider-wrapper">
+    #processComponent($row, "bannerSlim")
+    #if ($showBreadcrumb == "Yes")
+    #breadcrumbs()
+    #end
+</section>
+<!-- End Banner -->
+#processComponent($row, "blogContent")
+## #processRows($currentPage.getStructuredDataNodes("row"))

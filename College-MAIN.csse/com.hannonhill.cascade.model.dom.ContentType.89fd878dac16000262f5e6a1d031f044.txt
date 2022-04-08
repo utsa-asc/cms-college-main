@@ -1,0 +1,9 @@
+getPageConfigurationSet:com.hannonhill.cascade.model.dom.PageConfigurationSet:89fdd464ac16000262f5e6a10dad7850|Blog|College-MAIN
+getStructuredDataDefinition:com.hannonhill.cascade.model.dom.StructuredDataDefinition:89fb00d5ac16000262f5e6a18e543d7a|Pages/Blog|College-MAIN
+getMetadataSet:com.hannonhill.cascade.model.dom.MetadataSet:8b8f2fa9ac16000262f5e6a16a32d522|Blog|College-MAIN
+getParentContainer:com.hannonhill.cascade.model.dom.ContentTypeContainer:7c51c7f6ac1600051ca008f904bf8d38|/|College-MAIN
+getInlineEditableFields:org.hibernate.collection.PersistentSet:
+getContentTypePageConfigurations:org.hibernate.collection.PersistentSet:
+getPath:java.lang.String:Blog
+isCurrentVersion:java.lang.Boolean:true
+getName:java.lang.String:Blog

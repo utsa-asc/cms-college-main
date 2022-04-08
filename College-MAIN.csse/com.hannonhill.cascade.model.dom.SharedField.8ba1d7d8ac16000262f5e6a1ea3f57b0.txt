@@ -1,0 +1,7 @@
+getXml:java.lang.String:<system-data-structure>&n	<group collapsed="true" identifier="image" label="Image">&n		<asset field-id="97ba0865c0a8005b2e79c159f0a9ed3d" identifier="file" label="File" required="false" type="file"/>&n		<text field-id="97ba0865c0a8005b2e79c1591cf7dc30" identifier="alt" label="Alternative Text"/>&n	</group>&n</system-data-structure>
+getParentContainer:com.hannonhill.cascade.model.dom.SharedFieldContainer:7c51c80cac1600051ca008f933ea41db|/|College-MAIN
+getParentContainer:com.hannonhill.cascade.model.dom.SharedFieldContainer:7c51c80cac1600051ca008f933ea41db|/|College-MAIN
+getSharedFieldType:com.hannonhill.cascade.model.dom.SharedFieldType:GROUP
+getPath:java.lang.String:ImageOptional
+isCurrentVersion:java.lang.Boolean:true
+getName:java.lang.String:ImageOptional

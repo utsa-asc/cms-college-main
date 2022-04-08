@@ -1,0 +1,5 @@
+getText:java.lang.String:Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas tincidunt.
+getPosition:java.lang.String:
+getOwnerEntity:com.hannonhill.cascade.model.dom.Block:8f2d4092ac16000262f5e6a1f16e9d17
+getDefinitionFieldId:java.lang.String:97b7bda5c0a8005b2e79c1596ccccf13
+getTextVersion:java.lang.Integer:2

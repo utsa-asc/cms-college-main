@@ -1,0 +1,17 @@
+#import("_cms/formats/global/utilities")
+#pageSetup()
+#set($configSections = $pageConfig.getStructuredDataNode("sections"))
+#set($showBreadcrumb = $configSections.getChild("showBreadcrumb").textValue)
+<!-- Banner -->
+<section class="slider-wrapper" id="main-slider-wrapper">
+    #processComponent($row, "bannerSlim")
+    ## #processRows($currentPage.getStructuredDataNodes("bannerInterior"))
+    #if ($showBreadcrumb == "Yes")
+    #breadcrumbs()
+    #end
+</section>
+#set( $row = $currentPage.getStructuredDataNode("pageContent"))
+<!-- End Banner -->
+## #processComponent($row, "wysiwyg")
+#processComponent($row, "blogIndex")
+#processRows($currentPage.getStructuredDataNodes("row"))

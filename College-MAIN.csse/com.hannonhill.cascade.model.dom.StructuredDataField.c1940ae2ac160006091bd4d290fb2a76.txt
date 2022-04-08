@@ -1,5 +1,0 @@
-getText:java.lang.String:Test headline
-getPosition:java.lang.String:
-getOwnerEntity:com.hannonhill.cascade.model.dom.Block:c1934819ac160006091bd4d26e7ab5a7
-getDefinitionFieldId:java.lang.String:1efcf18ec0a8005f5e2396ff2076d152
-getTextVersion:java.lang.Integer:2

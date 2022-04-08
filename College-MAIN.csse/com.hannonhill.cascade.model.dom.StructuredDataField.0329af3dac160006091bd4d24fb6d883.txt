@@ -1,5 +1,0 @@
-getText:java.lang.String:Best of the bestest
-getPosition:java.lang.String:1
-getOwnerEntity:com.hannonhill.cascade.model.dom.Block:c195b5deac160006091bd4d2b1c219ea
-getDefinitionFieldId:java.lang.String:97b7bda5c0a8005b2e79c1596ccccf13
-getTextVersion:java.lang.Integer:2

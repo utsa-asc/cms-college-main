@@ -1,0 +1,34 @@
+## #import("_cms/formats/global/utilities")
+## #set($row = $currentPage.getStructuredDataNode("pageContent"))
+## #blogIndex($row, 0)
+#macro(blogIndex $row, $rowIdx)
+    #set($wysiwyg = $row.getChild("wysiwyg").textValue)
+    ##
+    ## #pageSetup()
+    #set($configSections = $pageConfig.getStructuredDataNode("sections"))
+    #set($showSideNav = $configSections.getChild("showSideNav").textValue)
+    #set($contentWidthClasses = "col-12")
+    #if($showSideNav == "Yes")
+        #set($contentWidthClasses = "col-xxl-8 col-xl-8 col-lg-8 col-md-8 col-sm-12")
+        #set($componentData = $pageConfig.getStructuredDataNode("sideNavSection"))
+    #end
+<section class="page-text-wrapper row${rowIdx}">
+    <div class="container">
+        <div class="row mobile-reverse-order">
+            <div class="${contentWidthClasses}">
+                ## {{ render '@blogIndex-all'}}
+[system-view:internal]
+            <span class="h4 alert-heading">TODO:</span><br/>
+             <hr />
+            <p>Format &#35;blogIndex NOT IMPLEMENTED</p>
+[/system-view:internal]
+            </div>
+            #if($showSideNav == "Yes")
+            <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4 col-sm-12 no-padd">
+                #processComponent($componentData, "sideNavigation")
+            </div>
+            #end
+        </div>
+    </div>
+</section>
+#end

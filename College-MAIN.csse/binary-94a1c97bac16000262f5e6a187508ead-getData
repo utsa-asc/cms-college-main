@@ -1,0 +1,10 @@
+## #import("_cms/formats/global/utilities")
+## #set($row = $currentPage.getStructuredDataNodes("row")[1])
+## #customSection()
+#macro(customSection)
+    #set($customSectionClassStr = $row.getChild("custom").getChild("customClass").textValue)
+    #set($wysiwyg = $row.getChild("custom").getChild("wysiwyg").textValue)
+<section class="${customSectionClassStr}">
+${wysiwyg}
+</section>
+#end

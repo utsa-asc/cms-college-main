@@ -1,4 +1,4 @@
-getByteLength:java.lang.Long:278570
+getByteLength:java.lang.Long:284848
 getRewriteContents:java.lang.Boolean:true
 getLinkRewriting:com.hannonhill.cascade.model.dom.LinkRewriting:RELATIVE
 getBlob:com.hannonhill.cascade.model.dom.BlobEntity:4f20c77aac16000600f8e2cad868fd99

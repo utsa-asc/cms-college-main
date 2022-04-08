@@ -1,5 +1,0 @@
-getText:java.lang.String:
-getPosition:java.lang.String:3
-getOwnerEntity:com.hannonhill.cascade.model.dom.Page:5189e1feac16000668ed23359c4b24f8
-getDefinitionFieldId:java.lang.String:97a35063c0a8005b2e79c1599f6d9724979f394cc0a8005b2e79c1595747b30e
-getTextVersion:java.lang.Integer:2

@@ -1,9 +1,0 @@
-getTemplateContent:com.hannonhill.cascade.model.dom.BlobEntity:7c51d916ac1600051ca008f9a9cf2a67
-getPath:java.lang.String:_cms/formats/pages/standard
-getTags:org.hibernate.collection.PersistentSet:
-getParentFolder:com.hannonhill.cascade.model.dom.Folder:7c51d551ac1600051ca008f9a4334f57|_cms/formats/pages|College-MAIN
-getOwnerId:java.lang.String:matt.shirey
-getRelativeOrder:java.lang.Integer:2141257727
-getDynamicMetadataFields:org.hibernate.collection.PersistentSet:
-isCurrentVersion:java.lang.Boolean:true
-getName:java.lang.String:standard

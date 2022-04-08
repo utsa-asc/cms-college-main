@@ -1,0 +1,5 @@
+getText:java.lang.String:John Doe
+getPosition:java.lang.String:
+getOwnerEntity:com.hannonhill.cascade.model.dom.Block:8f2d4092ac16000262f5e6a1f16e9d17
+getDefinitionFieldId:java.lang.String:8f28a7e2ac16000262f5e6a19d4ba6e7
+getTextVersion:java.lang.Integer:2

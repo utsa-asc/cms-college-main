@@ -1,0 +1,7 @@
+getLabel:java.lang.String:Category
+isRequired:java.lang.Boolean:true
+getMetadataSet:com.hannonhill.cascade.model.dom.MetadataSet:9db34818ac16000262f5e6a10acdb480
+getListingOrder:java.lang.Integer:0
+getMetadataType:com.hannonhill.cascade.model.dom.MetadataFieldType:TEXT
+getVisibility:com.hannonhill.cascade.model.dom.MetadataFieldVisibility:INLINE
+getName:java.lang.String:Category

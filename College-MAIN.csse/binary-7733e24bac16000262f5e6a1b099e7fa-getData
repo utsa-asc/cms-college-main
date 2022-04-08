@@ -1,9 +1,49 @@
 ## #import("_cms/formats/global/utilities")
-#macro(sideNavigation $row)
-    {{render '@side-navigation'}}
-    [system-view:internal]
-            <h4 class="alert-heading">Error:</h4>
-             <hr />
-            <p>Format '#'sideNavigation NOT IMPLEMENTED</p>
-    [/system-view:internal]
+## #pageSetup()
+## #set($componentData = $pageConfig.getStructuredDataNode("sideNavSection"))
+## #processComponent($componentData, "sideNavigation")
+##
+#macro(sideNavigation)
+    #set($sideNav = $pageConfig.getStructuredDataNode("sideNavSection"))
+    #set($header = $siteSetup.getStructuredDataNode("header"))
+    <!-- Side Navigation -->
+<div class="department-menu-bar">
+    <div class="heading d-md-none" >Department Menu</div>
+    <div class="des-default-show">
+        <div id="sidebar" class="white-listing-sec main-sidebar pl-sm-0 pr-sm-0">
+            <ul class="list-unstyled">
+                #foreach($mainLink in $sideNav.getChildren("item"))
+                    #if($mainLink.getChild("type").textValue == "Link")
+                        #linkData($mainLink.getChild("link"))
+                        <li class="nav-item"><a href="${linkURL}" target="${linkTarget}">${linkLabel}</a></li>
+                    #elseif($mainLink.getChild("type").textValue == "Dropdown")
+                        #set($dpLabel = $_EscapeTool.xml($mainLink.getChild("dropdown").getChild("label").textValue))
+                        #set($dpLabelID = "#textToID($dpLabel)")
+                        <li class="nav-item">
+                            <a href="#" id="${dpLabelID}">${dpLabel}</a>
+                            <button class="drop-down-btn plus-toogle" data-bs-toggle="dropdown" aria-label="plus button">
+                                <span class="plus-icn"><i class="fas fa-plus"></i></span>
+                                <span class="minus-icn" style="display: none;"><i class="fas fa-minus"></i></span>
+                            </button>
+                            <div class="dropdown-menu position-relative">
+                                #foreach($dpLink in $mainLink.getChild("dropdown").getChildren("link"))
+                                    #linkData($dpLink)
+                                    <a class="dropdown-item normal-link" href="${linkURL}" target="${linkTarget}">${linkLabel}</a>
+                                #end
+                            </div>
+                        </li>
+                    #end
+                #end
+
+                <li class="mobile-nav-btns orange-action-btn">
+                    #foreach($rightLink in $header.getChild("top").getChildren("rightLink"))
+                        #linkData($rightLink)
+                        <a class="action-btn display-block" href="${linkURL}" target="${linkTarget}">${linkLabel} <span class="white acton-icon"><i class="fas fa-arrow-right"></i></span></a>
+                    #end
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+<!-- End Side Navigation -->
 #end

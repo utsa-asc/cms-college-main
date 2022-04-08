@@ -1,3 +1,0 @@
-getPath:java.lang.String:Components/TEST
-getXml:java.lang.String:<?xml version="1.0" encoding="UTF-8"?>&r&n<system-data-structure>&r&n  <text field-id="97b7bda5c0a8005b2e79c1596ccccf13" identifier="username" label="Username" />&r&n  <text field-id="742a6473ac16000600f8e2caa0a05d9b" identifier="xmlSource" wysiwyg="true" />&r&n</system-data-structure>&r&n
-getSiteName:java.lang.String:College-MAIN

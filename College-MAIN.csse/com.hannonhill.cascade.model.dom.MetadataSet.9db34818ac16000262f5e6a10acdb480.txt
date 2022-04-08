@@ -1,0 +1,28 @@
+getDynamicMetadataFieldDefinitions:org.hibernate.collection.PersistentSet:9db34818ac16000262f5e6a1425736f4&|
+getParentContainer:com.hannonhill.cascade.model.dom.MetadataSetContainer:7c51c816ac1600051ca008f9178d5d43|/|College-MAIN
+getParentContainer:com.hannonhill.cascade.model.dom.MetadataSetContainer:7c51c816ac1600051ca008f9178d5d43|/|College-MAIN
+isAuthorRequired:java.lang.Boolean:false
+getAuthorVisibility:com.hannonhill.cascade.model.dom.MetadataFieldVisibility:VISIBLE
+isDescriptionRequired:java.lang.Boolean:false
+getDescriptionVisibility:com.hannonhill.cascade.model.dom.MetadataFieldVisibility:INLINE
+isDisplayNameRequired:java.lang.Boolean:false
+getDisplayNameVisibility:com.hannonhill.cascade.model.dom.MetadataFieldVisibility:VISIBLE
+isEndDateRequired:java.lang.Boolean:false
+getEndDateVisibility:com.hannonhill.cascade.model.dom.MetadataFieldVisibility:HIDDEN
+isExpirationFolderRequired:java.lang.Boolean:false
+getExpirationFolderVisibility:com.hannonhill.cascade.model.dom.MetadataFieldVisibility:HIDDEN
+isKeywordsRequired:java.lang.Boolean:false
+getKeywordsVisibility:com.hannonhill.cascade.model.dom.MetadataFieldVisibility:INLINE
+isReviewDateRequired:java.lang.Boolean:false
+getReviewDateVisibility:com.hannonhill.cascade.model.dom.MetadataFieldVisibility:HIDDEN
+isStartDateRequired:java.lang.Boolean:false
+getStartDateVisibility:com.hannonhill.cascade.model.dom.MetadataFieldVisibility:HIDDEN
+isSummaryRequired:java.lang.Boolean:false
+getSummaryVisibility:com.hannonhill.cascade.model.dom.MetadataFieldVisibility:VISIBLE
+isTeaserRequired:java.lang.Boolean:false
+getTeaserVisibility:com.hannonhill.cascade.model.dom.MetadataFieldVisibility:VISIBLE
+isTitleRequired:java.lang.Boolean:false
+getTitleVisibility:com.hannonhill.cascade.model.dom.MetadataFieldVisibility:INLINE
+getPath:java.lang.String:Blog Category
+isCurrentVersion:java.lang.Boolean:true
+getName:java.lang.String:Blog Category
