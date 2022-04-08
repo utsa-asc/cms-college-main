@@ -1,0 +1,5 @@
+getText:java.lang.String:ti-book
+getPosition:java.lang.String:1-1
+getOwnerEntity:com.hannonhill.cascade.model.dom.Block:06b5779bac16000262f5e6a14ff09958
+getDefinitionFieldId:java.lang.String:c067e58ec0a8005b520f17ced2407dcbae887e29c0a8005b520f17ceb8750013
+getTextVersion:java.lang.Integer:2

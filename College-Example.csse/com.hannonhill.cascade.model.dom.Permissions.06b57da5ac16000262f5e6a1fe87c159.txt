@@ -1,0 +1,2 @@
+getAllPermissionsLevel:com.hannonhill.cascade.model.dom.PermissionsLevel:READ
+getAclEntries:org.hibernate.collection.PersistentSet:06b57da5ac16000262f5e6a1c9b11af0&|06b57da5ac16000262f5e6a1a5cce2f9&|

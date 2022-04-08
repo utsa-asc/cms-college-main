@@ -1,0 +1,5 @@
+getText:java.lang.String:<h2 class="">Continuing Education: Developing data science online boot camp</h2>&n<p>Associate Dean of University College and Interim Academic Director of the School of Data Science (SDS)<strong> Jianwei Niu</strong> and SDS faculty from College of Business, College of Engineering, and College of Sciences are creating two short courses in data science and data engineering. In Fall 2020, the courses were offered as an online boot camp to MITRE employees and the UTSA team evaluated the effectiveness of the curriculum. Ultimately, the goal is to make the courses publicly accessible as part of UTSA&amp;amp;#8217;s continuing education portfolio.</p>
+getPosition:java.lang.String:6
+getOwnerEntity:com.hannonhill.cascade.model.dom.Page:06b57fb2ac16000262f5e6a186c23441
+getDefinitionFieldId:java.lang.String:c62bfb57c0a8005b520f17ce14eb5ece979de3c0c0a8005b2e79c159400cfcac
+getTextVersion:java.lang.Integer:2

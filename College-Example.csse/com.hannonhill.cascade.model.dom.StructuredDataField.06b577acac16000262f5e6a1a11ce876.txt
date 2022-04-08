@@ -1,0 +1,5 @@
+getText:java.lang.String:https://www.youtube.com/watch?v=EcNCLMgvBb8
+getPosition:java.lang.String:
+getOwnerEntity:com.hannonhill.cascade.model.dom.Block:06b577acac16000262f5e6a1693ebd1e
+getDefinitionFieldId:java.lang.String:9870fda9c0a8005b2e79c159846fd64d
+getTextVersion:java.lang.Integer:2

@@ -1,0 +1,9 @@
+getTemplateContent:com.hannonhill.cascade.model.dom.BlobEntity:7c51d991ac1600051ca008f9b79af7b7
+getPath:java.lang.String:_cms/formats/retired/successStory
+getTags:org.hibernate.collection.PersistentSet:
+getParentFolder:com.hannonhill.cascade.model.dom.Folder:032381f0ac160006091bd4d27fca47ce|_cms/formats/retired|College-MAIN
+getOwnerId:java.lang.String:matt.shirey
+getRelativeOrder:java.lang.Integer:2147450879
+getDynamicMetadataFields:org.hibernate.collection.PersistentSet:
+isCurrentVersion:java.lang.Boolean:true
+getName:java.lang.String:successStory

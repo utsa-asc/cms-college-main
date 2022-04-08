@@ -1,0 +1,6 @@
+getText:java.lang.String:
+getFile:com.hannonhill.cascade.model.dom.File:06b36ac2ac16000262f5e6a1973c779a|college-dls/utsa/images/Future-Roadrunner.png|College-PROTOTYPE
+getPosition:java.lang.String:
+getOwnerEntity:com.hannonhill.cascade.model.dom.Block:06b57876ac16000262f5e6a19349b851
+getDefinitionFieldId:java.lang.String:9c2186f0ac1600054f9500f316bdf99e97ba0865c0a8005b2e79c159f0a9ed3d
+getTextVersion:java.lang.Integer:2

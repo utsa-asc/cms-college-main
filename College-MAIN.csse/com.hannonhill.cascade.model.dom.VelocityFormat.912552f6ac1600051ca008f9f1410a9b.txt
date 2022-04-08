@@ -1,0 +1,9 @@
+getTemplateContent:com.hannonhill.cascade.model.dom.BlobEntity:912552f6ac1600051ca008f93652cb3a
+getPath:java.lang.String:_cms/formats/pages/advisor
+getTags:org.hibernate.collection.PersistentSet:
+getParentFolder:com.hannonhill.cascade.model.dom.Folder:7c51d551ac1600051ca008f9a4334f57|_cms/formats/pages|College-MAIN
+getOwnerId:java.lang.String:admin
+getRelativeOrder:java.lang.Integer:2144370687
+getDynamicMetadataFields:org.hibernate.collection.PersistentSet:
+isCurrentVersion:java.lang.Boolean:false
+getName:java.lang.String:advisor

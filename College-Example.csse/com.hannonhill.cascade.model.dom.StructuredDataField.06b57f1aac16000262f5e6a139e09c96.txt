@@ -1,0 +1,6 @@
+getText:java.lang.String:
+getPosition:java.lang.String:1
+getOwnerEntity:com.hannonhill.cascade.model.dom.Page:06b57f1aac16000262f5e6a13c4433a0
+getBlock:com.hannonhill.cascade.model.dom.Block:06b3664bac16000262f5e6a157518959|_blocks/college-home-image-cta-01|College-PROTOTYPE
+getDefinitionFieldId:java.lang.String:c62bfb57c0a8005b520f17ce14eb5ece979de3c0c0a8005b2e79c1598351d092
+getTextVersion:java.lang.Integer:2

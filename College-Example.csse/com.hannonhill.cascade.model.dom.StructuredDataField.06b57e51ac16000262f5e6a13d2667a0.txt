@@ -1,0 +1,5 @@
+getText:java.lang.String:UTSA Today
+getPosition:java.lang.String:
+getOwnerEntity:com.hannonhill.cascade.model.dom.Page:06b57e51ac16000262f5e6a14baee216
+getDefinitionFieldId:java.lang.String:89fb00d5ac16000262f5e6a11da62226
+getTextVersion:java.lang.Integer:2

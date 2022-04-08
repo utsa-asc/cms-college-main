@@ -1,0 +1,5 @@
+getText:java.lang.String:Latest News
+getPosition:java.lang.String:
+getOwnerEntity:com.hannonhill.cascade.model.dom.Block:aa4060d0ac16000262f5e6a1f7a3972e
+getDefinitionFieldId:java.lang.String:98694cbdc0a8005b2e79c159c677c304
+getTextVersion:java.lang.Integer:2

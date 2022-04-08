@@ -1,0 +1,5 @@
+getText:java.lang.String:Economics
+getPosition:java.lang.String:
+getOwnerEntity:com.hannonhill.cascade.model.dom.Block:06b578a4ac16000262f5e6a15258939d
+getDefinitionFieldId:java.lang.String:f22073e8ac16000262f5e6a188d120b1
+getTextVersion:java.lang.Integer:2

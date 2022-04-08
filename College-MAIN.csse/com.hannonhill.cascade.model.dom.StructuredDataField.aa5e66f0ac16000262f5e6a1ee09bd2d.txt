@@ -1,0 +1,6 @@
+getText:java.lang.String:
+getPosition:java.lang.String:3
+getOwnerEntity:com.hannonhill.cascade.model.dom.Block:aa3efd94ac16000262f5e6a194d0431b
+getPage:com.hannonhill.cascade.model.dom.Page:89ffdcc5ac16000262f5e6a18d9a36ab|news/2022/03/01-test-blog|College-MAIN
+getDefinitionFieldId:java.lang.String:aa3ae6b0ac16000262f5e6a1919d2c55
+getTextVersion:java.lang.Integer:2

@@ -1,0 +1,5 @@
+getText:java.lang.String:This is a heading
+getPosition:java.lang.String:
+getOwnerEntity:com.hannonhill.cascade.model.dom.Block:06b577c8ac16000262f5e6a19842d5bf
+getDefinitionFieldId:java.lang.String:03295e1bac160006091bd4d29426d7c7
+getTextVersion:java.lang.Integer:2

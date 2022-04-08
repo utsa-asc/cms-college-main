@@ -1,0 +1,6 @@
+getText:java.lang.String:
+getFile:com.hannonhill.cascade.model.dom.File:06b36d81ac16000262f5e6a17366687e|college-dls/college/example-video.mp4|College-PROTOTYPE
+getPosition:java.lang.String:1
+getOwnerEntity:com.hannonhill.cascade.model.dom.Page:06b57defac16000262f5e6a1662a3bf1
+getDefinitionFieldId:java.lang.String:5566661bac16000668ed23354446e557555dd475ac16000668ed233575ef3f75
+getTextVersion:java.lang.Integer:2

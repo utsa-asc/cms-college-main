@@ -1,0 +1,6 @@
+getText:java.lang.String:
+getPosition:java.lang.String:1
+getOwnerEntity:com.hannonhill.cascade.model.dom.Block:06b57978ac16000262f5e6a1751b0d11
+getPage:com.hannonhill.cascade.model.dom.Page:06b57fb2ac16000262f5e6a186c23441|faculty/mitre|SDS-VPAA-ASC-SDS-HALSTORE
+getDefinitionFieldId:java.lang.String:97b7bda5c0a8005b2e79c159ca3bc57881c60f08ac1e00a1403ca41fcd7ccdf6
+getTextVersion:java.lang.Integer:2

@@ -1,0 +1,5 @@
+getText:java.lang.String:Pork chicken buffalo sirloin 
+getPosition:java.lang.String:
+getOwnerEntity:com.hannonhill.cascade.model.dom.Block:06b57861ac16000262f5e6a11f0272d2
+getDefinitionFieldId:java.lang.String:1efcf18ec0a8005f5e2396ff2076d152
+getTextVersion:java.lang.Integer:2

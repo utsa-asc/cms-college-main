@@ -1,0 +1,5 @@
+getText:java.lang.String:<span>Short ribs burgdoggen short loin ham hock picanha drumstick tri-tip andouille shankle alcatra rump salami ham. Pastrami bresaola turducken alcatra leberkas. Leberkas shankle burgdoggen ham, sirloin hamburger turkey kielbasa cupim tongue tri-tip prosciutto spare ribs.</span>
+getPosition:java.lang.String:
+getOwnerEntity:com.hannonhill.cascade.model.dom.Page:06b57fcaac16000262f5e6a1334d3ae7
+getDefinitionFieldId:java.lang.String:89fb00d5ac16000262f5e6a116c63dec
+getTextVersion:java.lang.Integer:2

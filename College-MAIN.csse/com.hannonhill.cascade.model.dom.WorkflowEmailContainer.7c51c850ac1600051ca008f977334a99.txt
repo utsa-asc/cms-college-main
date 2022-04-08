@@ -1,0 +1,5 @@
+isRoot:java.lang.Boolean:true
+getName:java.lang.String:Custom Workflow Emails
+getPath:java.lang.String:/
+getPermissions:com.hannonhill.cascade.model.dom.Permissions:7c51c850ac1600051ca008f974c9c832
+isCurrentVersion:java.lang.Boolean:true

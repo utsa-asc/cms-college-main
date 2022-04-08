@@ -1,0 +1,5 @@
+getText:java.lang.String:<span>For more information about UTSA&amp;amp;#8217;s partnership with MITRE, contact </span><a href="mailto:patricia.geppert@utsa.edu">Patricia Geppert</a><span> and </span><a href="mailto:jianwei.niu@utsa.edu">Jianwei Niu.</a>
+getPosition:java.lang.String:8
+getOwnerEntity:com.hannonhill.cascade.model.dom.Page:06b57fb2ac16000262f5e6a186c23441
+getDefinitionFieldId:java.lang.String:c62bfb57c0a8005b520f17ce14eb5ece979de3c0c0a8005b2e79c159400cfcac
+getTextVersion:java.lang.Integer:2

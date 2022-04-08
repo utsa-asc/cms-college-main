@@ -1,0 +1,5 @@
+getText:java.lang.String:blockquoteImage
+getPosition:java.lang.String:3
+getOwnerEntity:com.hannonhill.cascade.model.dom.Page:518991eeac16000668ed233553fc6ae9
+getDefinitionFieldId:java.lang.String:c62bfb57c0a8005b520f17ce14eb5ece979de3c0c0a8005b2e79c1597d77cc0a
+getTextVersion:java.lang.Integer:2

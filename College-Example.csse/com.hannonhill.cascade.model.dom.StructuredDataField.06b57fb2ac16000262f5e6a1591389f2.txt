@@ -1,0 +1,5 @@
+getText:java.lang.String:<h2 class="secondary">Gen AI Spotlight</h2>&n<p>Geological sciences lecturer <strong>Jaime Hincapie</strong> took his <em>Fundamentals of GIS</em> class on an expedition to use machine learning techniques to process and analyze a data set of 6,000 earthquakes in northwestern Colombia over the past 50 years to search for earthquake clusters. With little to no experience in computer programming or statistical analysis, Hincapie&amp;amp;#8217;s students learned how to use accessible, free AI software to process a large amount of information and ultimately understand that geological data is three dimensional.</p>
+getPosition:java.lang.String:2
+getOwnerEntity:com.hannonhill.cascade.model.dom.Page:06b57fb2ac16000262f5e6a186c23441
+getDefinitionFieldId:java.lang.String:c62bfb57c0a8005b520f17ce14eb5ece979de3c0c0a8005b2e79c159400cfcac
+getTextVersion:java.lang.Integer:2

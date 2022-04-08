@@ -1,0 +1,5 @@
+getText:java.lang.String:::CONTENT-XML-CHECKBOX::Yes
+getPosition:java.lang.String:1
+getOwnerEntity:com.hannonhill.cascade.model.dom.Page:06b57defac16000262f5e6a1662a3bf1
+getDefinitionFieldId:java.lang.String:5566661bac16000668ed23354446e5579427d38dac16000262f5e6a1cea122be
+getTextVersion:java.lang.Integer:2

@@ -1,0 +1,2 @@
+getPermissions:com.hannonhill.cascade.model.dom.Permissions:06b575edac16000262f5e6a141f130fa
+getGroupPermissionsLevel:com.hannonhill.cascade.model.dom.PermissionsLevel:WRITE

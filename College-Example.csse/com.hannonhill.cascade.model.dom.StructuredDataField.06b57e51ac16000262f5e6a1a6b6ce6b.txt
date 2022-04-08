@@ -1,0 +1,6 @@
+getText:java.lang.String:
+getFile:com.hannonhill.cascade.model.dom.File:06b36d2aac16000262f5e6a12f14d05a|college-dls/college/images/News_Blog-1.png|College-PROTOTYPE
+getPosition:java.lang.String:
+getOwnerEntity:com.hannonhill.cascade.model.dom.Page:06b57e51ac16000262f5e6a14baee216
+getDefinitionFieldId:java.lang.String:8b9810f4ac16000262f5e6a1cef2196297ba0865c0a8005b2e79c159f0a9ed3d
+getTextVersion:java.lang.Integer:2

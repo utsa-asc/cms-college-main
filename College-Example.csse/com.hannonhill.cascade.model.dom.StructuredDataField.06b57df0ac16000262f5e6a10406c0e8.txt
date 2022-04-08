@@ -1,0 +1,6 @@
+getText:java.lang.String:
+getFile:com.hannonhill.cascade.model.dom.File:06b57c15ac16000262f5e6a1097ade5d|images/utsa-sds.png|SDS-VPAA-ASC-SDS-HALSTORE
+getPosition:java.lang.String:1
+getOwnerEntity:com.hannonhill.cascade.model.dom.Page:06b57defac16000262f5e6a1662a3bf1
+getDefinitionFieldId:java.lang.String:5566661bac16000668ed23354446e5579353278aac16000262f5e6a1d5f42751
+getTextVersion:java.lang.Integer:2

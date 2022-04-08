@@ -1,0 +1,13 @@
+getDescription:java.lang.String:
+getGroups:java.lang.String:Advanced Velocity
+getPlugins:org.hibernate.collection.PersistentSet:
+getAssetType:java.lang.String:page
+getParentContainer:com.hannonhill.cascade.model.dom.AssetFactoryContainer:06b5776fac16000262f5e6a112bfbdd7|Pages|SDS-VPAA-ASC-SDS-HALSTORE
+getParentContainer:com.hannonhill.cascade.model.dom.AssetFactoryContainer:06b5776fac16000262f5e6a112bfbdd7|Pages|SDS-VPAA-ASC-SDS-HALSTORE
+getAllowSubfolderPlacement:java.lang.Boolean:false
+getFolderPlacementPosition:java.lang.Long:0
+getOverwrite:java.lang.Boolean:false
+getWorkflowMode:java.lang.Integer:2
+getPath:java.lang.String:Pages/Program
+isCurrentVersion:java.lang.Boolean:true
+getName:java.lang.String:Program

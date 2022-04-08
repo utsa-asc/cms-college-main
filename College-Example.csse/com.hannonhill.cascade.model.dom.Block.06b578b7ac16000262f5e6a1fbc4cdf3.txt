@@ -1,0 +1,36 @@
+getAllStructuredData:org.hibernate.collection.PersistentSet:
+getIndexOtherInformationOptions:java.lang.Long:0
+getMaxRenderedEntities:java.lang.Integer:0
+getSortOption:java.lang.Long:1
+getSortOrder:com.hannonhill.cascade.model.compare.Order:DESCENDING
+getMaxResults:java.lang.Integer:0
+isUseDefaultStyle:java.lang.Boolean:false
+isExcludeJQuery:java.lang.Boolean:false
+getStructuredDataFields:org.hibernate.collection.PersistentSet:06b578b7ac16000262f5e6a1e117c083&|06b578b7ac16000262f5e6a18e66f972&|06b578b7ac16000262f5e6a1786d780a&|06b578b7ac16000262f5e6a113bc1f9a&|06b578b7ac16000262f5e6a163bc8d73&|06b578b7ac16000262f5e6a179a5e64e&|06b578b7ac16000262f5e6a1803a8893&|06b578b7ac16000262f5e6a13b4ef328&|06b578b7ac16000262f5e6a1b2297b10&|06b578b7ac16000262f5e6a1bb778c96&|06b578b7ac16000262f5e6a1af301091&|06b578b7ac16000262f5e6a14d69a2ef&|06b578b7ac16000262f5e6a1d88fd8ce&|06b578b7ac16000262f5e6a1725a0c58&|06b578b7ac16000262f5e6a1d1288da2&|06b578b7ac16000262f5e6a176214daf&|
+getBlockType:com.hannonhill.cascade.model.dom.BlockType:STRUCTUREDDATA
+isIncludePageXML:java.lang.Boolean:false
+getIndexAssetContentsOptions:java.lang.Long:0
+getIndexAssetTypesOptions:java.lang.Long:0
+getStructuredDataDefinition:com.hannonhill.cascade.model.dom.StructuredDataDefinition:06b37591ac16000262f5e6a16ebc6593|Page Config|College-PROTOTYPE
+getStructuredDataVersion:java.lang.Integer:3
+isExpirationNoticeSent:java.lang.Boolean:false
+isFirstExpirationWarningSent:java.lang.Boolean:false
+isSecondExpirationWarningSent:java.lang.Boolean:false
+getDisplayName:java.lang.String:
+isReviewOnSchedule:java.lang.Boolean:false
+getDescription:java.lang.String:
+getTitle:java.lang.String:
+getSummary:java.lang.String:
+getTeaser:java.lang.String:
+getKeywords:java.lang.String:
+getAuthor:java.lang.String:
+getMetadataSet:com.hannonhill.cascade.model.dom.MetadataSet:06b3705bac16000262f5e6a133831967|Page Config|College-PROTOTYPE
+getReviewEvery:java.lang.Integer:180
+getPath:java.lang.String:programs/_page-config
+getTags:org.hibernate.collection.PersistentSet:
+getParentFolder:com.hannonhill.cascade.model.dom.Folder:06b57caeac16000262f5e6a1cd7f9aae|programs|SDS-VPAA-ASC-SDS-HALSTORE
+getOwnerId:java.lang.String:rjq475
+getRelativeOrder:java.lang.Integer:2147450879
+getDynamicMetadataFields:org.hibernate.collection.PersistentSet:
+isCurrentVersion:java.lang.Boolean:true
+getName:java.lang.String:_page-config

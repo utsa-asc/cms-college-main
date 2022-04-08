@@ -1,0 +1,36 @@
+getAllStructuredData:org.hibernate.collection.PersistentSet:
+getIndexOtherInformationOptions:java.lang.Long:0
+getMaxRenderedEntities:java.lang.Integer:0
+getSortOption:java.lang.Long:1
+getSortOrder:com.hannonhill.cascade.model.compare.Order:DESCENDING
+getMaxResults:java.lang.Integer:0
+isUseDefaultStyle:java.lang.Boolean:false
+isExcludeJQuery:java.lang.Boolean:false
+getStructuredDataFields:org.hibernate.collection.PersistentSet:06b57995ac16000262f5e6a1c1bea1d3&|06b57995ac16000262f5e6a19fbd7774&|06b57995ac16000262f5e6a1bbef3a89&|06b57995ac16000262f5e6a1a5306bff&|06b57995ac16000262f5e6a14b1331cd&|06b57995ac16000262f5e6a19a7dd3dc&|06b57995ac16000262f5e6a16d175b33&|06b57995ac16000262f5e6a131bc4065&|06b57995ac16000262f5e6a19fdf589d&|06b57995ac16000262f5e6a19f78cd08&|06b57995ac16000262f5e6a149485e55&|06b57995ac16000262f5e6a183875a83&|06b57995ac16000262f5e6a1fb1a0315&|
+getBlockType:com.hannonhill.cascade.model.dom.BlockType:STRUCTUREDDATA
+isIncludePageXML:java.lang.Boolean:false
+getIndexAssetContentsOptions:java.lang.Long:0
+getIndexAssetTypesOptions:java.lang.Long:0
+getStructuredDataDefinition:com.hannonhill.cascade.model.dom.StructuredDataDefinition:06b37623ac16000262f5e6a14a9841f7|Components/CTA-Image|College-PROTOTYPE
+getStructuredDataVersion:java.lang.Integer:3
+isExpirationNoticeSent:java.lang.Boolean:false
+isFirstExpirationWarningSent:java.lang.Boolean:false
+isSecondExpirationWarningSent:java.lang.Boolean:false
+getDisplayName:java.lang.String:
+isReviewOnSchedule:java.lang.Boolean:false
+getDescription:java.lang.String:
+getTitle:java.lang.String:
+getSummary:java.lang.String:
+getTeaser:java.lang.String:
+getKeywords:java.lang.String:
+getAuthor:java.lang.String:
+getMetadataSet:com.hannonhill.cascade.model.dom.MetadataSet:06b3707bac16000262f5e6a13f01b1e1|Default|College-PROTOTYPE
+getReviewEvery:java.lang.Integer:180
+getPath:java.lang.String:_blocks/UTSA Generic CTA
+getTags:org.hibernate.collection.PersistentSet:
+getParentFolder:com.hannonhill.cascade.model.dom.Folder:06b57c70ac16000262f5e6a10b2c1b92|_blocks|SDS-VPAA-ASC-SDS-HALSTORE
+getOwnerId:java.lang.String:rjq475
+getRelativeOrder:java.lang.Integer:107374183
+getDynamicMetadataFields:org.hibernate.collection.PersistentSet:
+isCurrentVersion:java.lang.Boolean:true
+getName:java.lang.String:UTSA Generic CTA

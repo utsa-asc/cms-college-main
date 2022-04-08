@@ -1,0 +1,5 @@
+getText:java.lang.String:<h2>Other Notable Collaborations</h2>&n<ul>&n<li>UTSA and MITRE leveraged the national cyber security INSuRE program to establish a user acceptance testing framework for agile software development.<br/><br/></li>&n<li>The <a href="https://cias.utsa.edu/ctd.php">Cyber Threat Defender</a> K-12 program developed by UTSA&amp;amp;#8217;s Center for Infrastructure Assurance and Security (CIAS) was adopted by and being used by MITRE as a national STEM initiative. <a href="https://www.utsa.edu/today/2020/11/story/cias-k12-cybersecurity-program.html">Read more about this program on UTSA Today</a>.</li>&n</ul>
+getPosition:java.lang.String:7
+getOwnerEntity:com.hannonhill.cascade.model.dom.Page:06b57fb2ac16000262f5e6a186c23441
+getDefinitionFieldId:java.lang.String:c62bfb57c0a8005b520f17ce14eb5ece979de3c0c0a8005b2e79c159400cfcac
+getTextVersion:java.lang.Integer:2

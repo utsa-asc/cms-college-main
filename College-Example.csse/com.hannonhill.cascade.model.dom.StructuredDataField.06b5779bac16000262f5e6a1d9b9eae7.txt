@@ -1,0 +1,5 @@
+getText:java.lang.String:Admission Now
+getPosition:java.lang.String:4
+getOwnerEntity:com.hannonhill.cascade.model.dom.Block:06b5779bac16000262f5e6a14ff09958
+getDefinitionFieldId:java.lang.String:98694cbdc0a8005b2e79c159c677c304
+getTextVersion:java.lang.Integer:2

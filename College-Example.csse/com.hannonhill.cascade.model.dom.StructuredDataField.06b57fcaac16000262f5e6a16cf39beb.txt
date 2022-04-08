@@ -1,0 +1,6 @@
+getText:java.lang.String:
+getFile:com.hannonhill.cascade.model.dom.File:06b57c61ac16000262f5e6a19eaa3589|news/2022/images/sds-construction-jan-2022_680.png|SDS-VPAA-ASC-SDS-HALSTORE
+getPosition:java.lang.String:
+getOwnerEntity:com.hannonhill.cascade.model.dom.Page:06b57fcaac16000262f5e6a1334d3ae7
+getDefinitionFieldId:java.lang.String:8b9810f4ac16000262f5e6a1cef2196297ba0865c0a8005b2e79c159f0a9ed3d
+getTextVersion:java.lang.Integer:2

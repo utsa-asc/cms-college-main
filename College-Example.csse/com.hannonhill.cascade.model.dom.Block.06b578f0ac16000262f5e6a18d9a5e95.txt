@@ -1,0 +1,36 @@
+getAllStructuredData:org.hibernate.collection.PersistentSet:
+getIndexOtherInformationOptions:java.lang.Long:0
+getMaxRenderedEntities:java.lang.Integer:0
+getSortOption:java.lang.Long:1
+getSortOrder:com.hannonhill.cascade.model.compare.Order:DESCENDING
+getMaxResults:java.lang.Integer:0
+isUseDefaultStyle:java.lang.Boolean:false
+isExcludeJQuery:java.lang.Boolean:false
+getStructuredDataFields:org.hibernate.collection.PersistentSet:06b578f0ac16000262f5e6a180184893&|06b578f0ac16000262f5e6a15d7e1d1c&|06b578f0ac16000262f5e6a10830f125&|06b578f0ac16000262f5e6a125212422&|06b578f0ac16000262f5e6a184e4e26d&|06b578f0ac16000262f5e6a1419ab633&|06b578f0ac16000262f5e6a182703ee5&|06b578f0ac16000262f5e6a153666d14&|06b578f0ac16000262f5e6a1431a235d&|06b578f0ac16000262f5e6a1d95e6036&|06b578f0ac16000262f5e6a16819b0aa&|06b578f0ac16000262f5e6a14ac050fd&|06b578f0ac16000262f5e6a190b3dc29&|06b578f0ac16000262f5e6a1546cb8de&|06b578f0ac16000262f5e6a173d6388e&|06b578f0ac16000262f5e6a1d8900893&|06b578f0ac16000262f5e6a1525bc654&|06b578f0ac16000262f5e6a16073197f&|06b578f0ac16000262f5e6a1ef1696bd&|06b578f0ac16000262f5e6a121d9acd1&|06b578f0ac16000262f5e6a13e96f111&|06b578f0ac16000262f5e6a16bca7821&|06b578f0ac16000262f5e6a1afff15f6&|06b578f0ac16000262f5e6a1a0ab93e4&|06b578f0ac16000262f5e6a125547940&|06b578f0ac16000262f5e6a1c13504d7&|06b578f0ac16000262f5e6a1b2ba1569&|06b578f0ac16000262f5e6a14e8339e7&|06b578f0ac16000262f5e6a18326a575&|06b578f0ac16000262f5e6a112da55a3&|06b578f0ac16000262f5e6a14eb854fc&|06b578f0ac16000262f5e6a1eae071db&|06b578f0ac16000262f5e6a1054cafe7&|06b578f0ac16000262f5e6a10b6611ad&|
+getBlockType:com.hannonhill.cascade.model.dom.BlockType:STRUCTUREDDATA
+isIncludePageXML:java.lang.Boolean:false
+getIndexAssetContentsOptions:java.lang.Long:0
+getIndexAssetTypesOptions:java.lang.Long:0
+getStructuredDataDefinition:com.hannonhill.cascade.model.dom.StructuredDataDefinition:06b37591ac16000262f5e6a16ebc6593|Page Config|College-PROTOTYPE
+getStructuredDataVersion:java.lang.Integer:3
+isExpirationNoticeSent:java.lang.Boolean:false
+isFirstExpirationWarningSent:java.lang.Boolean:false
+isSecondExpirationWarningSent:java.lang.Boolean:false
+getDisplayName:java.lang.String:
+isReviewOnSchedule:java.lang.Boolean:false
+getDescription:java.lang.String:
+getTitle:java.lang.String:
+getSummary:java.lang.String:
+getTeaser:java.lang.String:
+getKeywords:java.lang.String:
+getAuthor:java.lang.String:
+getMetadataSet:com.hannonhill.cascade.model.dom.MetadataSet:06b3705bac16000262f5e6a133831967|Page Config|College-PROTOTYPE
+getReviewEvery:java.lang.Integer:180
+getPath:java.lang.String:news/_page-config
+getTags:org.hibernate.collection.PersistentSet:
+getParentFolder:com.hannonhill.cascade.model.dom.Folder:06b57cbfac16000262f5e6a161eb16ed|news|SDS-VPAA-ASC-SDS-HALSTORE
+getOwnerId:java.lang.String:rjq475
+getRelativeOrder:java.lang.Integer:2147418111
+getDynamicMetadataFields:org.hibernate.collection.PersistentSet:
+isCurrentVersion:java.lang.Boolean:true
+getName:java.lang.String:_page-config

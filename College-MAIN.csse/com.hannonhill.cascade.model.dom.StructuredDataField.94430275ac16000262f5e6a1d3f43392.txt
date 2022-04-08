@@ -1,0 +1,5 @@
+getText:java.lang.String:Reach out today to find out more about our programs
+getPosition:java.lang.String:
+getOwnerEntity:com.hannonhill.cascade.model.dom.Block:9441d5d9ac16000262f5e6a10a8dfcf3
+getDefinitionFieldId:java.lang.String:1efcf18ec0a8005f5e2396ff2076d152
+getTextVersion:java.lang.Integer:2

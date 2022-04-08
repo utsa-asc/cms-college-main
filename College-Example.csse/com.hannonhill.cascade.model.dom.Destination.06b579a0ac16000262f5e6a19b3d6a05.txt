@@ -1,0 +1,13 @@
+isEnabled:java.lang.Boolean:true
+getDirectory:java.lang.String:sdstest
+getTransport:com.hannonhill.cascade.model.dom.FileSystemTransport:3c39bf5dac1600066191d76490ab2af2|HALSTORE|UTSA-WWWROOT
+getParentContainer:com.hannonhill.cascade.model.dom.SiteDestinationContainer:06b57654ac16000262f5e6a12049dc20|/|SDS-VPAA-ASC-SDS-HALSTORE
+getParentContainer:com.hannonhill.cascade.model.dom.SiteDestinationContainer:06b57654ac16000262f5e6a12049dc20|/|SDS-VPAA-ASC-SDS-HALSTORE
+isConvertTextTo7Bit:java.lang.Boolean:false
+getPublishingBaseURL:java.lang.String:
+isCheckedByDefault:java.lang.Boolean:true
+getExtensionsToStrip:java.lang.String:
+getUsesScheduledPublishing:java.lang.Boolean:false
+getPath:java.lang.String:sdstest-HALSTORE
+isCurrentVersion:java.lang.Boolean:true
+getName:java.lang.String:sdstest-HALSTORE

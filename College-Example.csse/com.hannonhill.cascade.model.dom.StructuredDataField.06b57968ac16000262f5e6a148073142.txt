@@ -1,0 +1,5 @@
+getText:java.lang.String:The community at MITRE is absolutely inspiring and introduced me to boundless opportunities as a student. 
+getPosition:java.lang.String:
+getOwnerEntity:com.hannonhill.cascade.model.dom.Block:06b57968ac16000262f5e6a14f812797
+getDefinitionFieldId:java.lang.String:97b7bda5c0a8005b2e79c1596ccccf13
+getTextVersion:java.lang.Integer:2

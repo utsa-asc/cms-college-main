@@ -1,0 +1,6 @@
+getText:java.lang.String:
+getFile:com.hannonhill.cascade.model.dom.File:06b36bbfac16000262f5e6a1a5928d40|college-dls/college/images/video-poster.png|College-PROTOTYPE
+getPosition:java.lang.String:1
+getOwnerEntity:com.hannonhill.cascade.model.dom.Page:06b57defac16000262f5e6a1662a3bf1
+getDefinitionFieldId:java.lang.String:5566661bac16000668ed23354446e557571a056aac16000668ed2335423500db
+getTextVersion:java.lang.Integer:2

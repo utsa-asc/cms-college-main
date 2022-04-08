@@ -1,0 +1,3 @@
+getPath:java.lang.String:test
+getXml:java.lang.String:<?xml version="1.0" encoding="UTF-8"?>&r&n<system-data-structure>&r&n  <text field-id="e0560abfac160006091bd4d2ab8c49d0" identifier="text1" />&r&n  &r&n  		&r&n&r&n</system-data-structure>&r&n
+getSiteName:java.lang.String:College-MAIN

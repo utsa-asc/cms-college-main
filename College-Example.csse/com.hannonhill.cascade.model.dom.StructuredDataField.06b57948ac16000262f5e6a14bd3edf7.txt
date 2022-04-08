@@ -1,0 +1,5 @@
+getText:java.lang.String:The Gen AI program at UTSA has given me the opportunity to share with my students some tools that might give them an edge when joining the workforce.
+getPosition:java.lang.String:
+getOwnerEntity:com.hannonhill.cascade.model.dom.Block:06b57948ac16000262f5e6a1b668accc
+getDefinitionFieldId:java.lang.String:97b7bda5c0a8005b2e79c1596ccccf13
+getTextVersion:java.lang.Integer:2

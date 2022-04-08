@@ -1,0 +1,5 @@
+getText:java.lang.String:https://www.utsa.edu/visit
+getPosition:java.lang.String:2
+getOwnerEntity:com.hannonhill.cascade.model.dom.Block:9441d5d9ac16000262f5e6a10a8dfcf3
+getDefinitionFieldId:java.lang.String:97b7bda5c0a8005b2e79c159ca3bc57881c60f08ac1e00a1403ca41f5827e337
+getTextVersion:java.lang.Integer:2

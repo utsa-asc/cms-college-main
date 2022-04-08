@@ -1,0 +1,6 @@
+getText:java.lang.String:
+getPosition:java.lang.String:
+getOwnerEntity:com.hannonhill.cascade.model.dom.Block:06b5788eac16000262f5e6a12f248d86
+getPage:com.hannonhill.cascade.model.dom.Page:06b3730eac16000262f5e6a15c0b414c|news/2022/index|College-PROTOTYPE
+getDefinitionFieldId:java.lang.String:aa3ae6b0ac16000262f5e6a198aeb28b81c60f08ac1e00a1403ca41fcd7ccdf6
+getTextVersion:java.lang.Integer:2

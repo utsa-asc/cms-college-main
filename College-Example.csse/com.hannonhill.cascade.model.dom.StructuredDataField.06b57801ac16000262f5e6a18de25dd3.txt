@@ -1,0 +1,5 @@
+getText:java.lang.String:News &amp; Events
+getPosition:java.lang.String:4
+getOwnerEntity:com.hannonhill.cascade.model.dom.Block:06b57801ac16000262f5e6a1a99f8014
+getDefinitionFieldId:java.lang.String:ae83bc27c0a8005b520f17ce1c086b82
+getTextVersion:java.lang.Integer:2

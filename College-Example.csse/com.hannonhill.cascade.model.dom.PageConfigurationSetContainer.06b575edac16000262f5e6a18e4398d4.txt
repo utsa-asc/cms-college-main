@@ -1,0 +1,5 @@
+isRoot:java.lang.Boolean:true
+getName:java.lang.String:Configurations
+getPath:java.lang.String:/
+getPermissions:com.hannonhill.cascade.model.dom.Permissions:06b575edac16000262f5e6a141f130fa
+isCurrentVersion:java.lang.Boolean:true

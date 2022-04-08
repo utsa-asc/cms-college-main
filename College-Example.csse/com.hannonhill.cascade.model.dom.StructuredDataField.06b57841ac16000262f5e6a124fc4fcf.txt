@@ -1,0 +1,5 @@
+getText:java.lang.String:Flank venison filet mignon
+getPosition:java.lang.String:
+getOwnerEntity:com.hannonhill.cascade.model.dom.Block:06b57840ac16000262f5e6a12761862d
+getDefinitionFieldId:java.lang.String:1efcf18ec0a8005f5e2396ff2076d152
+getTextVersion:java.lang.Integer:2

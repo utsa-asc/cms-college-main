@@ -1,0 +1,9 @@
+getTemplateContent:com.hannonhill.cascade.model.dom.BlobEntity:8f2eac87ac16000262f5e6a1f16e3f73
+getPath:java.lang.String:_cms/formats/components/blockquote
+getTags:org.hibernate.collection.PersistentSet:
+getParentFolder:com.hannonhill.cascade.model.dom.Folder:7c51d56aac1600051ca008f9d49376be|_cms/formats/components|College-MAIN
+getOwnerId:java.lang.String:admin
+getRelativeOrder:java.lang.Integer:2021161072
+getDynamicMetadataFields:org.hibernate.collection.PersistentSet:
+isCurrentVersion:java.lang.Boolean:true
+getName:java.lang.String:blockquote

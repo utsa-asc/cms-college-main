@@ -1,0 +1,5 @@
+getText:java.lang.String:As a result of the partnership, MITRE developed a summer internship program and began recruiting UTSA students for what has become a prestigious, highly sought-after and rewarding opportunity. In Summer 2019, MITRE hired two UTSA interns, one of which was David Akusu, who ended up continuing as a year-long intern. The other summer intern, Michael King, was offered a full-time position with MITRE after he graduated from UTSA in December.
+getPosition:java.lang.String:
+getOwnerEntity:com.hannonhill.cascade.model.dom.Block:06b57956ac16000262f5e6a1978a4f39
+getDefinitionFieldId:java.lang.String:97b7bda5c0a8005b2e79c1596ccccf13
+getTextVersion:java.lang.Integer:2

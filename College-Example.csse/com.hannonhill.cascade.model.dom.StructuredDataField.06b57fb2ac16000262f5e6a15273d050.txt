@@ -1,0 +1,5 @@
+getText:java.lang.String:<h2 class="">Paid Internships: UTSA students working for MITRE</h2>&n<p>As a result of the partnership, MITRE developed a summer internship program and began recruiting UTSA students for what has become a prestigious, highly sought-after and rewarding opportunity. In Summer 2019, MITRE hired two UTSA interns, one of which was <strong>David Akusu</strong>, who ended up continuing as a year-long intern. The other summer intern, <strong>Michael King</strong>, was offered a full-time position with MITRE after he graduated from UTSA in December.</p>
+getPosition:java.lang.String:3
+getOwnerEntity:com.hannonhill.cascade.model.dom.Page:06b57fb2ac16000262f5e6a186c23441
+getDefinitionFieldId:java.lang.String:c62bfb57c0a8005b520f17ce14eb5ece979de3c0c0a8005b2e79c159400cfcac
+getTextVersion:java.lang.Integer:2

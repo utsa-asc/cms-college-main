@@ -1,0 +1,5 @@
+getText:java.lang.String:Test Link Caption
+getPosition:java.lang.String:
+getOwnerEntity:com.hannonhill.cascade.model.dom.Page:06b57e72ac16000262f5e6a126fe5dc5
+getDefinitionFieldId:java.lang.String:89fb00d5ac16000262f5e6a11b66dc56
+getTextVersion:java.lang.Integer:2

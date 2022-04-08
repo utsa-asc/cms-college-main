@@ -1,0 +1,36 @@
+getAllStructuredData:org.hibernate.collection.PersistentSet:
+getIndexOtherInformationOptions:java.lang.Long:0
+getMaxRenderedEntities:java.lang.Integer:0
+getSortOption:java.lang.Long:1
+getSortOrder:com.hannonhill.cascade.model.compare.Order:DESCENDING
+getMaxResults:java.lang.Integer:0
+isUseDefaultStyle:java.lang.Boolean:false
+isExcludeJQuery:java.lang.Boolean:false
+getStructuredDataFields:org.hibernate.collection.PersistentSet:06b578c9ac16000262f5e6a1ef93779e&|06b578c9ac16000262f5e6a1371deb18&|06b578c9ac16000262f5e6a19331a773&|06b578c9ac16000262f5e6a1cd2a8209&|06b578c9ac16000262f5e6a1f52a20f9&|06b578c9ac16000262f5e6a1eae0efad&|06b578c9ac16000262f5e6a17a64aa3b&|06b578c9ac16000262f5e6a18c77d755&|06b578c9ac16000262f5e6a1905b82a7&|06b578c9ac16000262f5e6a164391943&|06b578c9ac16000262f5e6a120ba2b13&|06b578c9ac16000262f5e6a128344d1c&|06b578c9ac16000262f5e6a1455243b4&|06b578c9ac16000262f5e6a12a8b81cf&|06b578c9ac16000262f5e6a1106e85f3&|06b578c9ac16000262f5e6a1bd1057f3&|06b578c9ac16000262f5e6a176c5c4d6&|06b578c9ac16000262f5e6a11a435546&|06b578c9ac16000262f5e6a18903d530&|06b578c9ac16000262f5e6a19e82c806&|06b578c9ac16000262f5e6a15010cf36&|06b578c9ac16000262f5e6a180adfbe7&|06b578c9ac16000262f5e6a1acdd9cd9&|06b578c9ac16000262f5e6a1c3e63d9a&|06b578c9ac16000262f5e6a1d51faa01&|06b578c9ac16000262f5e6a1a3966124&|06b578c9ac16000262f5e6a11e1b8d1a&|06b578c9ac16000262f5e6a17a18af22&|06b578c9ac16000262f5e6a113457059&|
+getBlockType:com.hannonhill.cascade.model.dom.BlockType:STRUCTUREDDATA
+isIncludePageXML:java.lang.Boolean:false
+getIndexAssetContentsOptions:java.lang.Long:0
+getIndexAssetTypesOptions:java.lang.Long:0
+getStructuredDataDefinition:com.hannonhill.cascade.model.dom.StructuredDataDefinition:06b37591ac16000262f5e6a16ebc6593|Page Config|College-PROTOTYPE
+getStructuredDataVersion:java.lang.Integer:3
+isExpirationNoticeSent:java.lang.Boolean:false
+isFirstExpirationWarningSent:java.lang.Boolean:false
+isSecondExpirationWarningSent:java.lang.Boolean:false
+getDisplayName:java.lang.String:
+isReviewOnSchedule:java.lang.Boolean:false
+getDescription:java.lang.String:
+getTitle:java.lang.String:
+getSummary:java.lang.String:
+getTeaser:java.lang.String:
+getKeywords:java.lang.String:
+getAuthor:java.lang.String:
+getMetadataSet:com.hannonhill.cascade.model.dom.MetadataSet:06b3705bac16000262f5e6a133831967|Page Config|College-PROTOTYPE
+getReviewEvery:java.lang.Integer:180
+getPath:java.lang.String:about/_page-config
+getTags:org.hibernate.collection.PersistentSet:
+getParentFolder:com.hannonhill.cascade.model.dom.Folder:06b57d83ac16000262f5e6a19a1f1084|about|SDS-VPAA-ASC-SDS-HALSTORE
+getOwnerId:java.lang.String:rjq475
+getRelativeOrder:java.lang.Integer:2147352575
+getDynamicMetadataFields:org.hibernate.collection.PersistentSet:
+isCurrentVersion:java.lang.Boolean:true
+getName:java.lang.String:_page-config

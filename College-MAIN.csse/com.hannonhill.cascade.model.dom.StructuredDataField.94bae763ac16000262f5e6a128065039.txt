@@ -1,0 +1,5 @@
+getText:java.lang.String:bannerBlue
+getPosition:java.lang.String:1
+getOwnerEntity:com.hannonhill.cascade.model.dom.Page:518991eeac16000668ed233553fc6ae9
+getDefinitionFieldId:java.lang.String:5566661bac16000668ed23354446e557979de3c0c0a8005b2e79c1597d77cc0a
+getTextVersion:java.lang.Integer:2

@@ -1,0 +1,5 @@
+getText:java.lang.String:orange-bg
+getPosition:java.lang.String:3
+getOwnerEntity:com.hannonhill.cascade.model.dom.Page:06b57f4dac16000262f5e6a1c00e3b53
+getDefinitionFieldId:java.lang.String:c62bfb57c0a8005b520f17ce14eb5ecee039073aac160006091bd4d2b97ff7ee
+getTextVersion:java.lang.Integer:2

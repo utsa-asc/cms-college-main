@@ -1,0 +1,26 @@
+getRoles:org.hibernate.collection.PersistentSet:8|Site Administrator|null&|
+getUrl:java.lang.String:https://sdstest.utsa.edu
+getRoleUserSites:org.hibernate.collection.PersistentSet:
+getRoleGroupSites:org.hibernate.collection.PersistentSet:
+getLinkRewriting:com.hannonhill.cascade.model.dom.LinkRewriting:ABSOLUTE
+getBaseAssetFactoryContainer:com.hannonhill.cascade.model.dom.AssetFactoryContainer:06b57761ac16000262f5e6a1432061f7|Default|SDS-VPAA-ASC-SDS-HALSTORE
+getUsesScheduledPublishing:java.lang.Boolean:false
+getScheduledPublishDestinations:org.hibernate.collection.PersistentSet:
+getDefaultMetadataSet:com.hannonhill.cascade.model.dom.MetadataSet:06b57da5ac16000262f5e6a15c6b7c2e|Default|SDS-VPAA-ASC-SDS-HALSTORE
+getSiteImproveUrl:java.lang.String:
+getRecycleBinExpiration:java.lang.Integer:15
+isLinkCheckerEnabled:java.lang.Boolean:false
+isExternalLinkCheckOnPublish:java.lang.Boolean:false
+isInheritDataChecksEnabled:java.lang.Boolean:false
+isLinkCheckEnabled:java.lang.Boolean:false
+isAccessibilityCheckEnabled:java.lang.Boolean:false
+isSpellCheckEnabled:java.lang.Boolean:false
+isWidenDamIntegrationEnabled:java.lang.Boolean:false
+isWebdamDamIntegrationEnabled:java.lang.Boolean:false
+isAccessibilityCheckerEnabled:java.lang.Boolean:false
+isSiteImproveIntegrationEnabled:java.lang.Boolean:false
+isInheritNamingRules:java.lang.Boolean:true
+isPublishAllDestinations:java.lang.Boolean:true
+getPermissions:com.hannonhill.cascade.model.dom.Permissions:06b575bbac16000262f5e6a1b349c41b
+isCurrentVersion:java.lang.Boolean:true
+getName:java.lang.String:SDS-VPAA-ASC-SDS-HALSTORE

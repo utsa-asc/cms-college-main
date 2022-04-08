@@ -1,0 +1,5 @@
+getText:java.lang.String:Tenderloin jowl pancetta chicken
+getPosition:java.lang.String:
+getOwnerEntity:com.hannonhill.cascade.model.dom.Block:7c51ca37ac1600051ca008f9d4ee5dcf
+getDefinitionFieldId:java.lang.String:1efcf18ec0a8005f5e2396ff2076d152
+getTextVersion:java.lang.Integer:2

@@ -1,0 +1,3 @@
+getPath:java.lang.String:Components/Blockquote
+getXml:java.lang.String:<?xml version="1.0" encoding="UTF-8"?>&r&n<system-data-structure>&r&n	<text field-id="97b7bda5c0a8005b2e79c1596ccccf13" identifier="text" label="Quote" required="true" />&r&n	<text field-id="8f28a7e2ac16000262f5e6a19d4ba6e7" identifier="source" label="Source Name" required="true" />&r&n	<text field-id="8f28a7e2ac16000262f5e6a1e506cf43" identifier="title" label="Source Title" required="true" />&r&n</system-data-structure>&r&n
+getSiteName:java.lang.String:College-PROTOTYPE

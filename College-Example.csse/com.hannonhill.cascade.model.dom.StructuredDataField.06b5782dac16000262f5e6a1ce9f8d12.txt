@@ -1,0 +1,5 @@
+getText:java.lang.String:Beef filet mignon swine
+getPosition:java.lang.String:1
+getOwnerEntity:com.hannonhill.cascade.model.dom.Block:06b5782dac16000262f5e6a117df6002
+getDefinitionFieldId:java.lang.String:97b7bda5c0a8005b2e79c159ca3bc57881c60f08ac1e00a1403ca41f2a49371e
+getTextVersion:java.lang.Integer:2

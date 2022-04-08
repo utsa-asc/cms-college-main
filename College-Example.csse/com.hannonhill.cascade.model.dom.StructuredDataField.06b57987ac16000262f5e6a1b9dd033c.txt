@@ -1,0 +1,5 @@
+getText:java.lang.String:UTSA is building the best data science program in the world. It will train the smartest students in the field and make them the hottest commodities in the workforce.
+getPosition:java.lang.String:
+getOwnerEntity:com.hannonhill.cascade.model.dom.Block:06b57987ac16000262f5e6a19abeceba
+getDefinitionFieldId:java.lang.String:97b7bda5c0a8005b2e79c1596ccccf13
+getTextVersion:java.lang.Integer:2

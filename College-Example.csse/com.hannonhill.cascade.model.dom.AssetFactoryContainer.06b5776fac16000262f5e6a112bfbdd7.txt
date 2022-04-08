@@ -1,0 +1,8 @@
+getDescription:java.lang.String:
+getGroups:java.lang.String:Advanced Velocity
+getParentContainer:com.hannonhill.cascade.model.dom.AssetFactoryContainer:06b575e5ac16000262f5e6a1024bb813|/|SDS-VPAA-ASC-SDS-HALSTORE
+getParentContainer:com.hannonhill.cascade.model.dom.AssetFactoryContainer:06b575e5ac16000262f5e6a1024bb813|/|SDS-VPAA-ASC-SDS-HALSTORE
+isRoot:java.lang.Boolean:false
+getName:java.lang.String:Pages
+getPath:java.lang.String:Pages
+isCurrentVersion:java.lang.Boolean:true

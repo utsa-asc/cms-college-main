@@ -1,0 +1,5 @@
+getText:java.lang.String:Venison picanha strip steak leberkas, ham hock shankle
+getPosition:java.lang.String:
+getOwnerEntity:com.hannonhill.cascade.model.dom.Block:06b57861ac16000262f5e6a11f0272d2
+getDefinitionFieldId:java.lang.String:97b7bda5c0a8005b2e79c1596ccccf13
+getTextVersion:java.lang.Integer:2

@@ -1,0 +1,12 @@
+getGroups:java.lang.String:VPAA-ASC-SDS-PROVWEB;VPAA-ASC
+getPlugins:org.hibernate.collection.PersistentSet:
+getAssetType:java.lang.String:file
+getParentContainer:com.hannonhill.cascade.model.dom.AssetFactoryContainer:06b57761ac16000262f5e6a1432061f7|Default|SDS-VPAA-ASC-SDS-HALSTORE
+getParentContainer:com.hannonhill.cascade.model.dom.AssetFactoryContainer:06b57761ac16000262f5e6a1432061f7|Default|SDS-VPAA-ASC-SDS-HALSTORE
+getAllowSubfolderPlacement:java.lang.Boolean:false
+getFolderPlacementPosition:java.lang.Long:0
+getOverwrite:java.lang.Boolean:false
+getWorkflowMode:java.lang.Integer:3
+getPath:java.lang.String:Default/File
+isCurrentVersion:java.lang.Boolean:true
+getName:java.lang.String:File

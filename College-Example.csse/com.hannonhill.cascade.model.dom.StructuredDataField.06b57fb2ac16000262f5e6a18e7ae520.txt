@@ -1,0 +1,5 @@
+getText:java.lang.String:<h2 class="">Hands-On Experience: Developing platform frameworks</h2>&n<p>UTSA students from the Honors College, College of Engineering and College of Sciences will be gaining hands-on experience assisting the Defense Health Agency (DHA) with the integration of their Service Now customer, IT and employee workflow platform. Our students will be writing portal script to customize the platform specific to the DHA&amp;amp;#8217;s needs. &amp;amp;#160;</p>&n<p>Additionally, our students will work closely with School of Data Science faculty to develop a platform framework &amp;amp;#8211; essentially a web-based knowledge management system &amp;amp;#8211; that holds information and makes it accessible and searchable. Similar to any large customer relationship management system, the platform will be used by the NSCC to store and recall cyber-related data.</p>
+getPosition:java.lang.String:5
+getOwnerEntity:com.hannonhill.cascade.model.dom.Page:06b57fb2ac16000262f5e6a186c23441
+getDefinitionFieldId:java.lang.String:c62bfb57c0a8005b520f17ce14eb5ece979de3c0c0a8005b2e79c159400cfcac
+getTextVersion:java.lang.Integer:2

@@ -1,0 +1,6 @@
+getText:java.lang.String:
+getFile:com.hannonhill.cascade.model.dom.File:4f20cbf1ac16000600f8e2ca91e2022f|college-dls/college/images/college-logo.png|College-MAIN
+getPosition:java.lang.String:
+getOwnerEntity:com.hannonhill.cascade.model.dom.Block:7c51c9caac1600051ca008f9458581ad
+getDefinitionFieldId:java.lang.String:ae83bc27c0a8005b520f17cea0e3359497ba0865c0a8005b2e79c159f0a9ed3d
+getTextVersion:java.lang.Integer:2

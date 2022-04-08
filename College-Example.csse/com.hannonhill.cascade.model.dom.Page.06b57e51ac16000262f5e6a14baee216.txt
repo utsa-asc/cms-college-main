@@ -1,0 +1,33 @@
+getContentType:com.hannonhill.cascade.model.dom.ContentType:06b3672dac16000262f5e6a133e88644|Blog|College-PROTOTYPE
+getPageConfigurations:org.hibernate.collection.PersistentSet:
+getPageConfigurationSet:com.hannonhill.cascade.model.dom.PageConfigurationSet:06b37489ac16000262f5e6a1543a5fd0|Blog|College-PROTOTYPE
+getAllStructuredData:org.hibernate.collection.PersistentSet:
+getStructuredDataFields:org.hibernate.collection.PersistentSet:06b57e51ac16000262f5e6a140e7bad2&|06b57e51ac16000262f5e6a156d1ba96&|06b57e51ac16000262f5e6a1800c2e8f&|06b57e51ac16000262f5e6a120505a7d&|06b57e51ac16000262f5e6a1a6b6ce6b&|06b57e51ac16000262f5e6a1dee8ba2d&|06b57e51ac16000262f5e6a1fe9669f8&|06b57e51ac16000262f5e6a13d2667a0&|06b57e51ac16000262f5e6a1590610e6&|06b57e51ac16000262f5e6a142005123&|06b57e51ac16000262f5e6a1c5326e7e&|06b57e51ac16000262f5e6a112a4ae98&|06b57e51ac16000262f5e6a1cd6ba05b&|06b57e51ac16000262f5e6a12be5efa2&|
+getStructuredDataDefinition:com.hannonhill.cascade.model.dom.StructuredDataDefinition:06b375f4ac16000262f5e6a1a37f90b4|Pages/Blog|College-PROTOTYPE
+getMetadataSet:com.hannonhill.cascade.model.dom.MetadataSet:06b37081ac16000262f5e6a1898ca425|Blog|College-PROTOTYPE
+getLinkRewriting:com.hannonhill.cascade.model.dom.LinkRewriting:INHERIT
+getStructuredDataVersion:java.lang.Integer:3
+isPublishAllDestinations:java.lang.Boolean:false
+isShouldBeIndexed:java.lang.Boolean:true
+isShouldBePublished:java.lang.Boolean:true
+isExpirationNoticeSent:java.lang.Boolean:false
+isFirstExpirationWarningSent:java.lang.Boolean:false
+isSecondExpirationWarningSent:java.lang.Boolean:false
+getDisplayName:java.lang.String:
+isReviewOnSchedule:java.lang.Boolean:false
+getDescription:java.lang.String:
+getTitle:java.lang.String:Test Blog Page
+getSummary:java.lang.String:
+getTeaser:java.lang.String:Brisket pork chop meatball, pork loin andouille boudin landjaeger porchetta salami capicola. Landjaeger porchetta filet mignon tenderloin tail. Turkey t-bone filet mignon bresaola, sausage shankle hamburger pork loin corned beef. Kielbasa ham hock tenderloin doner turducken. Brisket pork chop meatball.
+getKeywords:java.lang.String:
+getAuthor:java.lang.String:Jane Doe
+getStartDate:java.lang.Long:1646870400000
+getReviewEvery:java.lang.Integer:180
+getPath:java.lang.String:news/2022/03/01-test-blog
+getTags:org.hibernate.collection.PersistentSet:
+getParentFolder:com.hannonhill.cascade.model.dom.Folder:06b57ce9ac16000262f5e6a1ef5ea327|news/2022/03|SDS-VPAA-ASC-SDS-HALSTORE
+getOwnerId:java.lang.String:rjq475
+getRelativeOrder:java.lang.Integer:1075419545
+getDynamicMetadataFields:org.hibernate.collection.PersistentSet:
+isCurrentVersion:java.lang.Boolean:true
+getName:java.lang.String:01-test-blog

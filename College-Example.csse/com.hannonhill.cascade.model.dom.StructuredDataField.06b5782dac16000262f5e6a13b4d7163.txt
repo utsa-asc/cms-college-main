@@ -1,0 +1,5 @@
+getText:java.lang.String:Short loin doner ball tip, pig beef ribs. Short loin doner ball tip, pig beef ribs
+getPosition:java.lang.String:
+getOwnerEntity:com.hannonhill.cascade.model.dom.Block:06b5782dac16000262f5e6a117df6002
+getDefinitionFieldId:java.lang.String:97b7bda5c0a8005b2e79c1596ccccf13
+getTextVersion:java.lang.Integer:2
